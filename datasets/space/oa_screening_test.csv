@@ -1,0 +1,1802 @@
+screening_id,age,sex,joint_site,occupation_type,district,preferred_language,prior_joint_injury,activity_load_score,pain_score,stiffness_score,mobility_limit_score,walking_difficulty_score,gait_asymmetry_score,posture_score,movement_confidence,symptom_duration_months,difficulty_stairs_score,oa_risk_label,synthetic_severity
+SYN-006010,77,male,knee,office,Assam,as,1,3.71,4.86,6.46,4.76,8.77,5.91,2.56,0.57,13.0,2.81,0,moderate
+SYN-002619,52,female,hip,farmer,Sikkim,as,0,3.5,2.99,3.04,1.77,4.28,2.77,2.99,0.348,11.0,0.52,0,mild
+SYN-011026,51,female,knee,farmer,Nagaland,en,0,6.51,7.53,8.71,7.26,10.0,8.72,4.63,0.478,10.0,6.31,1,high
+SYN-002787,45,female,hand,farmer,Mizoram,as,0,4.32,4.42,5.78,4.0,7.43,4.14,2.37,0.446,10.0,1.03,0,moderate
+SYN-001451,37,female,knee,household,Mizoram,en,0,6.07,7.29,7.95,5.0,8.62,6.52,4.17,0.534,16.0,4.7,0,high
+SYN-000389,77,male,knee,household,Tripura,en,0,1.82,6.59,7.29,7.15,9.3,5.79,4.58,0.33,24.0,,1,high
+SYN-008506,37,male,other,construction,Assam,hi,0,2.38,0.0,0.79,0.0,0.8,0.62,,0.504,2.0,0.0,0,none
+SYN-006156,33,female,knee,other,Tripura,en,0,1.63,3.36,4.31,4.73,6.11,,2.02,0.995,6.0,,0,mild
+SYN-002927,30,male,hand,other,Sikkim,as,0,5.85,2.13,2.26,1.98,5.62,3.8,2.08,0.447,4.0,0.62,0,mild
+SYN-010473,37,female,knee,farmer,Tripura,en,0,5.05,1.85,3.03,2.79,3.85,2.68,4.27,0.59,5.0,1.2,0,mild
+SYN-008041,47,female,hip,transport,Mizoram,en,0,5.38,0.0,1.76,0.0,0.96,1.89,1.85,0.452,2.0,0.0,0,none
+SYN-001629,88,female,knee,construction,Arunachal Pradesh,as,0,6.41,10.0,10.0,10.0,10.0,10.0,5.69,0.505,33.0,5.95,1,high
+SYN-007983,62,male,hip,household,Meghalaya,as,0,6.64,2.82,3.17,4.53,5.98,5.44,1.88,0.466,12.0,3.91,0,mild
+SYN-000863,57,male,hand,construction,Sikkim,en,0,6.56,9.04,10.0,8.83,10.0,8.58,,0.793,17.0,3.44,1,high
+SYN-006606,53,female,knee,household,Mizoram,bn,1,9.31,10.0,10.0,10.0,10.0,7.63,7.76,0.536,13.0,5.9,1,high
+SYN-005027,66,female,knee,office,Manipur,as,0,4.14,3.33,2.71,4.25,6.16,4.51,1.89,0.673,16.0,1.49,0,mild
+SYN-002659,42,female,knee,household,Arunachal Pradesh,as,0,8.22,9.88,9.88,7.27,10.0,8.85,5.03,0.64,22.0,3.37,1,high
+SYN-005456,39,female,knee,office,Tripura,en,0,4.12,5.71,6.17,5.41,8.52,4.85,2.99,0.598,14.0,2.79,0,moderate
+SYN-007632,56,female,knee,office,Tripura,hi,0,3.41,0.96,0.0,0.8,0.56,2.88,2.45,0.378,8.0,1.22,0,none
+SYN-005932,31,female,knee,farmer,Tripura,bn,0,5.31,4.23,4.24,4.79,7.16,3.87,1.48,0.463,6.0,3.1,0,mild
+SYN-003030,35,male,hip,office,Assam,as,0,5.54,0.13,1.23,0.0,0.0,,0.53,0.578,2.0,1.62,0,none
+SYN-004990,52,male,knee,household,Arunachal Pradesh,as,0,4.41,1.91,2.93,1.44,2.61,5.23,2.42,0.446,4.0,1.37,0,mild
+SYN-010849,45,female,knee,farmer,Arunachal Pradesh,as,0,6.93,7.41,9.85,9.0,10.0,8.99,4.49,0.612,12.0,5.95,1,high
+SYN-003417,52,male,knee,other,Nagaland,hi,0,8.17,4.1,6.21,6.99,8.27,8.42,3.24,0.388,11.0,3.9,1,high
+SYN-009157,59,female,hand,household,Nagaland,as,0,1.99,4.21,7.27,6.59,9.62,8.45,2.95,0.586,5.0,3.48,0,high
+SYN-011650,61,female,other,other,Assam,bn,0,2.04,7.03,7.6,8.65,10.0,8.89,2.58,0.368,15.0,4.33,1,high
+SYN-000037,66,male,knee,office,Manipur,bn,0,5.11,6.17,9.41,8.63,10.0,8.98,4.85,0.427,13.0,4.42,1,high
+SYN-002631,40,male,hand,transport,Arunachal Pradesh,en,0,4.95,0.0,0.0,1.76,2.77,2.18,1.83,0.599,5.0,0.0,0,none
+SYN-010666,52,male,knee,construction,Assam,as,0,4.56,2.58,0.85,1.99,4.52,,3.18,0.572,8.0,3.68,0,none
+SYN-006610,66,female,other,office,Nagaland,bn,1,3.75,10.0,10.0,10.0,10.0,9.81,6.16,0.732,,3.64,1,high
+SYN-007184,27,male,knee,farmer,Meghalaya,hi,1,3.8,7.7,10.0,10.0,10.0,9.36,5.38,0.34,11.0,4.8,1,high
+SYN-010092,62,female,knee,office,Tripura,en,0,5.57,5.7,8.47,7.88,10.0,6.72,5.89,0.423,9.0,3.99,1,high
+SYN-003069,41,female,knee,household,Sikkim,hi,0,1.58,0.0,0.0,0.0,1.3,1.16,0.0,1.0,0.0,0.0,0,none
+SYN-010791,32,male,hip,other,Tripura,hi,0,6.76,1.54,4.41,3.59,4.07,4.22,0.54,0.681,9.0,0.17,0,mild
+SYN-003286,67,male,hip,office,Assam,hi,0,7.25,6.88,6.6,6.66,10.0,7.92,2.99,0.278,14.0,4.59,1,high
+SYN-002332,40,female,other,household,Tripura,hi,0,3.37,2.26,1.21,1.22,2.58,,,0.746,5.0,1.84,0,none
+SYN-008096,62,female,hand,office,Assam,bn,1,6.78,5.56,5.58,5.68,8.46,7.31,2.43,0.502,11.0,2.84,1,moderate
+SYN-003394,47,male,knee,household,Tripura,en,1,10.0,6.56,8.06,9.1,10.0,,5.41,0.631,19.0,4.47,1,high
+SYN-009344,66,female,hand,construction,Assam,hi,0,3.04,4.97,6.5,5.28,7.99,5.59,5.33,0.526,11.0,3.26,0,moderate
+SYN-003090,41,male,knee,farmer,Assam,en,0,4.03,4.17,1.68,0.83,3.38,1.45,3.09,0.657,11.0,2.88,0,none
+SYN-005806,48,male,knee,farmer,Assam,as,0,4.99,0.0,0.0,0.0,0.0,0.0,0.37,0.79,0.0,,0,none
+SYN-002329,79,female,knee,farmer,Nagaland,en,1,7.87,6.33,10.0,6.87,10.0,7.08,4.38,0.484,15.0,3.75,0,high
+SYN-010531,68,male,hip,household,Tripura,en,0,4.23,9.81,7.96,9.67,10.0,9.1,4.72,1.0,23.0,5.99,1,high
+SYN-001449,42,female,hip,construction,Arunachal Pradesh,as,0,5.51,6.88,8.36,10.0,10.0,9.71,5.84,0.516,19.0,6.76,1,high
+SYN-005562,49,female,hip,farmer,Nagaland,en,0,6.14,5.6,4.41,6.1,9.2,,1.72,0.694,15.0,2.66,0,moderate
+SYN-004311,73,female,knee,farmer,Arunachal Pradesh,as,0,6.28,9.21,10.0,10.0,10.0,,6.12,0.243,26.0,5.16,1,high
+SYN-011481,57,male,hip,farmer,Nagaland,bn,0,7.51,3.98,4.57,5.42,7.37,7.03,4.68,0.576,11.0,0.91,0,moderate
+SYN-009630,35,female,knee,farmer,Tripura,as,0,8.74,6.32,9.28,10.0,10.0,7.53,4.39,0.443,13.0,5.08,1,high
+SYN-003490,30,female,hand,other,Tripura,hi,0,0.65,9.36,10.0,10.0,10.0,8.73,4.3,0.437,10.0,6.93,1,high
+SYN-010567,65,female,knee,office,Arunachal Pradesh,bn,1,2.15,1.31,2.28,0.93,1.13,1.55,1.8,0.877,15.0,0.63,0,none
+SYN-008391,46,male,hand,construction,Assam,as,0,8.17,5.08,7.21,8.72,10.0,7.79,3.73,0.386,5.0,3.74,1,high
+SYN-006105,74,male,hip,construction,Manipur,bn,1,4.14,10.0,10.0,10.0,10.0,8.04,5.53,0.716,29.0,6.09,1,high
+SYN-005417,54,male,knee,office,Manipur,bn,0,1.55,3.72,3.5,0.06,2.31,1.88,0.53,0.403,7.0,0.74,0,none
+SYN-010407,42,female,hand,transport,Arunachal Pradesh,as,0,4.74,7.0,8.58,7.93,10.0,9.18,6.47,0.382,8.0,5.0,1,high
+SYN-001129,30,male,knee,transport,Tripura,bn,0,3.27,4.73,8.13,6.53,8.09,5.18,6.53,0.383,11.0,2.88,0,high
+SYN-010549,67,female,hand,other,Meghalaya,en,1,8.01,10.0,10.0,10.0,10.0,9.3,5.47,0.828,20.0,6.71,1,high
+SYN-011204,50,female,knee,transport,Tripura,en,0,2.95,2.71,1.77,0.0,1.39,0.0,0.98,0.787,11.0,0.0,0,none
+SYN-009269,78,female,hand,construction,Sikkim,en,0,1.83,6.13,8.3,9.08,10.0,9.14,,0.665,14.0,6.04,1,high
+SYN-008700,50,male,hand,other,Meghalaya,as,0,3.32,2.04,1.32,1.54,2.11,2.84,0.0,0.64,12.0,0.0,0,none
+SYN-010834,43,male,hip,farmer,Meghalaya,en,0,0.77,4.71,1.83,2.49,5.0,2.74,2.06,0.887,14.0,3.09,0,mild
+SYN-000668,64,female,other,office,Manipur,as,0,2.77,2.42,5.04,3.56,5.2,3.64,1.9,,6.0,0.0,0,mild
+SYN-008926,41,female,knee,farmer,Manipur,as,0,6.46,0.0,2.32,3.62,3.8,3.87,0.49,0.234,2.0,0.32,0,none
+SYN-009612,57,male,hand,farmer,Meghalaya,as,0,4.31,8.0,10.0,9.07,10.0,9.22,5.27,0.407,13.0,4.5,1,high
+SYN-007556,69,male,hip,construction,Meghalaya,en,0,7.15,8.1,8.85,8.01,10.0,9.36,,0.979,19.0,4.46,1,high
+SYN-001118,55,female,hip,transport,Assam,en,0,6.48,5.15,5.04,3.98,7.57,,2.07,0.697,14.0,1.73,1,moderate
+SYN-002921,66,female,hand,farmer,Meghalaya,as,1,3.27,10.0,10.0,10.0,10.0,9.1,5.68,0.459,27.0,4.97,1,high
+SYN-007115,49,female,knee,office,Mizoram,as,0,4.67,8.23,8.23,9.39,10.0,6.39,4.22,0.818,24.0,4.8,1,high
+SYN-009175,23,male,hip,other,Nagaland,bn,0,2.78,0.75,2.84,0.0,1.71,,2.97,0.494,9.0,0.92,0,none
+SYN-003848,63,female,knee,farmer,Arunachal Pradesh,hi,1,5.58,10.0,10.0,10.0,10.0,10.0,3.39,0.757,31.0,5.56,1,high
+SYN-008803,80,female,knee,transport,Sikkim,hi,1,6.37,10.0,10.0,10.0,10.0,7.46,4.86,0.389,29.0,7.13,1,high
+SYN-007048,88,male,knee,transport,Mizoram,as,0,2.52,7.54,8.58,9.61,10.0,8.94,4.83,0.422,28.0,5.4,1,high
+SYN-001216,55,male,knee,office,Arunachal Pradesh,as,0,5.93,4.82,8.11,6.58,9.78,7.99,3.49,0.343,15.0,2.38,1,high
+SYN-009346,73,male,knee,farmer,Assam,as,1,8.29,10.0,10.0,10.0,10.0,9.64,8.27,0.693,28.0,5.37,1,high
+SYN-003401,60,male,knee,farmer,Manipur,hi,0,0.89,2.01,4.09,3.19,3.37,4.24,4.83,0.351,3.0,3.25,0,mild
+SYN-000890,37,male,knee,household,Mizoram,bn,0,2.13,2.56,2.74,1.19,2.01,0.0,2.16,0.653,5.0,3.22,0,none
+SYN-009954,56,female,knee,household,Tripura,hi,0,1.62,0.0,0.0,0.0,1.09,2.36,0.0,0.487,0.0,0.0,0,none
+SYN-003020,59,male,other,other,Arunachal Pradesh,en,0,6.92,0.28,1.74,1.9,2.61,,1.1,0.796,1.0,1.35,0,none
+SYN-007675,41,female,hand,construction,Mizoram,en,0,1.95,2.65,0.0,0.28,1.59,2.4,0.02,0.792,1.0,2.51,0,none
+SYN-011836,48,female,knee,other,Sikkim,en,0,3.41,0.0,0.22,3.02,3.72,2.97,,0.536,6.0,1.82,0,none
+SYN-002204,61,female,knee,office,Manipur,hi,1,3.02,9.96,10.0,10.0,10.0,9.62,5.42,0.335,22.0,6.33,1,high
+SYN-008772,64,female,knee,farmer,Nagaland,bn,1,3.26,2.62,3.31,5.34,7.66,5.28,3.16,0.539,9.0,1.86,0,mild
+SYN-011792,71,male,knee,office,Tripura,hi,1,8.37,10.0,10.0,10.0,10.0,9.15,5.42,0.401,25.0,4.73,1,high
+SYN-000261,30,male,knee,other,Arunachal Pradesh,hi,0,2.2,2.26,0.15,3.66,4.4,4.97,1.14,0.743,5.0,4.2,0,mild
+SYN-010731,57,female,hip,farmer,Mizoram,en,0,3.1,3.97,3.41,4.7,8.49,5.72,1.14,0.5,14.0,3.45,0,moderate
+SYN-004067,55,female,knee,transport,Mizoram,hi,0,6.37,0.0,0.19,0.81,3.37,3.22,0.0,0.579,0.0,2.04,0,none
+SYN-005337,34,female,knee,other,Arunachal Pradesh,en,0,1.09,3.54,6.45,6.1,8.59,6.99,3.67,0.747,2.0,2.32,0,moderate
+SYN-009169,57,female,knee,office,Mizoram,bn,0,5.47,2.42,0.24,2.41,5.6,3.38,0.12,0.843,2.0,2.39,0,none
+SYN-004319,40,male,knee,transport,Mizoram,hi,1,6.11,8.48,9.05,10.0,10.0,7.54,5.04,0.566,20.0,4.59,1,high
+SYN-003422,66,female,hand,office,Mizoram,as,0,3.39,10.0,10.0,10.0,10.0,10.0,3.69,,27.0,7.07,1,high
+SYN-008098,59,male,hip,office,Sikkim,as,0,2.3,8.16,9.55,10.0,10.0,8.52,5.38,0.605,18.0,6.93,1,high
+SYN-009786,27,female,knee,farmer,Tripura,bn,0,0.41,0.82,0.18,1.46,0.0,1.32,0.0,0.796,6.0,0.57,0,none
+SYN-001513,61,female,knee,other,Meghalaya,hi,0,5.21,5.19,5.8,6.13,8.02,7.01,2.81,0.381,12.0,4.65,0,moderate
+SYN-008925,61,male,knee,household,Tripura,hi,1,8.08,10.0,10.0,10.0,10.0,8.4,4.28,0.789,21.0,6.2,1,high
+SYN-006262,53,male,knee,farmer,Nagaland,bn,0,5.49,9.03,10.0,9.9,10.0,9.36,4.25,0.651,13.0,5.71,1,high
+SYN-009254,55,male,knee,other,Meghalaya,bn,0,8.27,3.06,3.57,4.54,7.82,6.04,2.12,,10.0,2.18,0,mild
+SYN-005438,50,male,knee,farmer,Meghalaya,hi,0,4.37,1.89,0.0,0.71,1.78,1.31,0.0,,1.0,0.56,0,none
+SYN-001243,55,male,knee,farmer,Meghalaya,bn,1,9.59,6.72,7.76,8.5,10.0,10.0,4.15,0.402,18.0,4.79,1,high
+SYN-004974,75,female,hip,office,Assam,bn,0,1.61,5.57,7.9,7.62,10.0,,4.97,0.634,15.0,3.78,1,high
+SYN-000755,67,female,knee,office,Meghalaya,en,0,4.33,0.0,0.0,0.0,0.0,1.15,0.0,0.65,7.0,0.0,0,none
+SYN-006568,46,female,knee,construction,Mizoram,hi,0,4.46,3.8,3.74,4.07,7.15,5.45,3.17,0.515,11.0,3.71,0,mild
+SYN-008302,52,female,hand,other,Nagaland,hi,0,6.82,4.7,5.5,6.48,10.0,9.09,4.55,0.507,20.0,4.73,1,high
+SYN-008933,69,male,knee,transport,Tripura,hi,0,6.55,8.5,8.86,9.51,10.0,7.66,6.61,0.588,22.0,3.75,1,high
+SYN-000048,43,male,knee,farmer,Sikkim,as,0,5.62,1.67,2.06,4.71,5.99,6.45,2.26,0.654,13.0,3.11,0,mild
+SYN-002155,31,female,knee,household,Mizoram,as,0,5.51,4.59,5.96,6.97,10.0,4.38,4.91,0.544,8.0,3.64,0,moderate
+SYN-009793,55,male,knee,other,Tripura,as,1,6.47,6.64,8.34,8.17,10.0,7.35,3.51,0.436,14.0,5.21,1,high
+SYN-010657,41,female,hand,household,Meghalaya,as,0,6.64,2.89,5.58,4.34,7.04,,5.53,0.784,6.0,3.41,0,moderate
+SYN-011280,31,female,knee,transport,Nagaland,as,0,4.97,3.84,3.32,1.04,3.11,2.78,0.55,0.592,,0.89,0,mild
+SYN-005812,74,female,knee,farmer,Nagaland,as,0,4.12,3.85,5.36,3.24,6.69,5.22,3.0,0.545,15.0,1.71,0,mild
+SYN-005902,46,male,knee,other,Meghalaya,hi,0,6.88,4.62,3.31,5.96,9.16,7.61,3.4,0.663,13.0,2.94,0,moderate
+SYN-003014,63,male,hip,other,Arunachal Pradesh,as,1,1.07,4.73,6.96,5.18,6.15,5.85,2.44,0.562,17.0,3.13,0,moderate
+SYN-001303,47,male,knee,farmer,Assam,as,0,6.45,9.67,9.84,10.0,10.0,7.87,5.98,0.492,23.0,4.77,1,high
+SYN-009698,57,male,knee,farmer,Assam,bn,1,4.2,10.0,10.0,10.0,10.0,10.0,5.24,0.679,30.0,5.96,1,high
+SYN-004994,64,female,knee,transport,Mizoram,en,0,1.08,5.27,3.34,4.48,5.94,4.3,3.42,0.647,24.0,3.57,0,moderate
+SYN-001880,59,female,knee,farmer,Mizoram,hi,0,5.67,3.56,6.03,6.05,5.64,3.92,5.46,0.621,11.0,2.83,0,moderate
+SYN-011044,42,male,hand,office,Meghalaya,as,0,3.14,8.94,10.0,8.55,10.0,8.2,5.06,0.36,20.0,5.34,1,high
+SYN-007915,86,female,knee,office,Nagaland,bn,0,2.51,6.82,8.75,8.39,10.0,,5.8,0.747,22.0,2.68,1,high
+SYN-001951,88,female,knee,household,Arunachal Pradesh,en,0,7.74,9.96,10.0,10.0,10.0,9.91,5.35,0.922,28.0,7.24,1,high
+SYN-011620,49,female,knee,office,Tripura,hi,0,4.12,7.17,7.63,8.2,10.0,,5.21,0.295,15.0,4.64,1,high
+SYN-001539,54,female,hip,construction,Arunachal Pradesh,hi,0,1.86,1.57,2.19,1.47,2.73,2.79,1.84,,8.0,1.38,0,none
+SYN-010267,31,female,knee,other,Mizoram,bn,0,4.46,3.24,2.43,0.78,3.05,1.84,0.46,0.566,6.0,1.54,0,none
+SYN-004941,37,female,knee,other,Manipur,as,1,7.41,10.0,10.0,10.0,10.0,9.59,6.31,0.607,24.0,6.21,1,high
+SYN-010001,40,male,knee,office,Nagaland,hi,0,4.87,7.53,6.93,7.61,10.0,,3.87,,17.0,5.58,1,high
+SYN-011108,36,male,hand,office,Tripura,bn,0,2.79,3.6,3.74,2.07,5.58,4.38,5.04,0.79,0.0,1.18,0,mild
+SYN-002473,36,female,knee,other,Mizoram,bn,0,6.42,0.0,0.0,0.0,0.69,0.0,0.38,0.554,1.0,0.0,0,none
+SYN-009774,37,female,knee,office,Nagaland,en,0,5.74,4.61,6.91,7.28,8.74,5.1,4.62,0.682,9.0,3.78,0,high
+SYN-011459,36,male,hip,household,Sikkim,as,0,4.22,0.54,4.62,1.36,2.55,2.62,3.18,0.78,3.0,1.89,0,none
+SYN-010168,57,male,knee,office,Manipur,en,0,2.22,0.0,1.24,0.14,1.81,0.17,1.93,0.699,6.0,0.74,0,none
+SYN-002858,56,male,knee,household,Meghalaya,bn,0,5.32,3.95,5.06,4.26,7.31,3.86,3.9,0.471,9.0,3.67,0,moderate
+SYN-007047,30,male,knee,farmer,Nagaland,en,0,6.56,7.87,9.61,7.56,10.0,7.88,2.76,0.687,18.0,5.29,1,high
+SYN-001534,66,female,knee,farmer,Mizoram,as,0,8.16,1.83,3.36,4.61,6.65,7.59,,0.257,10.0,2.12,0,mild
+SYN-006839,64,male,knee,farmer,Arunachal Pradesh,as,0,8.07,5.9,6.24,7.12,10.0,9.52,4.6,0.762,13.0,5.05,1,high
+SYN-003774,41,male,knee,farmer,Arunachal Pradesh,bn,0,1.93,3.22,4.51,4.78,8.29,4.79,1.57,0.293,10.0,2.04,0,moderate
+SYN-003832,44,female,hand,farmer,Sikkim,en,0,3.36,2.72,2.22,2.48,5.57,4.24,1.82,0.651,1.0,0.41,0,mild
+SYN-011171,78,male,knee,other,Sikkim,bn,0,7.66,10.0,10.0,10.0,10.0,8.41,7.41,0.613,26.0,4.8,1,high
+SYN-006700,40,female,knee,other,Manipur,hi,0,2.04,5.46,5.35,3.18,6.33,4.32,4.47,0.722,11.0,3.84,0,moderate
+SYN-002361,44,female,knee,farmer,Assam,as,0,7.53,7.51,9.72,6.84,10.0,7.23,6.62,0.467,16.0,4.62,1,high
+SYN-010870,74,male,knee,farmer,Assam,bn,0,2.59,9.86,10.0,10.0,10.0,,4.85,0.766,23.0,6.05,1,high
+SYN-003999,57,male,other,farmer,Meghalaya,as,0,4.08,5.78,6.65,6.97,10.0,6.41,5.6,0.282,14.0,3.93,0,high
+SYN-007840,42,male,knee,household,Sikkim,bn,0,1.59,7.76,6.63,7.11,10.0,5.45,3.67,0.294,13.0,4.59,0,high
+SYN-004528,59,female,knee,household,Manipur,hi,1,5.27,10.0,10.0,10.0,10.0,8.76,5.6,0.403,23.0,6.75,1,high
+SYN-005516,68,female,knee,office,Manipur,hi,0,3.86,5.9,5.11,8.59,10.0,7.9,5.05,0.552,13.0,3.57,1,high
+SYN-009693,56,female,knee,household,Meghalaya,hi,0,6.43,2.97,2.83,2.81,5.43,,1.83,0.385,16.0,0.15,0,mild
+SYN-005482,47,male,knee,farmer,Meghalaya,as,0,7.14,5.0,7.37,6.51,9.62,7.09,2.76,0.638,5.0,2.5,0,high
+SYN-010898,41,male,knee,other,Mizoram,hi,0,3.96,2.14,3.08,2.4,5.32,3.13,2.28,0.562,3.0,2.99,0,mild
+SYN-000386,29,male,knee,household,Mizoram,bn,0,6.38,0.0,0.0,0.0,0.0,1.75,0.0,0.72,2.0,0.0,0,none
+SYN-006471,69,female,knee,office,Manipur,hi,0,3.68,7.5,9.36,6.49,10.0,6.65,3.11,0.61,14.0,5.05,1,high
+SYN-007765,39,female,hip,other,Manipur,as,0,3.49,5.15,7.17,5.66,8.63,6.28,2.72,0.761,15.0,2.66,0,moderate
+SYN-007622,70,female,knee,farmer,Sikkim,hi,0,3.23,3.18,1.33,4.34,6.75,2.78,1.88,0.592,11.0,2.0,0,mild
+SYN-004289,61,female,knee,farmer,Arunachal Pradesh,hi,0,8.56,7.93,10.0,10.0,10.0,8.79,5.44,0.458,15.0,,1,high
+SYN-007749,77,female,hand,office,Sikkim,as,1,5.71,10.0,10.0,10.0,10.0,9.28,5.53,0.79,30.0,4.73,1,high
+SYN-003520,80,male,knee,farmer,Meghalaya,bn,1,7.26,10.0,10.0,10.0,10.0,10.0,3.87,0.315,25.0,6.2,1,high
+SYN-004000,88,male,hip,farmer,Mizoram,as,0,5.35,3.72,7.05,5.49,8.29,6.29,3.94,0.744,17.0,2.01,1,moderate
+SYN-004792,50,female,knee,office,Manipur,hi,0,6.92,4.68,6.16,4.82,6.52,5.03,1.09,0.699,16.0,3.87,0,moderate
+SYN-002498,67,female,knee,other,Manipur,hi,0,2.27,10.0,10.0,9.82,10.0,10.0,8.03,0.38,32.0,6.87,1,high
+SYN-004480,77,female,hand,transport,Meghalaya,bn,0,6.23,8.51,9.46,8.04,10.0,8.69,5.34,0.802,34.0,4.22,1,high
+SYN-002443,66,female,knee,other,Arunachal Pradesh,as,1,1.73,5.72,4.94,4.92,7.98,6.94,,0.85,18.0,2.08,0,moderate
+SYN-000545,44,male,knee,farmer,Manipur,as,0,8.41,7.83,8.65,7.31,10.0,6.31,5.75,0.407,15.0,,1,high
+SYN-006407,80,male,knee,farmer,Meghalaya,en,0,8.73,10.0,10.0,10.0,10.0,9.33,,0.794,28.0,6.93,1,high
+SYN-008366,47,female,knee,transport,Arunachal Pradesh,hi,0,7.92,2.77,2.25,1.61,5.77,3.14,0.0,0.38,12.0,1.3,0,mild
+SYN-008665,52,male,knee,transport,Assam,en,0,5.18,10.0,10.0,10.0,10.0,8.35,5.32,0.732,21.0,5.11,1,high
+SYN-005884,41,male,hip,other,Nagaland,en,0,2.16,1.93,0.89,2.22,1.51,2.72,2.23,0.693,0.0,0.9,0,none
+SYN-007902,44,male,hand,household,Meghalaya,hi,0,7.01,1.63,2.85,1.18,2.49,3.49,2.99,0.584,3.0,0.0,0,none
+SYN-010639,54,male,knee,office,Nagaland,hi,0,2.88,2.43,1.41,4.52,5.12,3.61,0.0,0.691,8.0,3.2,0,mild
+SYN-009179,30,male,knee,farmer,Tripura,hi,0,3.34,4.19,2.86,5.06,7.24,5.39,1.53,0.264,12.0,1.44,0,mild
+SYN-002478,40,female,other,construction,Nagaland,hi,0,1.41,4.01,4.78,3.98,6.7,5.87,4.54,0.582,3.0,2.81,0,moderate
+SYN-011215,48,male,hip,construction,Nagaland,hi,1,8.76,9.69,10.0,10.0,10.0,9.02,5.39,0.499,20.0,7.52,1,high
+SYN-011829,80,female,hip,office,Sikkim,hi,0,2.3,4.28,3.77,5.94,9.41,7.61,4.25,0.541,15.0,3.18,0,moderate
+SYN-007744,18,female,knee,construction,Arunachal Pradesh,as,0,4.91,1.37,2.25,0.6,0.0,0.44,1.66,0.69,11.0,0.88,0,none
+SYN-005774,57,female,hand,farmer,Assam,bn,0,6.94,5.66,6.8,8.4,10.0,5.56,6.32,0.523,12.0,4.53,1,high
+SYN-001740,59,male,knee,office,Manipur,en,1,5.95,4.59,5.67,5.55,7.74,7.27,2.92,0.711,12.0,3.65,1,moderate
+SYN-011468,68,female,knee,household,Mizoram,en,0,2.95,4.17,3.1,5.29,7.45,4.24,3.12,0.809,6.0,1.94,0,moderate
+SYN-005989,73,female,hip,farmer,Manipur,hi,0,6.17,6.98,10.0,6.03,10.0,5.69,4.44,,23.0,3.65,1,high
+SYN-003041,29,female,hand,farmer,Arunachal Pradesh,hi,0,7.96,3.81,3.65,5.1,6.23,4.7,3.8,0.529,10.0,0.99,0,moderate
+SYN-011290,26,female,knee,other,Tripura,hi,0,5.99,0.0,0.23,1.0,0.1,2.62,0.0,0.633,0.0,0.83,0,none
+SYN-005846,61,female,hip,office,Arunachal Pradesh,as,0,3.32,10.0,10.0,8.38,10.0,7.67,5.05,0.545,31.0,4.79,1,high
+SYN-002949,37,female,hand,farmer,Nagaland,as,0,7.41,5.76,8.41,7.35,10.0,7.59,3.95,0.617,15.0,4.16,1,high
+SYN-004075,75,female,hip,farmer,Tripura,en,0,5.11,6.01,10.0,10.0,10.0,10.0,5.28,0.582,17.0,5.63,1,high
+SYN-007608,78,female,knee,office,Nagaland,en,0,5.51,6.98,6.37,7.17,10.0,,5.89,0.481,20.0,2.42,1,high
+SYN-001621,56,female,hip,farmer,Meghalaya,en,0,2.55,0.0,1.78,0.0,0.62,1.47,0.61,0.437,3.0,0.0,0,none
+SYN-001799,47,male,knee,office,Assam,as,0,5.78,7.69,4.48,5.09,10.0,4.83,2.1,,19.0,2.71,1,moderate
+SYN-002220,67,female,knee,other,Meghalaya,bn,0,5.88,4.3,6.5,3.97,7.89,4.62,3.77,0.671,17.0,1.49,0,moderate
+SYN-005908,35,male,other,household,Mizoram,en,0,7.75,0.0,0.24,0.0,1.91,0.08,0.0,0.857,1.0,0.47,0,none
+SYN-007521,35,female,knee,farmer,Arunachal Pradesh,as,0,3.63,5.84,8.24,4.96,7.76,6.89,3.76,0.483,14.0,3.56,0,high
+SYN-002140,37,female,knee,transport,Sikkim,en,0,3.62,1.43,3.3,0.85,0.63,2.47,2.54,0.552,7.0,2.02,0,none
+SYN-011706,64,female,knee,office,Nagaland,as,0,1.24,0.0,2.47,1.92,1.49,1.85,1.28,0.406,6.0,2.32,0,none
+SYN-007981,61,female,hip,farmer,Tripura,as,1,3.33,8.16,10.0,9.52,10.0,10.0,5.21,0.431,16.0,5.71,1,high
+SYN-010935,23,female,other,office,Nagaland,as,0,7.04,0.0,0.0,0.0,2.83,0.52,0.0,0.591,4.0,0.12,0,none
+SYN-003505,63,female,knee,farmer,Mizoram,en,1,6.7,10.0,10.0,10.0,10.0,9.79,5.65,0.598,23.0,4.47,1,high
+SYN-005982,50,male,hip,other,Tripura,as,1,3.72,4.39,6.68,5.02,7.9,6.81,4.63,0.673,11.0,4.48,0,moderate
+SYN-005820,53,male,knee,other,Mizoram,en,1,5.52,3.14,3.62,3.55,4.78,4.65,3.93,0.925,7.0,0.9,0,mild
+SYN-002371,52,female,knee,office,Nagaland,hi,0,5.13,0.0,0.0,0.0,0.0,0.85,0.0,0.439,5.0,0.0,0,none
+SYN-003735,32,female,knee,transport,Manipur,hi,0,3.53,1.17,0.0,0.0,0.88,2.69,1.68,0.61,0.0,0.0,0,none
+SYN-006054,69,male,hip,other,Arunachal Pradesh,en,0,3.24,7.24,7.07,8.88,10.0,9.67,3.84,0.821,20.0,5.53,1,high
+SYN-000429,61,female,hip,other,Nagaland,en,0,8.1,5.76,5.23,4.11,6.1,6.34,2.97,0.655,,,0,moderate
+SYN-009532,63,male,knee,construction,Manipur,as,0,7.45,3.36,4.33,5.67,8.06,6.62,3.26,0.947,13.0,1.7,0,moderate
+SYN-006098,38,male,knee,other,Assam,en,0,8.92,1.07,0.71,2.82,2.98,3.4,1.18,0.707,4.0,0.0,0,none
+SYN-009963,29,male,knee,office,Arunachal Pradesh,hi,0,5.56,2.8,1.72,3.89,6.0,5.36,1.93,0.578,3.0,3.08,0,mild
+SYN-000191,54,male,knee,farmer,Tripura,en,0,5.49,6.0,7.75,8.05,10.0,8.13,4.88,0.865,11.0,3.51,1,high
+SYN-000094,88,male,hand,household,Mizoram,bn,0,1.49,10.0,10.0,10.0,10.0,10.0,4.77,0.592,32.0,4.48,1,high
+SYN-011921,65,male,hand,other,Tripura,en,0,7.13,7.06,8.96,6.6,10.0,8.61,3.59,0.4,12.0,4.96,1,high
+SYN-005960,48,male,knee,office,Assam,en,1,4.99,10.0,10.0,10.0,10.0,9.59,3.5,0.508,25.0,5.85,1,high
+SYN-008736,50,female,knee,transport,Assam,bn,0,3.62,1.01,1.11,0.94,0.0,0.49,1.93,0.376,4.0,0.0,0,none
+SYN-006681,54,female,hand,office,Arunachal Pradesh,as,1,4.93,8.04,9.19,6.72,10.0,7.72,4.08,0.828,22.0,3.02,1,high
+SYN-008618,59,male,knee,construction,Sikkim,hi,0,7.83,5.9,5.49,8.63,10.0,7.86,5.3,0.636,6.0,4.02,1,high
+SYN-005044,51,male,hip,farmer,Tripura,en,0,7.1,8.1,9.25,7.32,10.0,7.99,5.89,1.0,21.0,5.14,1,high
+SYN-009325,45,male,hand,household,Assam,en,0,6.26,5.46,3.84,4.12,6.66,5.06,2.87,0.903,17.0,3.65,0,moderate
+SYN-004223,85,male,hand,household,Tripura,bn,0,5.37,6.46,10.0,10.0,10.0,10.0,5.95,0.283,18.0,5.09,1,high
+SYN-008544,60,male,hip,construction,Assam,as,0,4.03,7.47,8.14,8.73,10.0,6.51,3.24,0.506,24.0,3.49,1,high
+SYN-009701,39,male,knee,office,Mizoram,as,1,5.61,3.59,4.15,5.39,5.91,3.47,2.41,0.632,13.0,3.25,0,mild
+SYN-006891,47,male,knee,household,Meghalaya,as,1,5.98,6.42,8.18,8.05,10.0,8.57,4.19,0.6,13.0,4.77,1,high
+SYN-008625,76,female,knee,other,Tripura,as,0,4.68,2.37,4.51,3.58,4.42,4.69,3.93,0.461,20.0,0.57,0,mild
+SYN-010347,55,male,hip,household,Mizoram,hi,0,7.29,3.17,5.68,7.12,9.34,,4.83,0.419,14.0,1.44,1,high
+SYN-002087,30,male,knee,office,Tripura,en,0,2.55,1.03,0.0,0.0,0.0,1.54,1.16,0.444,3.0,0.89,0,none
+SYN-005763,66,male,knee,farmer,Mizoram,en,0,7.57,9.75,10.0,10.0,10.0,9.66,4.97,0.855,23.0,6.64,1,high
+SYN-001583,31,female,knee,household,Manipur,en,0,5.67,6.19,7.68,4.68,8.49,6.62,3.5,0.69,2.0,1.98,0,high
+SYN-006163,51,female,knee,office,Assam,bn,0,5.45,5.83,4.82,5.94,9.58,8.24,1.45,0.318,14.0,2.69,1,moderate
+SYN-002517,67,female,hand,other,Nagaland,hi,0,2.51,4.58,8.05,5.24,9.26,6.32,4.45,0.677,14.0,3.33,1,high
+SYN-000166,63,female,other,transport,Mizoram,as,0,8.04,7.69,10.0,8.08,10.0,8.63,5.18,0.519,14.0,5.81,1,high
+SYN-004105,83,female,knee,farmer,Tripura,as,0,0.48,7.88,9.08,9.52,10.0,7.94,3.85,0.832,23.0,6.34,1,high
+SYN-003284,54,female,hand,transport,Meghalaya,en,0,3.66,5.69,6.74,7.02,10.0,7.26,3.67,0.639,20.0,1.82,0,high
+SYN-004479,35,male,knee,farmer,Arunachal Pradesh,as,0,5.59,6.41,7.28,3.47,7.8,,1.74,0.455,8.0,3.58,0,moderate
+SYN-010263,79,female,knee,office,Tripura,en,1,5.48,8.45,10.0,10.0,10.0,,4.75,0.737,19.0,5.36,1,high
+SYN-000170,57,female,hip,office,Arunachal Pradesh,hi,1,8.82,10.0,10.0,10.0,10.0,7.5,6.31,0.591,27.0,8.11,1,high
+SYN-004385,86,female,knee,household,Manipur,hi,0,6.95,10.0,8.7,10.0,10.0,,4.61,0.524,22.0,5.05,1,high
+SYN-010230,87,male,hip,other,Mizoram,as,0,5.32,5.74,9.06,6.01,9.67,,3.11,0.837,20.0,3.93,1,high
+SYN-004793,30,female,knee,other,Tripura,as,0,6.06,1.55,2.39,3.72,4.05,4.47,3.32,,5.0,3.03,0,mild
+SYN-004589,60,female,hip,office,Arunachal Pradesh,as,0,3.54,2.06,0.89,1.87,4.97,1.38,1.4,0.504,4.0,1.4,0,none
+SYN-003139,51,male,knee,construction,Nagaland,hi,0,3.82,6.74,7.07,5.3,10.0,6.67,1.73,0.15,18.0,,1,high
+SYN-010566,60,male,other,household,Arunachal Pradesh,as,0,1.08,6.88,9.73,9.53,10.0,9.99,7.34,0.508,15.0,6.06,1,high
+SYN-009785,56,male,knee,transport,Tripura,as,0,5.63,3.87,4.62,2.49,5.34,4.35,2.11,0.614,8.0,2.76,0,mild
+SYN-005956,41,female,hip,household,Meghalaya,en,0,1.33,4.04,5.93,2.98,7.65,4.87,0.95,0.821,1.0,1.56,0,mild
+SYN-001479,71,male,hand,other,Arunachal Pradesh,as,0,6.97,6.81,8.02,8.99,10.0,7.63,,0.785,19.0,4.3,1,high
+SYN-009154,59,male,hand,other,Assam,hi,0,6.55,5.0,6.03,4.39,5.72,4.1,4.09,0.553,23.0,2.05,0,moderate
+SYN-006431,50,male,knee,household,Tripura,as,1,3.85,4.9,5.68,6.06,8.64,5.68,2.05,0.432,14.0,5.53,0,moderate
+SYN-010527,37,female,hand,office,Tripura,as,0,4.5,0.64,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.32,0,none
+SYN-005297,25,female,knee,household,Manipur,as,0,4.01,3.53,2.38,2.31,6.79,3.8,1.01,0.492,2.0,2.94,0,mild
+SYN-008816,55,female,knee,construction,Manipur,bn,0,6.67,0.98,0.0,0.0,2.24,0.0,0.5,0.385,1.0,1.31,0,none
+SYN-005222,41,female,hand,household,Meghalaya,as,0,1.7,3.69,5.48,5.22,6.79,5.01,3.77,0.4,7.0,2.33,0,moderate
+SYN-003222,44,female,knee,office,Meghalaya,hi,0,6.61,2.08,2.53,1.72,4.5,3.74,1.24,0.55,11.0,0.64,0,mild
+SYN-000651,50,male,knee,household,Arunachal Pradesh,bn,0,7.02,7.52,9.98,6.56,10.0,6.44,5.37,0.226,14.0,4.15,1,high
+SYN-008770,59,male,knee,other,Sikkim,bn,1,2.35,6.34,6.95,9.28,10.0,9.99,5.42,,14.0,6.36,1,high
+SYN-000074,48,male,knee,construction,Tripura,as,0,4.42,5.88,5.96,7.93,10.0,9.05,5.37,0.579,15.0,5.32,1,high
+SYN-011279,36,female,other,household,Mizoram,en,0,4.61,4.96,3.12,4.46,9.71,5.01,2.47,0.896,10.0,3.73,0,moderate
+SYN-009759,55,female,hand,transport,Arunachal Pradesh,as,1,7.03,10.0,10.0,10.0,10.0,8.16,5.76,0.473,20.0,6.48,1,high
+SYN-011936,48,female,knee,office,Nagaland,bn,0,3.32,2.66,1.49,0.57,3.97,1.87,0.0,0.773,15.0,0.01,0,none
+SYN-006290,41,female,knee,farmer,Tripura,as,1,9.24,9.53,9.8,9.65,10.0,9.44,6.06,0.254,24.0,6.42,1,high
+SYN-001140,65,male,knee,other,Nagaland,bn,1,1.84,10.0,10.0,10.0,10.0,9.72,6.14,0.683,25.0,6.12,1,high
+SYN-001147,44,male,knee,construction,Mizoram,bn,0,6.21,0.0,0.0,0.61,2.15,3.8,0.0,0.53,12.0,1.77,0,none
+SYN-000998,63,male,hand,farmer,Mizoram,en,0,6.11,7.02,9.2,8.35,10.0,9.31,5.85,,19.0,4.1,1,high
+SYN-001891,51,female,hand,construction,Manipur,hi,0,3.64,0.9,2.75,2.35,1.83,2.73,2.17,0.633,1.0,0.39,0,none
+SYN-011401,39,male,hip,farmer,Assam,as,1,7.63,6.05,5.36,5.4,9.01,5.81,1.28,0.494,11.0,1.69,0,moderate
+SYN-005204,75,male,other,farmer,Sikkim,as,0,8.44,7.39,10.0,9.49,10.0,10.0,5.86,0.491,21.0,4.84,1,high
+SYN-007716,48,male,hip,household,Mizoram,as,0,7.46,7.64,10.0,9.8,10.0,9.58,6.77,0.365,12.0,6.3,1,high
+SYN-010705,52,male,hip,other,Meghalaya,en,0,4.55,7.28,6.94,6.65,10.0,6.21,,0.952,14.0,3.54,0,high
+SYN-008441,64,male,knee,other,Mizoram,as,1,6.31,6.1,7.17,7.37,9.68,7.83,5.47,0.41,10.0,2.34,1,high
+SYN-009187,20,male,hand,construction,Mizoram,bn,0,9.46,4.26,6.29,6.68,8.83,6.33,5.04,0.499,9.0,2.19,0,moderate
+SYN-001377,41,female,knee,household,Mizoram,as,0,3.98,5.82,8.28,6.37,9.86,6.18,5.07,0.747,14.0,,1,high
+SYN-006774,57,male,hip,farmer,Manipur,hi,1,5.89,9.66,10.0,10.0,10.0,9.19,3.97,0.297,11.0,7.41,1,high
+SYN-003595,51,female,hip,farmer,Arunachal Pradesh,en,1,6.47,9.9,10.0,10.0,10.0,9.09,6.27,0.666,15.0,6.7,1,high
+SYN-003919,63,male,other,office,Mizoram,hi,0,6.96,7.13,6.76,7.42,10.0,6.66,4.23,0.769,21.0,2.67,1,high
+SYN-011531,49,male,knee,farmer,Arunachal Pradesh,en,0,3.19,8.33,10.0,8.36,10.0,7.08,5.39,0.728,16.0,5.66,1,high
+SYN-000906,68,female,knee,office,Assam,as,0,5.34,3.27,3.85,1.86,4.95,0.95,,0.523,12.0,0.27,0,mild
+SYN-010389,62,female,other,farmer,Tripura,hi,0,5.4,4.82,5.4,5.36,7.54,7.52,3.21,0.208,10.0,1.49,0,moderate
+SYN-002232,57,female,knee,farmer,Tripura,en,0,9.39,3.13,3.5,5.19,7.07,5.34,1.89,,11.0,3.3,1,mild
+SYN-009624,34,male,knee,other,Manipur,en,0,4.73,7.08,7.07,10.0,10.0,7.3,4.77,1.0,8.0,5.34,1,high
+SYN-002500,55,female,other,other,Meghalaya,as,0,0.48,0.61,1.09,2.25,3.33,4.4,1.44,0.448,5.0,0.0,0,none
+SYN-002630,46,female,hand,office,Arunachal Pradesh,as,0,5.21,10.0,10.0,10.0,10.0,9.6,7.07,0.407,21.0,6.87,1,high
+SYN-006849,56,male,hand,farmer,Sikkim,en,0,5.39,7.42,8.02,8.14,10.0,,,,17.0,4.99,1,high
+SYN-007348,49,female,hand,transport,Nagaland,hi,0,7.2,6.24,9.68,8.82,10.0,,5.54,0.363,12.0,5.35,1,high
+SYN-007484,52,male,knee,household,Manipur,bn,0,6.37,5.31,7.29,8.26,10.0,5.66,5.39,0.543,18.0,3.4,1,high
+SYN-001555,57,male,knee,transport,Manipur,bn,0,2.89,4.56,5.44,4.65,7.55,4.86,2.92,0.596,11.0,4.31,0,moderate
+SYN-000952,70,female,knee,other,Assam,as,1,5.11,9.5,10.0,6.09,10.0,6.47,2.54,,33.0,4.94,1,high
+SYN-003805,83,female,knee,other,Tripura,hi,0,4.77,5.56,8.06,4.98,7.06,4.5,4.3,0.48,20.0,1.16,1,moderate
+SYN-003554,88,female,hand,household,Tripura,bn,0,7.6,8.59,10.0,9.84,10.0,10.0,3.21,0.329,15.0,5.39,1,high
+SYN-000459,51,male,knee,transport,Sikkim,bn,0,4.22,3.58,3.94,3.67,6.79,4.58,3.4,0.541,8.0,1.17,0,mild
+SYN-011288,62,male,hip,transport,Nagaland,as,0,7.78,4.82,7.58,6.44,9.8,7.06,,0.227,,4.55,1,high
+SYN-000059,66,female,hip,construction,Sikkim,bn,0,9.28,8.0,7.84,7.71,10.0,7.0,5.3,0.782,22.0,4.79,1,high
+SYN-009088,37,male,hip,household,Meghalaya,en,0,7.09,1.79,2.71,2.97,2.39,2.82,1.67,0.565,8.0,2.42,0,none
+SYN-008247,61,male,other,farmer,Assam,hi,0,6.63,0.0,0.0,0.0,0.0,0.06,0.0,0.474,3.0,1.22,0,none
+SYN-000934,52,female,hand,other,Sikkim,as,0,5.17,1.48,2.62,3.08,3.59,3.11,3.66,0.311,6.0,0.72,0,mild
+SYN-006673,75,female,knee,farmer,Nagaland,en,0,3.73,5.82,2.91,6.11,10.0,4.29,3.82,0.367,19.0,3.93,0,moderate
+SYN-007104,61,female,knee,farmer,Sikkim,bn,1,7.11,10.0,10.0,10.0,10.0,9.86,7.35,0.608,23.0,5.81,1,high
+SYN-002419,52,male,hand,household,Assam,as,0,6.31,3.91,5.53,5.12,8.26,3.49,4.24,0.485,11.0,1.29,0,moderate
+SYN-008563,31,male,knee,household,Tripura,bn,0,7.23,6.81,7.87,7.17,10.0,8.28,4.08,0.533,10.0,5.26,1,high
+SYN-010492,49,female,knee,transport,Meghalaya,bn,0,9.44,6.37,8.09,8.03,10.0,7.03,4.4,0.423,20.0,3.72,1,high
+SYN-004343,44,male,knee,construction,Arunachal Pradesh,hi,0,5.92,0.0,0.0,0.0,0.0,0.0,0.0,0.487,3.0,0.47,0,none
+SYN-001055,22,male,hand,construction,Mizoram,hi,0,6.71,3.63,8.03,6.61,10.0,8.05,,0.612,8.0,3.13,0,high
+SYN-003193,51,female,hip,other,Nagaland,as,1,6.99,4.99,3.17,6.01,6.85,5.24,,0.434,10.0,3.43,1,moderate
+SYN-002960,56,male,hip,office,Assam,as,0,7.01,4.31,4.23,6.27,9.24,6.48,3.18,0.381,9.0,2.94,1,moderate
+SYN-011846,31,female,knee,household,Mizoram,en,0,7.42,2.85,5.98,4.66,5.5,4.0,2.64,0.455,6.0,3.79,0,mild
+SYN-002278,18,male,knee,transport,Arunachal Pradesh,hi,0,4.05,6.14,3.06,5.12,8.35,7.4,0.81,0.568,11.0,2.9,0,moderate
+SYN-004349,45,male,knee,farmer,Meghalaya,hi,0,3.89,7.78,8.06,8.68,10.0,10.0,4.24,0.456,10.0,4.21,1,high
+SYN-007859,74,female,hand,farmer,Mizoram,hi,0,1.21,7.16,6.41,6.24,10.0,7.49,3.73,0.394,25.0,3.0,1,high
+SYN-000715,69,male,hip,office,Sikkim,bn,0,7.93,8.34,9.55,9.52,10.0,10.0,5.89,0.709,19.0,4.07,1,high
+SYN-008020,49,male,knee,farmer,Assam,bn,0,4.87,2.96,2.66,1.89,5.46,2.82,0.79,0.53,11.0,1.46,0,mild
+SYN-008724,75,female,knee,farmer,Tripura,as,0,5.32,10.0,10.0,10.0,10.0,9.84,4.05,0.615,23.0,6.42,1,high
+SYN-001597,79,female,hip,office,Assam,bn,0,3.89,10.0,10.0,10.0,10.0,8.46,5.31,0.517,28.0,4.69,1,high
+SYN-011970,78,female,hand,household,Nagaland,hi,0,2.09,0.94,0.73,0.83,0.0,1.33,2.14,0.608,17.0,0.6,0,none
+SYN-000663,64,female,knee,office,Sikkim,en,0,1.7,4.92,6.06,6.67,10.0,8.67,5.13,0.805,16.0,4.36,1,high
+SYN-005404,48,female,other,office,Tripura,as,0,5.28,7.1,9.19,9.11,10.0,8.6,5.21,0.723,18.0,4.42,1,high
+SYN-007988,61,female,hand,office,Mizoram,en,0,6.72,4.24,6.3,5.26,7.15,,4.29,0.564,11.0,3.03,1,moderate
+SYN-006002,52,male,knee,household,Tripura,as,0,3.03,5.3,8.29,5.84,7.99,5.99,5.34,0.64,10.0,3.78,1,high
+SYN-006354,65,female,knee,household,Nagaland,bn,1,3.56,3.84,7.42,7.81,8.82,7.7,4.11,0.305,12.0,4.09,1,high
+SYN-001656,58,male,knee,transport,Manipur,hi,1,5.56,6.02,10.0,5.62,10.0,6.25,2.06,0.369,12.0,3.87,1,high
+SYN-004125,65,male,hand,household,Mizoram,hi,0,5.75,7.28,9.62,6.81,10.0,6.66,4.27,0.423,19.0,5.94,1,high
+SYN-002751,54,female,hand,farmer,Nagaland,en,0,2.38,0.0,1.01,0.0,0.89,2.42,1.27,0.533,9.0,0.0,0,none
+SYN-004686,35,female,knee,office,Assam,bn,0,8.76,2.6,4.31,3.35,4.38,3.2,3.09,0.58,5.0,2.13,0,mild
+SYN-002924,36,female,hip,other,Meghalaya,as,0,3.29,0.0,0.53,0.05,0.0,1.12,2.76,0.441,0.0,0.0,0,none
+SYN-008660,47,male,knee,farmer,Tripura,en,1,1.98,5.92,8.64,7.22,10.0,8.41,5.81,0.6,16.0,6.61,1,high
+SYN-002406,33,female,other,other,Sikkim,bn,0,6.87,5.77,3.93,4.44,9.33,,3.72,0.542,10.0,4.15,0,moderate
+SYN-008143,46,female,knee,other,Meghalaya,as,0,2.9,3.64,5.03,5.92,8.68,5.19,3.17,0.447,9.0,2.76,0,moderate
+SYN-004798,62,male,hip,other,Sikkim,as,0,4.85,6.28,8.8,7.45,10.0,7.71,5.33,0.475,17.0,2.83,1,high
+SYN-004544,78,female,hip,other,Tripura,en,0,4.29,9.57,9.63,10.0,10.0,10.0,6.05,0.654,28.0,6.82,1,high
+SYN-008796,32,male,knee,household,Tripura,en,0,4.68,0.1,0.0,0.0,0.0,0.62,1.01,0.71,6.0,0.0,0,none
+SYN-002905,34,female,knee,farmer,Manipur,bn,0,4.1,0.0,1.81,2.27,1.69,2.8,,0.333,5.0,0.0,0,none
+SYN-004031,42,female,knee,office,Mizoram,bn,0,2.55,2.63,2.72,5.36,6.73,4.11,0.0,0.573,7.0,2.7,0,mild
+SYN-011292,73,male,knee,farmer,Mizoram,en,1,6.19,10.0,10.0,9.91,10.0,7.68,4.63,0.608,33.0,5.58,1,high
+SYN-011918,61,male,knee,other,Manipur,as,1,5.57,4.69,6.98,6.65,7.8,6.85,,0.534,14.0,2.95,1,high
+SYN-010447,18,male,knee,other,Arunachal Pradesh,as,0,4.47,2.71,5.13,2.64,4.0,2.91,2.03,0.706,8.0,2.77,0,mild
+SYN-010964,32,male,knee,household,Tripura,en,0,4.17,7.02,10.0,9.23,10.0,10.0,6.74,0.545,16.0,4.78,1,high
+SYN-011752,68,male,hip,farmer,Arunachal Pradesh,en,0,3.19,3.3,4.4,5.68,8.01,5.29,6.68,,2.0,1.19,0,moderate
+SYN-002482,41,male,knee,household,Arunachal Pradesh,bn,0,2.28,3.51,2.49,4.03,9.67,3.21,0.97,0.595,6.0,2.61,0,mild
+SYN-011090,22,male,knee,construction,Meghalaya,as,0,2.51,0.0,0.2,0.06,0.96,1.15,0.0,0.554,4.0,,0,none
+SYN-004505,37,female,knee,office,Mizoram,as,0,5.4,0.0,0.0,0.65,1.65,3.03,0.67,0.598,0.0,0.0,0,none
+SYN-005984,54,female,knee,construction,Mizoram,as,0,1.89,8.92,10.0,9.81,10.0,8.65,6.2,0.671,16.0,4.69,1,high
+SYN-007084,46,male,other,household,Tripura,as,0,3.17,0.0,1.24,2.03,2.96,2.92,1.44,,2.0,0.0,0,none
+SYN-009126,55,female,knee,office,Mizoram,as,0,7.34,1.04,3.54,1.68,1.07,2.91,2.21,0.685,7.0,2.07,0,none
+SYN-005391,50,female,knee,transport,Nagaland,as,1,8.79,9.06,10.0,10.0,10.0,8.51,3.71,0.557,22.0,4.38,1,high
+SYN-007499,45,female,hip,household,Meghalaya,hi,0,6.34,6.37,4.53,6.54,10.0,7.52,3.15,0.642,21.0,4.34,1,high
+SYN-003166,48,male,knee,farmer,Mizoram,hi,1,4.3,10.0,9.69,10.0,10.0,8.08,7.24,0.477,19.0,6.54,1,high
+SYN-007350,34,male,knee,farmer,Nagaland,hi,0,4.18,6.94,10.0,10.0,10.0,10.0,6.92,0.718,8.0,6.57,1,high
+SYN-010838,88,female,hip,office,Mizoram,as,0,5.66,10.0,10.0,10.0,10.0,6.59,4.2,0.292,31.0,5.78,1,high
+SYN-007657,35,female,hand,household,Manipur,as,0,3.36,2.76,1.15,0.81,2.6,1.79,1.13,0.592,9.0,1.06,0,none
+SYN-010810,35,male,hand,household,Assam,bn,1,3.69,6.71,8.09,8.68,10.0,10.0,4.38,0.462,15.0,4.39,1,high
+SYN-008755,30,female,hip,farmer,Sikkim,hi,1,7.98,9.69,8.91,10.0,10.0,8.92,4.87,0.354,25.0,6.18,1,high
+SYN-007290,24,female,hip,transport,Meghalaya,bn,0,6.09,5.21,7.86,3.38,8.4,5.77,1.23,0.301,9.0,1.43,0,moderate
+SYN-005520,21,female,knee,office,Mizoram,en,1,6.54,9.81,9.77,9.41,10.0,8.88,5.67,0.603,20.0,5.08,1,high
+SYN-004517,44,male,knee,other,Arunachal Pradesh,hi,0,4.01,4.43,2.02,3.39,5.39,3.19,1.61,0.508,9.0,3.74,0,mild
+SYN-005370,59,female,knee,household,Tripura,as,0,6.5,8.72,8.56,8.84,10.0,8.43,4.66,0.683,26.0,5.54,1,high
+SYN-007192,53,female,knee,household,Tripura,hi,0,4.68,4.1,3.65,4.2,5.33,5.45,,0.432,11.0,3.28,0,mild
+SYN-000024,55,female,knee,household,Sikkim,hi,0,4.01,5.49,8.66,9.31,10.0,7.7,,0.582,16.0,3.96,1,high
+SYN-002805,49,female,hand,farmer,Tripura,bn,0,6.69,3.73,1.48,2.58,4.1,3.22,2.9,0.15,13.0,1.43,0,mild
+SYN-002085,67,female,knee,transport,Meghalaya,hi,0,8.26,3.17,6.63,5.58,7.55,5.23,5.0,0.442,13.0,1.12,1,moderate
+SYN-006432,36,female,knee,farmer,Arunachal Pradesh,as,1,2.17,4.22,3.71,2.97,4.44,2.19,2.63,0.527,9.0,3.07,0,mild
+SYN-003597,82,female,knee,farmer,Assam,en,1,7.06,10.0,10.0,10.0,10.0,,6.14,0.803,31.0,5.43,1,high
+SYN-007827,49,female,knee,farmer,Arunachal Pradesh,hi,0,4.93,4.69,3.81,2.3,4.25,3.57,3.46,0.477,9.0,2.12,0,mild
+SYN-004931,48,female,hand,office,Mizoram,bn,0,3.28,2.07,0.85,1.46,3.06,1.18,0.0,0.528,5.0,3.05,0,none
+SYN-008906,45,female,hip,other,Sikkim,en,0,4.51,3.47,8.56,5.82,9.42,6.99,5.87,0.65,9.0,1.33,0,high
+SYN-001593,73,female,knee,construction,Assam,en,0,7.02,6.47,8.27,6.77,10.0,8.63,3.5,0.673,,4.47,1,high
+SYN-002872,64,female,hip,office,Mizoram,hi,0,9.68,4.78,7.15,6.48,8.97,7.36,2.89,0.428,17.0,6.19,1,high
+SYN-010926,57,female,knee,farmer,Tripura,hi,0,5.37,6.63,8.93,4.25,6.92,3.94,3.13,0.429,22.0,2.91,0,moderate
+SYN-000922,82,female,knee,other,Mizoram,hi,1,5.89,10.0,10.0,10.0,10.0,9.57,6.7,0.634,22.0,6.05,1,high
+SYN-009399,21,female,hand,farmer,Sikkim,as,0,6.69,0.0,3.29,0.08,0.0,0.0,1.57,0.578,0.0,0.0,0,none
+SYN-000751,46,male,knee,transport,Sikkim,hi,0,1.91,3.23,0.06,0.0,0.53,0.0,0.0,0.825,4.0,,0,none
+SYN-010338,64,male,knee,farmer,Tripura,as,0,0.84,2.59,5.13,4.44,7.78,7.06,3.66,0.529,10.0,0.0,0,moderate
+SYN-010613,18,female,hand,office,Tripura,en,0,5.09,3.98,4.49,4.32,6.16,5.14,3.2,0.871,,2.54,0,moderate
+SYN-007503,41,female,knee,office,Manipur,hi,1,2.56,8.51,10.0,7.92,10.0,7.85,6.66,0.368,17.0,5.92,1,high
+SYN-010542,83,male,knee,other,Manipur,as,1,5.47,10.0,10.0,10.0,10.0,8.27,6.78,,22.0,7.07,1,high
+SYN-011940,51,female,knee,other,Sikkim,hi,0,5.26,7.7,8.37,7.21,10.0,7.27,4.61,0.534,19.0,3.77,1,high
+SYN-007683,41,male,knee,farmer,Manipur,as,0,4.84,5.44,6.99,7.27,9.54,7.27,3.13,0.466,8.0,4.96,0,high
+SYN-006523,45,male,knee,office,Assam,hi,0,2.64,5.02,7.63,6.46,8.99,8.06,5.13,0.615,13.0,3.85,1,high
+SYN-011023,66,male,knee,household,Manipur,as,0,4.05,4.71,5.01,3.62,6.92,5.41,2.2,0.544,15.0,3.06,0,moderate
+SYN-011465,36,female,hip,farmer,Meghalaya,as,1,7.22,1.15,2.06,1.61,1.55,,,0.644,1.0,0.0,0,none
+SYN-005690,68,male,hand,other,Sikkim,as,1,4.55,6.02,9.73,9.49,10.0,9.45,6.47,0.495,16.0,5.09,1,high
+SYN-008127,44,male,hand,office,Sikkim,hi,0,10.0,5.2,7.66,9.97,10.0,,5.62,0.709,10.0,,1,high
+SYN-007961,54,female,knee,household,Mizoram,as,0,4.16,2.09,2.86,0.9,2.58,1.49,1.3,0.624,9.0,0.36,0,none
+SYN-000572,67,female,hip,farmer,Tripura,hi,0,9.19,5.51,6.6,7.86,10.0,6.7,5.08,0.654,16.0,4.35,1,high
+SYN-006918,55,male,knee,transport,Tripura,en,0,5.12,1.07,2.23,3.64,3.38,4.58,,0.572,12.0,1.31,0,mild
+SYN-007325,60,female,hip,transport,Manipur,as,0,6.14,7.37,8.12,6.8,10.0,6.5,3.86,0.636,24.0,5.45,1,high
+SYN-011535,58,female,knee,office,Meghalaya,en,0,4.68,3.98,2.76,4.61,6.68,4.79,2.82,0.686,10.0,2.37,0,mild
+SYN-010630,66,female,other,household,Arunachal Pradesh,as,1,1.47,4.21,6.29,5.94,7.45,4.62,1.58,0.405,12.0,2.99,0,moderate
+SYN-002266,50,female,knee,household,Nagaland,hi,1,5.02,10.0,10.0,10.0,10.0,9.8,5.8,0.367,24.0,5.11,1,high
+SYN-011153,57,male,knee,office,Sikkim,as,0,7.53,10.0,10.0,10.0,10.0,8.83,5.16,0.449,20.0,4.1,1,high
+SYN-011949,28,male,knee,transport,Sikkim,bn,0,3.85,0.07,0.39,0.67,1.76,0.0,3.39,0.584,0.0,0.0,0,none
+SYN-001015,49,male,knee,office,Manipur,as,0,5.07,5.97,7.96,7.66,10.0,8.05,5.31,0.504,4.0,4.1,1,high
+SYN-001546,58,male,knee,office,Nagaland,en,0,7.24,10.0,8.71,10.0,10.0,7.77,,0.519,27.0,4.85,1,high
+SYN-006501,65,male,hip,transport,Assam,bn,1,5.79,10.0,10.0,10.0,10.0,9.59,4.42,0.796,26.0,3.66,1,high
+SYN-003423,79,male,knee,other,Assam,as,0,2.79,8.58,10.0,8.29,10.0,8.24,5.07,0.709,23.0,5.1,1,high
+SYN-010550,37,male,knee,office,Manipur,as,0,4.17,2.28,0.75,0.95,1.89,2.33,1.23,0.669,0.0,0.47,0,none
+SYN-007803,34,male,hip,household,Manipur,as,0,6.57,5.7,5.11,3.03,8.24,3.7,1.91,0.645,5.0,3.32,0,moderate
+SYN-006535,25,male,knee,construction,Nagaland,as,1,1.2,5.69,7.84,8.26,10.0,9.31,3.33,0.478,9.0,4.83,1,high
+SYN-006573,81,female,hip,transport,Mizoram,hi,0,5.64,7.81,10.0,7.82,10.0,7.75,3.89,0.529,25.0,4.26,1,high
+SYN-000566,26,female,hip,farmer,Mizoram,bn,0,4.08,1.52,1.82,0.42,0.85,0.3,0.0,0.329,2.0,2.24,0,none
+SYN-010262,30,female,knee,farmer,Nagaland,en,0,3.64,0.21,0.0,0.0,0.0,0.71,,0.652,5.0,2.02,0,none
+SYN-011115,54,female,knee,construction,Mizoram,hi,0,6.2,10.0,10.0,8.76,10.0,7.52,3.33,0.464,22.0,3.79,1,high
+SYN-006718,23,male,knee,office,Sikkim,hi,0,4.38,6.33,6.86,7.24,10.0,5.72,3.93,0.392,12.0,6.36,0,high
+SYN-009604,41,male,hip,other,Sikkim,hi,0,1.8,3.29,3.26,3.47,5.18,6.87,0.43,0.677,3.0,1.85,0,mild
+SYN-010382,83,male,knee,office,Arunachal Pradesh,as,0,5.92,9.32,10.0,9.83,10.0,9.75,5.66,0.331,21.0,4.39,1,high
+SYN-007393,46,male,hip,construction,Tripura,as,0,0.45,5.44,6.83,5.42,9.81,6.58,3.83,0.569,13.0,2.62,0,high
+SYN-008704,66,female,hip,farmer,Assam,as,1,4.71,7.11,6.84,9.05,10.0,6.55,5.46,0.42,,5.1,1,high
+SYN-002326,43,male,hand,office,Arunachal Pradesh,hi,0,1.91,2.0,0.0,0.0,0.0,,,0.657,7.0,0.75,0,none
+SYN-008205,62,male,knee,other,Meghalaya,hi,0,7.78,5.94,8.83,8.15,10.0,7.32,4.47,0.583,15.0,4.9,1,high
+SYN-009651,61,male,hip,transport,Mizoram,bn,1,7.59,10.0,10.0,9.42,10.0,7.01,7.1,0.576,25.0,5.06,1,high
+SYN-004203,54,male,hip,farmer,Nagaland,as,0,5.14,5.84,8.2,7.9,10.0,7.46,4.87,0.775,12.0,3.58,1,high
+SYN-009301,66,male,other,farmer,Tripura,en,0,3.65,1.03,2.37,0.0,0.58,0.57,1.17,0.649,4.0,1.13,0,none
+SYN-005948,78,male,knee,farmer,Mizoram,en,0,4.57,0.56,0.0,1.7,1.6,3.11,0.0,0.68,7.0,2.15,0,none
+SYN-004237,47,female,hip,farmer,Arunachal Pradesh,bn,1,9.17,10.0,10.0,10.0,10.0,8.87,4.9,0.481,19.0,5.75,1,high
+SYN-001375,40,male,knee,farmer,Nagaland,en,0,5.53,2.1,2.97,4.33,3.81,4.12,3.36,0.829,12.0,1.88,0,mild
+SYN-001168,55,male,knee,transport,Meghalaya,as,0,1.93,2.12,5.12,2.8,4.17,3.71,4.3,0.328,6.0,3.88,0,mild
+SYN-005139,63,female,knee,farmer,Meghalaya,en,0,5.9,1.86,1.29,0.38,1.67,0.0,0.0,0.648,9.0,0.0,0,none
+SYN-005379,77,female,knee,household,Arunachal Pradesh,as,0,5.16,2.45,5.07,3.99,6.3,,2.23,0.262,15.0,2.1,0,mild
+SYN-004775,49,male,knee,farmer,Assam,as,0,4.32,4.01,2.35,2.55,4.73,1.07,0.03,0.368,6.0,0.76,0,mild
+SYN-001030,88,female,knee,office,Manipur,en,0,7.02,8.8,9.7,9.65,10.0,9.63,5.23,0.608,30.0,5.68,1,high
+SYN-001847,68,female,knee,farmer,Arunachal Pradesh,as,1,5.88,9.43,10.0,10.0,10.0,8.41,4.51,0.529,25.0,7.13,1,high
+SYN-009386,52,female,hip,other,Mizoram,en,0,7.2,9.98,10.0,10.0,10.0,7.48,7.45,0.665,20.0,5.29,1,high
+SYN-009805,43,male,other,farmer,Mizoram,hi,0,5.19,3.1,2.78,1.87,4.9,4.62,1.6,0.716,7.0,0.43,0,mild
+SYN-002487,59,female,hand,farmer,Manipur,bn,0,7.96,8.66,9.6,9.26,10.0,8.32,5.44,0.356,22.0,3.48,1,high
+SYN-000761,38,female,hip,farmer,Mizoram,hi,0,7.63,6.79,8.49,8.21,10.0,7.73,4.35,0.771,14.0,3.74,1,high
+SYN-008943,50,male,hand,household,Arunachal Pradesh,hi,0,1.01,5.7,7.42,7.93,10.0,8.84,3.94,0.657,9.0,4.25,0,high
+SYN-002306,37,female,knee,farmer,Arunachal Pradesh,as,0,1.55,2.79,4.47,2.44,4.81,3.49,,0.706,10.0,2.47,0,mild
+SYN-006233,44,female,hip,office,Meghalaya,as,0,1.47,0.47,0.54,0.0,0.51,0.87,0.34,0.568,10.0,0.45,0,none
+SYN-002870,40,female,hip,household,Assam,en,0,2.51,1.13,1.68,2.92,2.69,4.14,0.46,0.77,1.0,0.83,0,none
+SYN-011746,49,female,hip,farmer,Meghalaya,en,0,7.49,4.87,7.4,4.94,7.68,3.21,3.52,0.592,20.0,2.25,1,moderate
+SYN-002994,56,female,hip,farmer,Meghalaya,en,0,3.42,3.99,6.19,6.13,8.92,6.99,,0.817,10.0,5.36,1,moderate
+SYN-009925,50,male,hand,farmer,Mizoram,hi,0,2.09,5.77,4.37,6.1,10.0,6.81,2.16,0.528,2.0,4.19,0,moderate
+SYN-006702,49,female,hip,construction,Manipur,en,0,8.02,9.78,9.05,10.0,10.0,8.64,5.17,0.895,18.0,5.93,1,high
+SYN-005003,43,female,hand,construction,Sikkim,as,0,4.96,4.46,2.51,5.8,7.15,6.26,1.59,0.571,6.0,3.82,0,moderate
+SYN-009895,50,female,knee,farmer,Mizoram,hi,0,2.41,1.19,5.83,3.25,4.61,,2.04,0.524,1.0,1.16,0,mild
+SYN-000834,35,female,hand,other,Manipur,en,0,2.45,3.48,2.65,3.05,5.51,2.26,1.32,0.864,13.0,1.3,0,mild
+SYN-000701,64,female,knee,other,Meghalaya,hi,0,3.07,2.73,5.08,3.89,7.0,3.36,2.73,0.401,2.0,2.28,0,mild
+SYN-006670,83,male,hand,farmer,Nagaland,en,0,3.41,8.59,8.91,7.25,10.0,5.38,4.13,0.883,20.0,4.72,1,high
+SYN-007881,57,male,hip,farmer,Meghalaya,as,0,2.81,5.63,7.72,6.04,10.0,7.07,4.29,0.753,17.0,4.1,1,high
+SYN-006904,40,male,knee,farmer,Mizoram,hi,0,4.1,0.0,0.0,0.0,0.72,0.0,0.76,0.562,2.0,0.0,0,none
+SYN-011959,53,female,knee,farmer,Manipur,en,0,7.02,4.73,7.15,3.13,5.82,6.2,1.33,0.71,9.0,2.55,0,moderate
+SYN-006266,49,female,hip,construction,Nagaland,hi,0,4.12,5.74,7.95,6.22,8.44,5.35,4.06,0.909,13.0,2.97,0,high
+SYN-007774,62,female,knee,other,Arunachal Pradesh,hi,0,2.6,3.5,4.34,6.14,6.61,8.32,1.28,0.463,6.0,2.86,0,moderate
+SYN-005735,50,female,hip,other,Manipur,hi,0,7.49,2.78,6.61,4.98,3.01,4.38,4.24,0.533,5.0,2.02,0,mild
+SYN-010423,19,female,knee,construction,Meghalaya,hi,1,1.26,2.44,1.16,1.62,4.62,0.55,0.99,0.546,3.0,1.61,0,none
+SYN-007949,51,male,knee,other,Mizoram,en,0,4.44,0.6,0.0,0.0,0.0,0.0,0.0,0.727,0.0,0.0,0,none
+SYN-006688,22,male,knee,other,Mizoram,as,0,2.52,2.86,2.91,1.72,5.06,4.02,2.74,0.553,4.0,0.16,0,mild
+SYN-006899,36,female,knee,other,Mizoram,bn,0,7.82,1.91,0.0,0.71,3.01,,0.0,0.742,5.0,,0,none
+SYN-004265,43,female,knee,farmer,Arunachal Pradesh,as,0,5.61,0.0,0.0,0.95,0.0,1.82,0.0,0.696,8.0,0.38,0,none
+SYN-011537,40,male,other,farmer,Arunachal Pradesh,bn,0,8.06,2.76,3.37,6.7,7.85,6.25,3.89,0.552,6.0,2.12,0,moderate
+SYN-008887,31,female,hip,farmer,Assam,bn,0,3.67,0.0,0.0,0.0,1.52,0.0,0.89,0.718,0.0,0.0,0,none
+SYN-001838,70,female,knee,farmer,Nagaland,as,0,4.6,10.0,10.0,10.0,10.0,9.91,5.22,0.73,22.0,5.0,1,high
+SYN-001692,37,male,hip,construction,Manipur,as,0,4.86,5.16,7.78,6.15,8.41,6.81,5.04,0.619,7.0,2.24,0,high
+SYN-008494,37,male,knee,transport,Arunachal Pradesh,bn,1,5.1,9.9,10.0,8.68,10.0,10.0,5.52,0.6,18.0,6.2,1,high
+SYN-006314,54,male,knee,office,Mizoram,bn,0,2.31,6.59,9.89,10.0,10.0,10.0,5.39,0.568,14.0,4.86,1,high
+SYN-011701,48,male,knee,office,Tripura,as,0,2.55,2.74,5.86,1.34,4.99,2.62,2.92,0.628,12.0,2.27,0,mild
+SYN-007673,42,female,other,construction,Meghalaya,as,0,3.29,4.92,5.87,5.58,9.23,6.32,3.5,0.61,9.0,5.02,0,moderate
+SYN-002847,54,female,hand,construction,Sikkim,hi,0,5.24,8.6,8.97,7.75,10.0,8.31,4.59,0.536,16.0,5.83,1,high
+SYN-002117,31,female,hip,office,Arunachal Pradesh,as,1,7.07,10.0,10.0,10.0,10.0,9.14,4.31,0.806,15.0,6.46,1,high
+SYN-011251,61,female,knee,other,Mizoram,as,0,2.83,9.09,10.0,10.0,10.0,9.49,4.65,0.334,26.0,4.71,1,high
+SYN-005743,30,female,knee,other,Sikkim,as,0,3.64,2.81,2.33,3.02,4.4,4.1,1.78,0.699,8.0,1.5,0,mild
+SYN-001619,60,female,knee,household,Nagaland,bn,0,3.46,0.0,0.82,1.89,1.35,2.26,2.48,0.482,8.0,0.49,0,none
+SYN-003580,34,male,hand,other,Manipur,hi,0,2.22,0.0,0.64,0.0,0.0,0.38,3.18,0.322,0.0,0.68,0,none
+SYN-011466,51,male,knee,household,Sikkim,en,0,4.27,3.51,3.49,1.68,4.1,2.51,3.2,0.746,10.0,0.0,0,mild
+SYN-002961,40,female,knee,transport,Meghalaya,hi,0,6.82,4.83,4.79,3.0,5.73,7.14,0.68,0.42,13.0,1.66,0,mild
+SYN-000124,26,female,knee,other,Manipur,en,0,7.69,3.68,4.75,4.87,7.87,5.89,2.14,0.834,0.0,2.67,0,moderate
+SYN-001825,29,female,hand,construction,Tripura,as,1,3.28,5.02,3.44,2.85,4.45,3.13,3.37,0.475,13.0,,0,mild
+SYN-006953,61,female,hip,other,Sikkim,bn,1,6.32,7.66,8.12,7.56,10.0,7.22,4.79,0.569,22.0,5.42,1,high
+SYN-008480,46,female,knee,farmer,Arunachal Pradesh,hi,0,5.88,5.12,8.22,5.27,9.64,5.32,2.9,0.376,5.0,,0,high
+SYN-000964,69,female,hip,transport,Arunachal Pradesh,hi,0,1.25,4.5,4.08,2.6,3.02,4.56,2.25,0.533,15.0,0.24,0,mild
+SYN-002623,73,male,hand,office,Tripura,bn,1,1.79,10.0,10.0,10.0,10.0,7.51,5.51,0.549,23.0,5.8,1,high
+SYN-004257,59,female,knee,transport,Tripura,as,0,0.41,2.43,0.96,1.06,3.45,0.0,0.01,0.427,12.0,0.75,0,none
+SYN-004146,50,female,hand,other,Meghalaya,as,0,0.01,1.14,2.7,3.91,5.74,3.37,2.18,0.682,0.0,0.38,0,mild
+SYN-009351,85,male,hip,household,Sikkim,bn,0,9.11,10.0,10.0,10.0,10.0,8.27,5.61,0.69,23.0,4.45,1,high
+SYN-005048,88,female,knee,farmer,Arunachal Pradesh,hi,0,3.87,6.95,7.25,7.77,10.0,7.29,4.42,0.327,16.0,3.48,1,high
+SYN-007817,46,female,knee,office,Sikkim,en,1,6.02,10.0,10.0,10.0,10.0,7.87,6.58,0.643,26.0,5.5,1,high
+SYN-002116,71,female,other,household,Nagaland,hi,0,2.91,0.0,0.0,1.8,1.8,1.02,0.57,0.471,6.0,0.11,0,none
+SYN-011317,56,male,other,other,Nagaland,en,0,3.32,5.3,4.85,3.96,8.36,5.26,2.51,0.48,19.0,2.28,0,moderate
+SYN-006858,71,male,knee,construction,Nagaland,en,0,7.37,7.91,8.89,6.29,10.0,5.84,,0.846,22.0,4.41,1,high
+SYN-001470,18,male,hand,construction,Nagaland,hi,0,7.12,1.0,2.36,0.73,2.6,1.58,1.51,0.718,4.0,0.0,0,none
+SYN-011201,37,female,knee,office,Mizoram,as,0,6.39,0.0,0.0,0.0,1.63,0.35,0.0,0.396,0.0,0.0,0,none
+SYN-001871,49,female,knee,farmer,Tripura,en,1,1.45,7.0,6.32,6.69,10.0,7.55,2.47,0.698,16.0,4.55,1,high
+SYN-006631,52,male,hand,farmer,Arunachal Pradesh,as,1,8.68,7.78,7.71,7.49,9.97,8.35,4.25,0.457,10.0,5.11,1,high
+SYN-011557,45,male,knee,household,Manipur,en,0,3.03,5.68,7.62,6.94,10.0,9.35,5.05,0.493,14.0,2.82,1,high
+SYN-002638,86,male,hand,household,Manipur,hi,0,5.4,4.91,6.34,6.13,7.08,5.78,2.08,0.577,17.0,2.85,1,moderate
+SYN-010463,74,male,hand,other,Meghalaya,as,0,9.1,8.69,10.0,10.0,10.0,8.17,5.3,0.581,25.0,5.04,1,high
+SYN-005219,45,male,hip,farmer,Manipur,hi,0,2.41,3.22,5.04,3.11,5.07,4.43,2.2,,9.0,2.37,0,mild
+SYN-011415,86,male,hip,household,Arunachal Pradesh,as,0,2.13,7.24,6.55,7.69,9.77,7.47,,0.679,19.0,5.78,1,high
+SYN-003938,55,male,hip,farmer,Manipur,bn,0,8.85,10.0,10.0,10.0,10.0,8.56,6.31,0.792,15.0,5.42,1,high
+SYN-007526,52,female,knee,other,Mizoram,en,0,2.11,7.04,8.43,7.29,10.0,8.02,5.84,0.874,10.0,3.73,1,high
+SYN-004210,70,female,knee,farmer,Manipur,as,0,7.07,2.89,6.55,2.79,4.46,,0.73,0.533,14.0,0.73,0,mild
+SYN-005472,65,male,knee,construction,Meghalaya,hi,0,6.31,4.86,6.38,3.29,7.18,4.68,2.81,0.592,10.0,1.67,1,moderate
+SYN-002714,27,female,other,other,Nagaland,hi,0,3.72,0.0,0.42,0.0,0.0,0.0,0.0,0.649,6.0,1.78,0,none
+SYN-008619,54,female,hip,household,Mizoram,en,0,5.03,6.63,8.34,8.39,10.0,6.77,3.0,0.969,17.0,,1,high
+SYN-002633,84,female,knee,other,Sikkim,as,1,6.83,10.0,10.0,10.0,10.0,9.89,5.42,0.366,29.0,7.34,1,high
+SYN-002358,61,female,knee,farmer,Mizoram,bn,0,3.84,3.26,3.41,1.17,2.46,1.16,,0.434,14.0,1.3,0,none
+SYN-005928,60,female,hand,farmer,Nagaland,hi,0,7.93,3.79,8.19,6.22,9.99,6.92,4.31,0.696,11.0,3.15,1,high
+SYN-010968,55,female,hand,farmer,Sikkim,en,0,3.36,0.3,0.62,0.0,0.55,0.65,0.0,0.404,5.0,,0,none
+SYN-010928,57,female,knee,office,Tripura,en,0,7.2,5.25,6.46,8.16,10.0,9.14,4.58,1.0,15.0,4.38,1,high
+SYN-010484,35,male,knee,farmer,Mizoram,hi,0,7.06,9.81,9.33,9.71,10.0,7.59,4.39,,26.0,6.7,1,high
+SYN-004211,69,female,hip,farmer,Tripura,en,1,5.43,6.39,6.93,6.36,10.0,7.02,2.12,0.48,24.0,4.62,1,high
+SYN-010255,64,female,other,construction,Sikkim,hi,1,2.5,4.4,5.32,5.12,9.73,7.26,,0.571,15.0,2.41,1,moderate
+SYN-010261,51,female,knee,construction,Mizoram,bn,0,4.87,3.01,4.48,1.68,2.76,2.26,,0.858,9.0,0.0,0,mild
+SYN-010835,57,female,knee,farmer,Meghalaya,hi,0,7.6,4.02,4.13,6.55,9.28,6.48,4.54,0.421,16.0,,1,moderate
+SYN-003830,48,female,knee,household,Mizoram,hi,0,2.28,5.62,5.66,5.14,8.65,7.05,1.64,0.457,14.0,3.18,0,moderate
+SYN-002153,46,female,hip,office,Mizoram,hi,0,8.3,0.44,0.27,1.19,1.89,0.79,0.0,0.327,2.0,0.0,0,none
+SYN-003291,51,female,knee,farmer,Tripura,en,0,2.53,0.0,1.51,0.0,0.0,1.31,2.35,0.432,0.0,0.0,0,none
+SYN-006261,22,male,other,farmer,Manipur,en,0,7.39,4.44,7.53,5.21,8.58,5.09,5.14,0.562,11.0,0.71,0,moderate
+SYN-011087,55,male,knee,household,Tripura,hi,0,5.09,0.74,3.02,3.19,4.03,3.94,1.21,0.601,3.0,1.77,0,mild
+SYN-002679,52,female,knee,household,Sikkim,as,0,2.18,5.46,8.14,7.69,10.0,7.59,4.3,0.458,15.0,2.76,1,high
+SYN-000639,45,male,knee,household,Tripura,bn,0,4.32,0.0,0.28,0.0,0.81,0.0,0.0,0.633,0.0,0.0,0,none
+SYN-007025,64,male,hip,household,Assam,en,0,5.51,7.89,9.61,8.81,10.0,7.91,5.02,0.443,23.0,3.32,1,high
+SYN-011350,32,male,knee,other,Manipur,as,0,3.91,3.86,4.66,7.41,10.0,6.9,3.67,0.449,14.0,3.71,0,moderate
+SYN-002007,51,female,knee,farmer,Arunachal Pradesh,en,0,2.05,0.33,1.86,1.44,0.17,0.1,1.2,0.53,3.0,0.17,0,none
+SYN-007692,52,female,knee,farmer,Mizoram,as,0,2.09,1.25,1.0,2.21,3.13,1.02,0.0,0.54,5.0,2.41,0,none
+SYN-011400,84,male,hip,other,Mizoram,en,0,6.57,8.4,9.27,8.32,10.0,6.87,3.59,0.757,27.0,5.57,1,high
+SYN-006097,68,male,knee,other,Sikkim,hi,0,8.1,9.81,10.0,10.0,10.0,8.64,5.44,0.601,24.0,6.21,1,high
+SYN-003809,18,female,knee,other,Nagaland,as,0,2.05,1.73,0.0,0.2,2.32,0.44,1.15,0.747,8.0,1.43,0,none
+SYN-002889,52,male,hip,farmer,Mizoram,as,0,3.82,0.0,2.21,0.0,0.0,,0.0,0.235,0.0,0.32,0,none
+SYN-000143,62,female,knee,farmer,Manipur,en,0,7.77,0.64,0.43,0.0,0.96,2.92,0.6,0.676,6.0,0.0,0,none
+SYN-009681,51,male,hip,other,Manipur,en,0,3.98,1.76,3.48,0.01,0.98,0.01,1.1,0.721,7.0,0.0,0,none
+SYN-010984,35,female,knee,office,Assam,as,0,7.51,7.31,6.23,6.99,9.23,10.0,4.04,0.577,6.0,3.44,1,high
+SYN-000549,79,male,knee,office,Tripura,hi,1,7.26,9.11,10.0,10.0,10.0,,5.26,0.453,21.0,,1,high
+SYN-009905,51,male,other,transport,Manipur,as,0,7.04,5.24,5.66,5.29,8.14,5.62,4.79,0.729,12.0,3.28,0,moderate
+SYN-011908,51,male,hand,farmer,Manipur,en,0,8.68,9.99,9.64,9.34,10.0,8.87,5.63,0.8,24.0,6.47,1,high
+SYN-004172,48,male,knee,office,Meghalaya,en,0,5.08,2.95,3.87,2.6,4.22,3.53,,0.436,13.0,2.06,0,mild
+SYN-001822,38,male,knee,farmer,Mizoram,as,1,2.41,9.1,9.09,10.0,10.0,7.98,4.19,0.472,18.0,5.24,1,high
+SYN-002196,54,female,hip,other,Nagaland,as,0,8.06,9.4,10.0,8.78,10.0,8.97,6.25,0.774,15.0,5.15,1,high
+SYN-001552,42,male,hip,construction,Manipur,en,0,7.52,3.26,4.77,6.0,8.38,6.23,3.49,0.76,4.0,3.86,0,moderate
+SYN-011471,55,male,knee,office,Mizoram,hi,0,3.15,4.87,5.18,5.04,9.39,5.94,2.0,0.547,11.0,4.41,0,moderate
+SYN-008062,57,female,knee,farmer,Tripura,as,0,2.79,0.98,1.69,1.39,0.0,1.45,0.82,0.667,4.0,1.55,0,none
+SYN-000086,68,male,other,office,Assam,hi,0,6.52,7.19,10.0,6.62,10.0,7.95,5.66,0.351,17.0,4.01,1,high
+SYN-007226,50,female,knee,transport,Meghalaya,en,0,2.25,1.32,4.01,2.07,1.53,2.16,,0.628,4.0,0.0,0,none
+SYN-011562,81,female,knee,household,Mizoram,en,0,1.87,8.18,9.04,7.31,10.0,6.84,4.67,0.502,26.0,3.88,1,high
+SYN-007389,55,male,hip,farmer,Assam,as,0,5.69,1.97,0.0,0.56,1.83,1.43,0.01,0.937,12.0,1.8,0,none
+SYN-001615,38,male,hip,household,Sikkim,en,0,7.62,6.05,6.17,5.65,10.0,6.57,4.61,0.592,10.0,5.52,1,high
+SYN-002378,67,female,knee,household,Nagaland,bn,1,5.16,10.0,10.0,10.0,10.0,6.76,5.34,0.428,23.0,5.99,1,high
+SYN-007128,51,female,knee,construction,Manipur,en,1,3.29,8.02,10.0,10.0,10.0,10.0,5.23,0.553,14.0,4.58,1,high
+SYN-005257,55,female,knee,household,Arunachal Pradesh,hi,0,4.59,3.08,2.13,4.33,5.61,,2.11,0.642,9.0,0.0,0,mild
+SYN-003436,30,female,hand,other,Tripura,en,0,6.78,4.65,5.79,5.48,6.24,7.13,3.03,0.973,12.0,1.43,0,moderate
+SYN-004367,55,male,knee,household,Arunachal Pradesh,as,0,5.18,0.82,0.61,0.0,0.97,2.53,1.78,0.532,2.0,1.37,0,none
+SYN-006404,64,female,knee,household,Sikkim,bn,0,3.17,0.0,0.22,0.0,0.78,2.46,0.96,0.581,5.0,0.44,0,none
+SYN-007177,71,male,knee,office,Arunachal Pradesh,bn,0,8.34,8.63,10.0,8.92,10.0,8.7,5.32,0.15,24.0,6.48,1,high
+SYN-004851,32,male,other,farmer,Assam,bn,1,3.08,2.01,4.05,4.97,6.82,5.33,4.6,0.442,2.0,2.36,0,mild
+SYN-008518,33,female,hand,farmer,Meghalaya,as,0,3.68,0.0,0.0,0.0,1.5,0.06,0.22,0.405,1.0,0.0,0,none
+SYN-008821,18,male,knee,office,Meghalaya,en,0,4.32,0.0,0.0,0.25,0.0,0.3,0.26,0.802,1.0,1.09,0,none
+SYN-003150,37,male,knee,transport,Nagaland,bn,0,7.49,5.05,7.46,3.57,6.81,4.88,,0.458,7.0,4.03,0,moderate
+SYN-010190,73,female,knee,construction,Meghalaya,as,0,4.6,4.29,5.6,4.38,6.92,2.9,2.42,0.244,18.0,2.94,0,moderate
+SYN-011665,54,male,knee,household,Manipur,as,0,8.39,10.0,9.93,10.0,10.0,6.92,6.47,0.58,23.0,6.82,1,high
+SYN-011892,57,female,knee,office,Sikkim,as,0,4.7,1.92,2.0,0.55,0.91,0.26,1.17,0.475,10.0,0.0,0,none
+SYN-005033,62,male,knee,transport,Mizoram,en,0,1.85,6.27,9.01,8.51,10.0,6.93,4.24,0.494,16.0,3.11,1,high
+SYN-008404,62,male,knee,farmer,Arunachal Pradesh,as,1,1.6,0.83,3.52,2.99,1.53,2.27,3.67,0.727,6.0,2.59,0,none
+SYN-009904,63,male,hand,farmer,Arunachal Pradesh,as,0,5.69,3.45,2.61,3.39,5.76,1.67,1.23,0.391,4.0,2.7,0,mild
+SYN-011341,80,male,knee,farmer,Nagaland,en,0,4.24,6.13,7.14,7.45,10.0,8.09,5.05,0.798,17.0,5.06,1,high
+SYN-005304,46,female,knee,transport,Nagaland,en,0,2.25,0.0,0.76,1.02,0.0,0.63,0.0,0.617,0.0,,0,none
+SYN-010737,52,female,knee,transport,Assam,en,1,3.68,2.04,3.93,2.31,4.53,4.31,2.85,0.742,11.0,1.03,0,mild
+SYN-006391,76,female,hip,farmer,Meghalaya,as,0,8.79,10.0,10.0,10.0,10.0,8.31,5.35,0.498,25.0,6.22,1,high
+SYN-003143,66,female,hand,construction,Meghalaya,bn,1,5.36,10.0,10.0,10.0,10.0,7.92,5.79,0.485,30.0,7.22,1,high
+SYN-001535,64,female,knee,household,Sikkim,hi,0,7.26,4.58,8.79,6.79,9.46,8.32,,0.748,13.0,4.04,1,high
+SYN-003930,67,female,knee,farmer,Nagaland,bn,0,3.38,6.48,6.91,6.78,8.92,6.34,5.14,0.398,21.0,2.9,1,high
+SYN-008215,55,female,knee,farmer,Arunachal Pradesh,en,1,5.48,7.01,10.0,9.97,10.0,8.04,5.97,0.688,17.0,4.93,1,high
+SYN-001300,52,male,knee,transport,Nagaland,as,0,3.22,4.78,5.49,6.38,10.0,8.11,5.17,0.536,14.0,3.27,0,high
+SYN-008349,51,male,hand,farmer,Assam,as,0,5.48,3.41,5.94,4.75,7.2,4.1,4.19,0.664,13.0,3.02,0,moderate
+SYN-006945,53,male,knee,office,Assam,hi,0,4.34,3.14,4.29,3.77,4.28,3.61,2.52,0.664,10.0,3.46,0,mild
+SYN-004565,40,female,other,other,Meghalaya,as,0,7.12,7.23,7.08,8.15,10.0,8.62,4.6,,16.0,4.29,1,high
+SYN-002885,73,female,hip,farmer,Tripura,hi,0,2.79,1.12,3.49,2.45,6.16,3.74,0.03,,13.0,0.22,0,mild
+SYN-002859,51,male,hip,other,Arunachal Pradesh,en,0,5.22,6.76,6.83,4.54,7.21,4.88,4.39,0.331,17.0,,1,moderate
+SYN-003849,68,male,knee,farmer,Meghalaya,hi,0,3.84,4.72,6.35,7.14,10.0,8.3,2.24,0.672,21.0,2.89,1,high
+SYN-001889,84,female,knee,farmer,Meghalaya,hi,0,2.88,10.0,10.0,10.0,10.0,10.0,7.42,0.55,26.0,4.57,1,high
+SYN-004138,18,male,knee,construction,Sikkim,bn,0,6.9,2.83,0.0,2.74,3.56,3.88,0.0,0.519,3.0,0.79,0,none
+SYN-000235,38,female,knee,household,Manipur,bn,1,0.0,3.6,4.94,2.92,5.65,4.86,3.75,0.391,12.0,2.42,0,mild
+SYN-010594,44,female,knee,transport,Arunachal Pradesh,as,0,1.14,1.64,3.84,5.08,7.12,3.31,4.15,0.826,6.0,3.29,0,mild
+SYN-003905,80,female,knee,household,Manipur,en,0,6.62,6.84,7.27,6.51,10.0,5.93,3.65,0.778,17.0,5.38,1,high
+SYN-007191,38,female,hip,household,Assam,hi,0,5.58,3.61,4.73,4.62,6.89,3.61,3.05,0.849,9.0,2.81,0,mild
+SYN-002068,58,male,hip,other,Assam,hi,0,1.92,6.86,8.58,9.38,10.0,10.0,,0.298,16.0,5.6,1,high
+SYN-010962,60,female,knee,construction,Manipur,en,0,3.52,0.18,2.82,1.88,0.9,0.69,0.0,0.576,1.0,0.0,0,none
+SYN-006273,63,male,hand,farmer,Nagaland,hi,0,5.75,4.45,7.18,5.65,5.39,5.85,,0.526,16.0,2.29,1,moderate
+SYN-008559,44,male,knee,construction,Assam,as,0,6.28,2.97,0.14,0.0,1.89,0.32,2.6,0.677,5.0,2.22,0,none
+SYN-005585,28,male,knee,office,Manipur,en,0,1.48,2.33,4.14,3.12,5.53,4.15,0.46,0.574,14.0,3.87,0,mild
+SYN-009861,58,male,hand,other,Meghalaya,en,0,6.74,10.0,10.0,10.0,10.0,9.03,4.81,0.839,18.0,6.17,1,high
+SYN-005169,71,female,knee,household,Nagaland,en,1,3.87,9.76,10.0,10.0,10.0,9.88,5.74,0.512,32.0,4.25,1,high
+SYN-001210,46,female,knee,household,Mizoram,en,0,7.78,2.28,3.33,4.43,5.74,4.91,1.95,0.549,13.0,3.2,0,mild
+SYN-005795,43,male,hip,other,Mizoram,en,0,6.5,1.03,1.54,2.18,1.93,2.17,0.0,0.738,2.0,2.23,0,none
+SYN-009475,32,female,knee,farmer,Manipur,bn,0,3.81,2.55,2.71,3.49,4.96,4.57,0.73,0.62,5.0,3.17,0,mild
+SYN-009729,53,male,knee,farmer,Nagaland,as,1,7.27,1.59,4.39,3.74,6.71,5.52,0.88,0.414,9.0,1.15,0,mild
+SYN-004900,54,female,knee,farmer,Meghalaya,en,0,3.4,6.36,6.84,5.27,9.25,4.71,3.73,0.601,16.0,3.78,0,moderate
+SYN-007610,50,female,other,office,Tripura,as,1,4.07,8.45,8.96,6.08,10.0,6.62,4.1,0.576,28.0,4.38,1,high
+SYN-001602,42,female,knee,office,Mizoram,as,0,9.41,6.41,6.01,6.84,10.0,6.29,4.21,0.628,13.0,3.75,1,high
+SYN-000702,78,female,hip,office,Meghalaya,bn,0,2.65,6.22,7.02,8.15,10.0,8.18,4.87,0.921,25.0,4.54,1,high
+SYN-001781,51,male,knee,other,Sikkim,as,1,8.56,2.95,3.84,2.45,3.99,2.92,1.57,0.485,0.0,2.64,0,mild
+SYN-000134,29,female,knee,household,Nagaland,as,0,0.93,0.04,0.0,0.0,4.03,2.37,0.0,0.769,1.0,0.0,0,none
+SYN-007496,54,female,knee,other,Assam,en,0,8.06,5.11,7.79,9.25,10.0,,4.85,1.0,,5.71,1,high
+SYN-010430,67,male,knee,other,Arunachal Pradesh,bn,1,4.77,9.34,10.0,10.0,10.0,8.17,3.03,0.653,20.0,7.76,1,high
+SYN-008181,51,male,hand,office,Meghalaya,en,0,5.92,0.29,0.0,0.0,0.59,0.75,0.0,,0.0,0.0,0,none
+SYN-002298,40,female,hand,office,Sikkim,en,0,3.79,0.7,0.0,0.0,1.94,0.31,1.33,0.448,1.0,0.26,0,none
+SYN-011480,65,male,knee,other,Manipur,as,1,2.02,10.0,10.0,10.0,10.0,9.35,6.83,0.392,32.0,6.79,1,high
+SYN-002457,66,male,knee,other,Mizoram,hi,0,3.94,10.0,10.0,10.0,10.0,9.24,,0.627,24.0,6.31,1,high
+SYN-003564,78,male,knee,transport,Tripura,hi,1,3.37,10.0,9.17,9.91,10.0,,5.67,0.567,23.0,6.86,1,high
+SYN-007549,42,female,knee,office,Arunachal Pradesh,en,0,3.7,2.39,4.26,4.96,7.69,4.05,,0.642,11.0,3.17,0,mild
+SYN-004022,45,male,knee,household,Arunachal Pradesh,bn,1,0.97,1.58,2.91,0.0,0.77,0.0,2.0,0.44,6.0,0.39,0,none
+SYN-006886,44,male,knee,farmer,Mizoram,as,0,0.4,0.0,0.0,0.0,1.48,0.98,0.11,0.593,0.0,0.11,0,none
+SYN-008924,41,male,hip,office,Arunachal Pradesh,as,0,4.21,1.26,1.56,1.3,0.51,,0.76,0.531,3.0,1.06,0,none
+SYN-005285,36,female,knee,construction,Meghalaya,as,0,1.82,2.77,0.16,1.06,3.05,,0.89,0.536,11.0,0.96,0,none
+SYN-009516,43,male,knee,office,Nagaland,bn,0,3.48,2.82,3.08,0.39,3.84,2.03,1.32,0.551,11.0,0.0,0,none
+SYN-003441,56,female,knee,office,Tripura,hi,0,2.88,0.0,1.94,0.78,2.35,0.2,1.88,0.588,3.0,0.0,0,none
+SYN-005789,48,male,hand,other,Sikkim,bn,0,6.65,9.37,7.24,10.0,10.0,,3.91,0.383,,5.56,1,high
+SYN-005629,60,male,hip,construction,Tripura,as,0,7.54,10.0,10.0,10.0,10.0,10.0,6.79,0.706,29.0,6.59,1,high
+SYN-009340,33,female,other,construction,Arunachal Pradesh,en,0,8.97,3.59,2.92,3.39,5.71,4.51,3.22,0.784,9.0,2.25,0,mild
+SYN-011956,44,male,knee,office,Sikkim,en,0,5.79,2.97,4.09,2.47,2.96,,1.51,0.533,0.0,1.77,0,mild
+SYN-000290,77,male,knee,office,Nagaland,as,0,3.16,3.92,7.76,6.52,8.14,7.51,4.81,0.529,21.0,2.57,1,high
+SYN-006129,31,female,knee,office,Mizoram,bn,0,3.99,0.06,0.0,0.0,2.04,1.44,0.0,0.511,3.0,0.49,0,none
+SYN-006303,49,female,hip,construction,Nagaland,as,1,4.18,7.49,6.2,7.2,10.0,,3.39,0.628,18.0,3.81,1,high
+SYN-000079,22,female,other,farmer,Tripura,as,0,4.52,4.96,6.25,7.12,9.7,6.64,3.73,1.0,9.0,2.48,0,high
+SYN-001743,66,female,other,other,Nagaland,en,0,5.62,4.2,2.52,2.49,2.88,,2.66,0.615,13.0,3.77,0,mild
+SYN-005359,74,male,hand,office,Meghalaya,hi,0,3.87,9.84,7.99,6.14,10.0,7.96,4.38,0.825,30.0,4.11,1,high
+SYN-009734,33,female,knee,other,Meghalaya,hi,0,4.94,2.1,1.58,0.0,3.31,,0.0,0.585,12.0,1.14,0,none
+SYN-003290,67,male,knee,farmer,Meghalaya,en,1,6.43,10.0,10.0,10.0,10.0,8.83,,0.657,18.0,7.67,1,high
+SYN-011981,29,female,hip,farmer,Mizoram,as,0,2.06,3.56,6.2,3.26,6.16,5.74,3.52,0.615,7.0,3.49,0,moderate
+SYN-007442,60,male,knee,household,Tripura,en,0,1.32,4.81,8.14,7.07,9.64,6.1,5.34,,17.0,3.83,0,high
+SYN-006387,64,female,knee,farmer,Sikkim,as,0,6.1,5.38,8.64,7.3,10.0,6.58,5.07,0.71,16.0,3.0,1,high
+SYN-007637,67,female,knee,household,Sikkim,hi,0,4.92,1.04,1.01,1.9,3.53,0.67,0.22,,9.0,2.07,0,none
+SYN-003712,56,female,hand,construction,Mizoram,bn,0,4.93,8.11,10.0,10.0,10.0,9.52,7.35,0.502,24.0,6.94,1,high
+SYN-002110,36,male,hand,construction,Manipur,bn,1,5.66,2.82,5.58,5.2,9.07,7.25,,0.725,15.0,4.54,0,moderate
+SYN-004735,86,female,knee,other,Mizoram,bn,0,8.06,8.28,10.0,10.0,10.0,9.86,6.46,0.425,36.0,5.32,1,high
+SYN-008905,46,female,knee,household,Sikkim,en,0,4.59,6.92,9.11,10.0,10.0,8.38,5.95,0.434,17.0,5.92,1,high
+SYN-000469,40,female,knee,office,Nagaland,bn,0,6.29,6.71,10.0,7.2,10.0,8.57,5.17,0.557,15.0,3.39,1,high
+SYN-002778,60,male,knee,household,Sikkim,as,1,4.8,10.0,10.0,10.0,10.0,9.41,6.59,0.15,25.0,5.55,1,high
+SYN-009512,74,female,hip,office,Assam,bn,0,5.67,2.94,8.05,5.67,6.03,6.24,1.98,0.405,16.0,2.85,1,moderate
+SYN-004684,77,male,knee,office,Arunachal Pradesh,bn,0,8.05,7.86,9.13,9.04,10.0,9.57,5.07,0.455,19.0,4.9,1,high
+SYN-002493,34,male,hip,office,Assam,hi,1,7.11,8.6,10.0,9.39,10.0,9.53,5.54,0.659,12.0,5.12,1,high
+SYN-006622,44,female,knee,household,Tripura,en,0,3.3,3.31,3.48,2.66,5.58,2.4,2.59,0.994,9.0,0.25,0,mild
+SYN-006035,63,male,knee,farmer,Manipur,bn,1,5.32,6.99,9.07,9.25,10.0,8.62,4.69,0.599,15.0,4.03,1,high
+SYN-005478,88,female,hand,farmer,Tripura,en,0,5.59,9.29,10.0,9.98,10.0,10.0,5.65,0.652,21.0,6.2,1,high
+SYN-011252,47,male,other,household,Assam,hi,0,8.75,6.24,10.0,7.72,10.0,8.6,7.03,0.385,,5.54,1,high
+SYN-011296,33,male,knee,household,Assam,en,0,0.39,0.0,1.16,0.0,0.0,,,,2.0,0.07,0,none
+SYN-005399,70,female,knee,farmer,Assam,as,0,3.94,4.64,5.42,4.33,9.98,6.3,2.61,0.349,18.0,2.96,0,moderate
+SYN-006139,41,male,knee,household,Arunachal Pradesh,bn,0,0.34,1.92,3.05,0.91,2.52,1.0,1.33,0.652,4.0,0.0,0,none
+SYN-000072,53,female,knee,construction,Nagaland,as,0,1.98,1.31,3.0,4.88,4.71,5.14,3.57,0.528,2.0,2.12,0,mild
+SYN-009056,62,male,knee,farmer,Sikkim,hi,0,1.53,4.43,5.97,4.83,6.83,5.62,2.51,0.568,13.0,3.58,0,moderate
+SYN-008970,28,female,hip,construction,Manipur,bn,0,5.73,10.0,10.0,9.44,10.0,,5.93,0.476,27.0,5.87,1,high
+SYN-011383,60,female,knee,construction,Mizoram,as,0,3.82,2.44,4.14,3.49,6.15,6.62,4.0,0.645,1.0,2.46,0,mild
+SYN-010436,35,male,knee,construction,Manipur,as,1,7.44,8.53,10.0,10.0,10.0,8.95,5.68,0.403,18.0,5.73,1,high
+SYN-008677,63,female,knee,farmer,Mizoram,hi,0,6.53,6.75,6.4,10.0,10.0,7.19,4.97,0.773,14.0,5.34,1,high
+SYN-002450,49,male,hand,office,Meghalaya,bn,1,8.51,9.28,10.0,10.0,10.0,7.72,4.48,0.367,22.0,5.39,1,high
+SYN-011963,53,male,hand,household,Meghalaya,hi,0,4.3,0.0,0.0,1.2,1.58,1.81,0.0,0.84,0.0,0.75,0,none
+SYN-001657,82,female,knee,farmer,Manipur,bn,0,5.62,8.55,10.0,10.0,10.0,10.0,4.19,0.198,27.0,6.12,1,high
+SYN-006994,74,female,knee,farmer,Assam,as,1,8.04,10.0,10.0,10.0,10.0,10.0,4.73,0.746,26.0,4.66,1,high
+SYN-004580,46,female,hip,household,Tripura,en,0,6.33,6.29,5.65,6.84,10.0,8.1,4.91,0.877,12.0,5.23,0,high
+SYN-010161,66,female,hand,farmer,Nagaland,as,1,3.35,3.78,5.38,5.52,9.06,4.67,0.81,0.647,11.0,4.91,0,moderate
+SYN-008917,63,male,hand,construction,Mizoram,as,0,5.37,10.0,10.0,10.0,10.0,9.01,6.52,0.375,26.0,7.45,1,high
+SYN-001461,55,male,knee,transport,Meghalaya,en,0,5.95,7.17,8.01,6.84,10.0,8.97,3.78,0.518,16.0,2.69,1,high
+SYN-002071,62,female,knee,office,Manipur,en,1,5.9,9.92,10.0,10.0,10.0,9.48,6.55,0.765,18.0,7.56,1,high
+SYN-000696,68,female,hand,office,Mizoram,hi,0,9.52,8.71,9.63,9.5,10.0,8.42,6.46,0.682,18.0,5.46,1,high
+SYN-009332,45,female,knee,office,Nagaland,en,1,7.29,3.97,4.83,5.42,5.76,5.8,,0.632,,3.31,1,moderate
+SYN-002438,55,female,hip,household,Mizoram,en,0,5.55,5.81,4.08,5.44,9.44,9.24,2.39,,9.0,2.72,1,moderate
+SYN-001824,59,female,knee,transport,Assam,hi,1,5.23,5.92,8.14,9.33,10.0,8.03,4.4,0.607,18.0,4.15,1,high
+SYN-011748,36,male,knee,office,Sikkim,as,0,4.7,4.32,3.68,0.76,4.73,1.76,0.0,0.532,7.0,0.87,0,mild
+SYN-001989,35,female,knee,other,Meghalaya,hi,0,2.85,4.02,5.88,5.18,7.68,5.49,0.87,0.732,6.0,2.1,0,moderate
+SYN-000979,34,male,hand,construction,Assam,as,0,3.26,3.78,6.49,7.06,7.13,5.77,4.21,0.513,6.0,2.96,0,moderate
+SYN-002432,66,male,hip,farmer,Sikkim,as,0,4.5,8.81,10.0,9.59,10.0,9.23,6.42,0.329,16.0,5.98,1,high
+SYN-004391,83,female,knee,construction,Mizoram,en,0,7.5,5.71,6.2,7.32,10.0,9.16,1.23,0.712,21.0,3.84,1,high
+SYN-006823,61,male,knee,household,Nagaland,bn,0,4.88,0.12,1.72,0.0,0.0,1.19,1.25,0.62,7.0,0.0,0,none
+SYN-008239,46,female,hand,household,Nagaland,hi,0,5.92,2.22,1.73,0.0,1.89,1.4,1.73,0.775,6.0,1.17,0,none
+SYN-006282,20,female,hip,office,Mizoram,bn,0,6.45,0.73,1.32,1.65,1.54,1.31,1.5,0.468,0.0,2.11,0,none
+SYN-005753,50,female,hip,farmer,Nagaland,as,0,4.93,7.51,9.92,8.9,10.0,9.78,,0.53,14.0,5.61,1,high
+SYN-007894,56,female,knee,other,Nagaland,hi,0,2.49,4.81,4.55,5.47,8.61,6.31,2.42,0.661,16.0,5.17,0,moderate
+SYN-004447,47,female,knee,farmer,Nagaland,bn,0,5.38,6.49,6.79,8.22,10.0,9.63,6.52,0.615,15.0,4.93,1,high
+SYN-008299,46,female,knee,construction,Tripura,en,0,5.3,8.01,8.29,7.18,10.0,7.93,1.49,0.702,21.0,6.06,0,high
+SYN-009672,27,female,knee,other,Meghalaya,hi,0,4.95,1.91,2.48,2.68,4.53,3.1,0.0,0.522,7.0,1.57,0,mild
+SYN-008705,54,female,hip,household,Tripura,hi,0,7.77,6.27,8.16,6.48,10.0,3.65,2.5,0.526,13.0,4.14,0,high
+SYN-004329,57,female,other,household,Sikkim,en,0,7.24,4.08,3.55,1.27,3.61,1.81,3.3,0.82,18.0,0.0,0,mild
+SYN-001018,33,male,knee,transport,Tripura,hi,0,3.28,0.0,0.0,0.0,1.86,0.78,1.58,0.162,7.0,0.43,0,none
+SYN-007381,50,female,knee,transport,Nagaland,as,0,8.01,4.07,1.62,2.41,6.58,4.37,1.9,0.559,7.0,1.79,0,mild
+SYN-000769,86,female,knee,household,Arunachal Pradesh,en,1,0.66,8.88,10.0,8.83,10.0,8.56,3.33,0.685,24.0,4.61,1,high
+SYN-003416,65,female,knee,household,Sikkim,as,0,6.15,4.6,5.29,6.98,9.83,7.23,3.47,0.506,19.0,4.56,1,high
+SYN-009330,57,female,other,transport,Manipur,as,0,4.02,10.0,10.0,10.0,10.0,8.43,6.19,0.412,22.0,8.09,1,high
+SYN-001071,25,male,hip,farmer,Assam,as,0,5.04,2.46,0.74,3.79,4.93,4.44,1.25,0.734,4.0,1.23,0,mild
+SYN-006538,42,male,knee,construction,Nagaland,bn,1,2.29,6.48,7.86,6.68,10.0,6.44,3.15,0.844,7.0,5.21,0,high
+SYN-000428,63,female,hand,transport,Mizoram,en,1,3.89,7.57,9.82,7.49,10.0,8.48,,0.733,19.0,6.36,1,high
+SYN-000752,76,male,knee,office,Nagaland,hi,0,5.43,4.78,4.86,2.9,4.83,4.43,2.39,0.677,11.0,1.69,0,mild
+SYN-009459,73,male,knee,farmer,Sikkim,as,0,3.65,4.51,5.42,5.45,8.34,,3.81,0.629,14.0,3.28,1,moderate
+SYN-008125,61,female,other,household,Tripura,bn,0,8.55,1.37,0.89,1.91,2.48,2.69,1.5,0.649,12.0,3.29,0,none
+SYN-000648,49,female,knee,farmer,Manipur,en,0,8.39,10.0,10.0,10.0,10.0,,6.36,0.74,19.0,4.54,1,high
+SYN-011427,37,female,knee,transport,Tripura,as,0,4.34,2.94,1.66,1.56,3.32,3.22,0.66,0.473,9.0,2.19,0,none
+SYN-009499,62,male,knee,office,Mizoram,bn,1,3.93,10.0,10.0,10.0,10.0,10.0,6.38,0.74,21.0,4.83,1,high
+SYN-009275,64,male,knee,transport,Nagaland,as,0,7.5,10.0,10.0,10.0,10.0,7.98,4.21,,24.0,6.13,1,high
+SYN-001393,67,female,knee,construction,Assam,bn,0,5.95,6.41,6.97,7.17,10.0,9.07,4.57,0.624,15.0,3.84,1,high
+SYN-003744,39,female,other,construction,Manipur,en,0,5.49,4.52,7.25,4.66,7.6,5.86,2.88,0.538,10.0,,1,moderate
+SYN-001444,30,female,knee,household,Arunachal Pradesh,as,0,5.19,1.35,0.87,0.0,0.0,1.01,0.0,0.637,1.0,0.29,0,none
+SYN-009964,46,female,knee,household,Manipur,bn,0,6.96,3.91,6.28,3.75,7.33,4.41,3.05,0.869,4.0,2.19,0,moderate
+SYN-002620,49,male,hip,farmer,Meghalaya,hi,0,1.83,5.37,4.96,5.66,9.86,7.64,3.48,0.449,10.0,2.48,0,moderate
+SYN-001830,48,female,knee,construction,Mizoram,hi,0,5.63,6.36,9.09,8.96,10.0,9.99,6.26,0.34,7.0,4.87,1,high
+SYN-001757,54,male,hip,farmer,Manipur,en,1,3.92,5.06,3.23,4.18,8.24,7.19,1.55,0.821,12.0,2.31,0,moderate
+SYN-002823,36,female,hand,office,Manipur,as,0,5.41,3.1,4.57,3.86,6.4,4.69,1.84,0.425,10.0,1.95,0,mild
+SYN-003109,51,female,knee,construction,Assam,hi,0,3.69,0.0,0.24,0.0,0.7,0.0,0.0,0.87,3.0,0.0,0,none
+SYN-009555,46,female,knee,other,Sikkim,en,1,2.07,1.64,2.35,2.29,4.73,3.05,2.24,0.411,9.0,0.0,0,mild
+SYN-011661,47,male,knee,transport,Tripura,as,0,5.24,8.2,9.39,9.61,10.0,7.96,5.44,0.714,12.0,5.36,1,high
+SYN-006894,51,male,knee,other,Nagaland,as,0,1.16,5.12,5.67,5.89,9.22,6.18,1.17,0.711,9.0,4.4,0,moderate
+SYN-011785,18,female,hand,farmer,Assam,hi,0,0.46,1.54,0.0,1.04,2.64,1.03,1.07,0.69,5.0,1.76,0,none
+SYN-001424,53,male,knee,household,Manipur,as,0,4.53,8.04,9.26,8.8,10.0,7.83,4.01,0.659,16.0,5.14,1,high
+SYN-002489,70,female,knee,other,Assam,as,0,4.69,9.48,10.0,9.65,10.0,9.31,7.39,0.479,22.0,5.42,1,high
+SYN-003002,47,female,knee,farmer,Mizoram,as,1,4.68,7.29,9.4,7.96,10.0,7.7,4.21,0.526,13.0,3.86,1,high
+SYN-009876,38,female,knee,farmer,Meghalaya,as,0,6.2,0.91,0.75,0.45,0.36,0.85,1.13,0.548,1.0,0.0,0,none
+SYN-007090,40,female,knee,office,Nagaland,hi,0,2.59,6.09,7.69,5.13,7.6,,4.55,0.402,8.0,4.41,0,moderate
+SYN-002025,59,male,hip,transport,Mizoram,as,0,8.68,8.31,5.92,10.0,10.0,8.47,4.72,0.627,15.0,5.36,1,high
+SYN-006684,28,female,other,office,Arunachal Pradesh,hi,0,4.26,5.04,3.61,7.18,9.38,8.62,2.98,0.43,13.0,3.23,0,moderate
+SYN-008275,55,female,other,household,Mizoram,as,0,4.99,9.14,10.0,9.65,10.0,,6.23,0.373,16.0,7.08,1,high
+SYN-001630,64,female,knee,household,Mizoram,as,0,4.12,7.94,9.24,8.1,10.0,,5.34,0.528,,3.25,1,high
+SYN-006928,18,male,hip,household,Tripura,hi,0,2.55,6.05,6.46,6.51,8.14,6.55,2.49,0.779,9.0,2.49,0,high
+SYN-001773,41,male,hand,office,Sikkim,as,0,4.87,3.61,7.29,3.58,4.94,,2.46,0.521,12.0,1.25,0,mild
+SYN-011093,44,female,knee,farmer,Arunachal Pradesh,as,0,6.01,3.1,2.81,0.0,0.0,0.0,1.57,0.463,17.0,1.11,0,none
+SYN-010638,36,female,hand,other,Manipur,bn,0,6.69,5.32,8.38,6.93,9.24,7.35,5.17,,10.0,5.62,1,high
+SYN-003754,27,male,knee,farmer,Arunachal Pradesh,as,0,8.29,1.52,4.25,4.54,5.46,5.4,2.73,0.584,5.0,1.68,0,mild
+SYN-009807,62,female,knee,farmer,Assam,hi,0,8.64,8.54,10.0,9.87,10.0,,6.75,0.292,18.0,4.41,1,high
+SYN-006516,34,female,knee,office,Assam,hi,1,6.3,5.04,6.1,7.59,8.59,7.42,3.14,0.371,8.0,3.78,1,high
+SYN-011768,34,female,knee,farmer,Tripura,as,0,6.78,4.79,5.7,5.05,7.03,6.11,4.92,0.434,12.0,3.61,1,moderate
+SYN-001371,51,female,hip,construction,Sikkim,en,0,4.2,6.23,4.74,2.09,7.92,4.45,2.78,0.695,12.0,1.29,0,moderate
+SYN-003353,71,male,knee,transport,Assam,bn,0,6.35,5.52,8.56,6.17,8.84,7.17,4.49,0.634,19.0,3.99,1,high
+SYN-008901,57,male,hand,farmer,Manipur,as,0,4.77,4.64,6.15,4.04,5.69,4.39,4.1,0.558,14.0,4.14,0,moderate
+SYN-006049,41,male,knee,other,Manipur,as,0,3.46,0.48,2.97,1.42,1.92,3.73,0.52,0.799,,1.69,0,none
+SYN-005290,38,male,knee,construction,Assam,as,0,3.88,10.0,10.0,9.92,10.0,8.73,5.06,0.15,21.0,5.85,1,high
+SYN-000060,43,male,knee,office,Tripura,as,0,2.79,4.97,5.58,4.88,10.0,7.72,0.94,0.357,13.0,3.18,1,moderate
+SYN-004770,47,male,knee,other,Tripura,as,0,9.19,4.49,5.1,3.16,7.61,2.58,4.73,0.517,6.0,0.8,0,mild
+SYN-004440,36,female,knee,construction,Mizoram,en,0,1.79,0.0,0.0,0.0,0.06,2.28,0.0,0.723,6.0,0.0,0,none
+SYN-009580,49,male,hand,household,Arunachal Pradesh,bn,0,5.77,9.33,9.61,9.63,10.0,9.3,6.61,0.619,12.0,6.44,1,high
+SYN-000142,58,female,knee,household,Manipur,as,0,7.18,8.54,10.0,9.79,10.0,10.0,4.89,0.604,17.0,5.37,1,high
+SYN-000741,67,male,hand,farmer,Sikkim,hi,0,3.73,6.09,6.39,7.62,10.0,7.92,4.05,0.191,25.0,5.04,1,high
+SYN-006486,18,female,knee,farmer,Manipur,as,0,6.21,2.85,3.45,1.24,4.71,1.16,1.73,0.799,5.0,0.0,0,mild
+SYN-009402,74,female,knee,other,Tripura,as,0,4.02,7.27,6.94,7.12,9.43,8.95,2.75,0.686,20.0,3.23,1,high
+SYN-000195,66,female,knee,office,Nagaland,bn,1,4.82,6.63,7.39,6.86,10.0,7.81,2.97,0.69,24.0,6.04,1,high
+SYN-002600,78,male,knee,office,Tripura,hi,0,6.21,6.68,6.23,7.26,10.0,6.84,4.42,0.87,20.0,4.96,1,high
+SYN-011589,58,male,hand,farmer,Arunachal Pradesh,bn,0,5.88,1.62,3.66,2.78,4.52,3.45,2.8,0.427,7.0,1.01,0,mild
+SYN-006759,32,male,knee,farmer,Sikkim,bn,0,5.5,2.84,6.04,7.21,10.0,8.18,3.83,0.741,9.0,2.82,0,high
+SYN-008760,50,male,knee,other,Assam,en,0,4.26,4.22,6.09,6.3,9.36,6.03,4.48,0.857,5.0,0.96,1,moderate
+SYN-004724,60,female,knee,farmer,Tripura,as,1,1.17,3.75,6.79,7.9,8.7,7.9,4.74,0.423,9.0,3.5,0,high
+SYN-003154,58,male,hip,other,Mizoram,bn,0,5.19,5.8,10.0,7.21,8.23,6.77,4.87,0.634,9.0,4.1,1,high
+SYN-002057,46,male,knee,transport,Manipur,bn,0,4.29,5.54,7.07,6.0,9.19,7.35,3.31,0.535,13.0,2.11,0,high
+SYN-004601,65,female,other,office,Manipur,hi,0,1.82,6.02,9.34,6.53,10.0,7.7,4.09,0.641,22.0,2.74,0,high
+SYN-001342,56,female,hip,transport,Mizoram,hi,0,2.96,2.1,3.88,5.16,7.78,,1.61,0.609,11.0,3.44,0,moderate
+SYN-004023,74,female,knee,transport,Manipur,bn,1,7.12,10.0,10.0,10.0,10.0,,,0.665,28.0,5.63,1,high
+SYN-009433,32,female,knee,farmer,Nagaland,hi,0,4.97,4.26,3.55,2.39,4.59,3.04,2.2,0.577,15.0,0.0,0,mild
+SYN-001436,68,male,hip,transport,Mizoram,hi,0,7.67,8.21,9.8,9.33,10.0,,,0.661,23.0,4.43,1,high
+SYN-004875,82,male,knee,other,Arunachal Pradesh,en,0,6.05,7.43,7.55,8.38,10.0,8.9,4.88,0.843,34.0,5.51,1,high
+SYN-007145,54,female,knee,other,Tripura,en,1,4.88,8.74,10.0,10.0,10.0,8.25,5.28,0.605,16.0,5.55,1,high
+SYN-005916,68,male,knee,construction,Manipur,bn,0,2.07,4.69,5.82,6.71,10.0,7.84,1.27,0.497,17.0,,1,high
+SYN-006364,31,male,other,office,Manipur,as,0,4.28,5.49,7.01,8.48,10.0,9.09,,0.495,7.0,6.71,0,high
+SYN-000675,42,male,knee,farmer,Mizoram,as,0,5.93,0.15,1.2,2.43,1.93,3.38,0.0,0.412,3.0,0.0,0,none
+SYN-006993,63,female,knee,office,Manipur,en,0,9.39,4.15,3.81,5.92,7.42,4.54,4.31,0.776,14.0,4.49,0,moderate
+SYN-000915,63,male,knee,office,Arunachal Pradesh,hi,1,2.4,10.0,10.0,10.0,10.0,10.0,5.76,0.389,25.0,7.62,1,high
+SYN-001446,53,male,hand,farmer,Arunachal Pradesh,en,0,5.36,4.81,7.57,7.45,10.0,6.91,1.68,0.982,14.0,,0,high
+SYN-006343,30,female,hip,household,Assam,as,0,8.59,2.7,3.55,3.74,5.9,3.8,3.5,0.805,6.0,2.03,0,mild
+SYN-002104,58,male,knee,household,Tripura,en,1,5.76,4.89,8.37,7.72,10.0,7.63,4.63,0.494,22.0,2.59,1,high
+SYN-000169,37,female,hand,farmer,Nagaland,hi,0,4.2,0.0,0.0,0.0,0.0,2.1,0.0,0.534,0.0,1.49,0,none
+SYN-009255,39,male,other,farmer,Nagaland,bn,0,1.89,4.92,4.96,4.76,7.75,4.69,1.7,0.508,8.0,2.54,0,moderate
+SYN-006457,26,female,hip,farmer,Nagaland,as,1,8.15,8.89,10.0,8.0,10.0,7.87,4.48,0.404,22.0,,1,high
+SYN-008064,31,female,hip,office,Arunachal Pradesh,as,0,6.29,6.37,9.62,8.74,10.0,7.92,6.53,0.56,8.0,4.51,1,high
+SYN-011200,31,female,other,household,Sikkim,bn,0,6.43,10.0,10.0,10.0,10.0,7.62,4.86,0.444,18.0,6.5,1,high
+SYN-001149,57,female,knee,household,Nagaland,bn,0,7.24,4.11,5.18,6.14,8.38,7.78,4.76,0.762,13.0,2.01,1,moderate
+SYN-010776,31,female,knee,other,Meghalaya,en,1,4.79,0.0,0.0,1.06,1.66,,0.08,0.524,3.0,0.0,0,none
+SYN-009448,46,male,hand,construction,Meghalaya,en,0,6.9,2.39,3.58,2.55,4.45,3.85,0.28,0.756,5.0,1.94,0,mild
+SYN-003312,32,female,hip,farmer,Sikkim,as,0,4.21,4.94,4.98,6.03,8.29,5.93,3.72,0.598,14.0,,1,moderate
+SYN-009466,65,male,knee,other,Sikkim,as,0,6.09,10.0,10.0,10.0,10.0,8.79,6.06,0.595,29.0,6.08,1,high
+SYN-006293,69,male,knee,office,Assam,en,0,2.39,5.85,7.25,5.54,8.81,4.97,5.19,0.821,24.0,,0,high
+SYN-003852,28,female,hip,household,Tripura,as,0,1.97,5.89,7.1,3.82,8.4,,3.32,0.458,9.0,2.03,0,moderate
+SYN-010022,53,male,other,office,Nagaland,as,0,5.52,4.88,3.59,3.35,5.75,4.18,,0.345,7.0,1.6,0,mild
+SYN-006989,41,male,knee,farmer,Sikkim,hi,0,2.05,2.54,1.91,1.41,2.28,2.48,2.12,0.552,2.0,1.22,0,none
+SYN-005569,44,male,hand,household,Manipur,as,0,7.15,6.01,5.93,7.12,9.07,5.96,2.05,0.572,12.0,3.95,0,high
+SYN-010536,38,female,knee,farmer,Arunachal Pradesh,as,1,6.46,3.71,5.77,4.77,8.7,5.21,2.15,0.462,,3.55,0,moderate
+SYN-007588,47,male,hand,office,Manipur,en,1,6.11,6.99,7.3,7.92,10.0,10.0,4.24,0.846,18.0,4.69,1,high
+SYN-010331,53,male,knee,office,Arunachal Pradesh,bn,0,1.16,4.57,5.43,2.93,4.92,3.07,1.51,,10.0,0.64,0,mild
+SYN-008985,83,female,knee,household,Nagaland,hi,0,5.13,8.46,10.0,10.0,10.0,9.8,3.88,0.558,20.0,6.78,1,high
+SYN-007867,54,male,knee,office,Arunachal Pradesh,as,0,7.23,4.61,5.63,6.63,8.21,6.72,5.02,0.323,8.0,3.19,0,moderate
+SYN-011683,43,male,knee,other,Nagaland,as,0,3.19,8.35,10.0,5.73,10.0,7.05,5.13,0.603,25.0,4.6,1,high
+SYN-011483,48,female,other,office,Mizoram,en,0,7.5,5.47,6.45,8.79,10.0,6.25,4.79,0.581,15.0,3.88,1,high
+SYN-005202,54,female,other,other,Tripura,en,0,3.09,6.65,8.08,8.13,10.0,8.96,,0.605,14.0,3.97,1,high
+SYN-010641,60,female,knee,office,Tripura,hi,1,4.12,3.2,3.51,4.93,5.6,6.56,2.34,0.572,6.0,3.79,0,mild
+SYN-003393,59,female,knee,farmer,Sikkim,as,1,5.54,3.31,4.4,1.92,0.86,0.23,2.6,0.62,8.0,1.21,0,none
+SYN-009441,63,male,knee,transport,Sikkim,as,0,2.3,5.11,7.07,9.09,10.0,6.29,5.67,0.42,16.0,3.94,0,high
+SYN-008429,59,female,knee,household,Meghalaya,hi,1,3.19,1.94,4.43,2.24,3.22,2.69,2.97,0.675,7.0,0.32,0,mild
+SYN-001962,44,female,knee,office,Sikkim,bn,0,0.24,0.0,0.05,0.81,1.87,1.56,,0.348,5.0,0.42,0,none
+SYN-008023,33,female,hip,farmer,Meghalaya,as,0,4.49,5.81,7.1,3.23,7.7,3.97,2.47,0.606,8.0,3.01,0,moderate
+SYN-006522,31,female,knee,farmer,Manipur,bn,0,4.6,0.0,0.0,2.09,2.33,4.72,0.07,0.767,4.0,2.41,0,none
+SYN-000579,39,male,knee,other,Mizoram,en,0,3.27,3.22,3.51,4.31,5.56,3.53,1.62,0.849,10.0,1.92,0,mild
+SYN-010916,59,male,hip,transport,Mizoram,as,0,0.51,0.0,0.0,0.0,1.42,0.0,1.19,0.667,0.0,0.71,0,none
+SYN-009830,55,male,knee,office,Tripura,en,0,6.54,10.0,10.0,10.0,10.0,,,0.772,20.0,,1,high
+SYN-011411,63,male,hip,other,Meghalaya,en,0,6.4,7.97,9.85,10.0,10.0,9.05,4.31,0.917,15.0,5.25,1,high
+SYN-004375,57,female,other,transport,Tripura,hi,0,2.01,2.78,3.69,1.8,4.55,2.39,2.75,0.809,1.0,0.86,0,mild
+SYN-007234,69,male,knee,office,Sikkim,en,0,3.69,3.44,5.86,4.81,7.27,6.08,1.19,0.733,,2.6,0,moderate
+SYN-005480,58,female,hip,office,Arunachal Pradesh,en,0,6.56,8.21,7.58,6.59,10.0,7.52,4.79,0.79,23.0,4.22,1,high
+SYN-005208,44,male,knee,other,Arunachal Pradesh,en,0,7.2,4.15,5.25,2.98,5.73,4.43,1.14,0.801,6.0,0.37,0,mild
+SYN-002079,34,male,hand,other,Mizoram,hi,0,4.39,4.17,6.21,5.26,10.0,4.19,3.76,0.437,1.0,2.49,0,moderate
+SYN-001029,45,male,knee,office,Assam,hi,0,6.32,4.19,5.64,3.41,7.09,6.11,3.62,,,1.96,0,moderate
+SYN-008115,82,female,knee,other,Tripura,as,0,4.41,9.29,10.0,10.0,10.0,,7.53,0.383,23.0,7.85,1,high
+SYN-005679,21,male,knee,transport,Arunachal Pradesh,as,0,2.16,0.0,3.19,2.06,3.05,2.19,2.62,0.336,2.0,0.0,0,none
+SYN-007708,53,male,knee,farmer,Arunachal Pradesh,en,0,3.7,3.59,4.32,6.67,9.24,6.39,3.74,0.623,14.0,4.72,0,moderate
+SYN-009338,59,male,hand,farmer,Arunachal Pradesh,as,1,5.89,8.55,10.0,9.85,10.0,7.4,6.94,0.474,21.0,4.92,1,high
+SYN-010219,23,male,hand,transport,Nagaland,as,0,5.47,3.62,6.44,4.98,8.37,6.11,4.56,0.457,12.0,2.3,0,moderate
+SYN-005616,66,female,other,farmer,Mizoram,en,0,8.63,6.77,7.73,7.07,10.0,8.24,4.32,0.613,16.0,4.1,1,high
+SYN-006828,63,male,knee,office,Nagaland,bn,1,5.91,9.29,10.0,10.0,10.0,9.14,4.95,0.792,21.0,,1,high
+SYN-005454,53,female,knee,farmer,Meghalaya,en,0,4.8,0.0,1.0,0.0,0.0,0.0,,0.396,4.0,0.11,0,none
+SYN-002538,60,female,knee,office,Arunachal Pradesh,as,0,9.27,1.04,5.56,1.38,2.11,1.9,2.21,0.619,6.0,1.42,0,none
+SYN-002313,38,female,knee,office,Tripura,en,0,5.31,2.21,1.7,3.21,4.91,4.8,0.21,0.745,2.0,1.21,0,mild
+SYN-011968,30,female,knee,farmer,Tripura,bn,0,5.22,2.78,1.61,4.23,6.44,3.9,4.87,0.638,9.0,3.11,0,mild
+SYN-010287,48,male,knee,transport,Manipur,as,0,5.5,0.0,0.0,0.94,1.62,1.08,2.68,0.4,0.0,0.0,0,none
+SYN-009213,70,female,knee,household,Nagaland,hi,0,8.69,6.41,7.68,7.06,10.0,9.49,3.43,,20.0,2.15,1,high
+SYN-002230,50,male,knee,farmer,Assam,hi,0,4.86,5.72,8.17,5.31,9.16,,,0.543,8.0,3.23,1,high
+SYN-010786,54,female,knee,other,Manipur,bn,0,3.96,4.11,3.94,4.26,7.56,5.57,3.72,0.403,11.0,3.33,1,moderate
+SYN-004170,48,female,hip,construction,Meghalaya,bn,0,6.03,1.84,3.4,3.69,2.35,5.63,2.81,0.621,13.0,3.2,0,mild
+SYN-002698,51,male,other,office,Arunachal Pradesh,hi,0,7.0,4.62,8.58,5.28,8.73,5.2,3.17,0.416,,4.08,0,moderate
+SYN-008050,49,female,knee,construction,Sikkim,hi,0,4.0,1.66,3.17,3.72,4.5,5.59,1.19,0.457,9.0,1.64,0,mild
+SYN-002577,41,male,hip,office,Sikkim,en,0,5.66,3.18,4.87,5.41,6.83,5.41,3.01,0.765,0.0,3.07,0,moderate
+SYN-007397,57,female,hand,household,Tripura,hi,0,4.76,4.73,4.91,6.28,10.0,5.91,2.46,0.162,9.0,3.88,0,moderate
+SYN-008884,85,male,knee,construction,Nagaland,as,0,6.89,10.0,10.0,10.0,10.0,8.66,5.98,0.247,28.0,6.6,1,high
+SYN-010111,74,female,hand,transport,Meghalaya,hi,0,5.48,6.68,7.92,7.52,10.0,7.74,3.18,0.787,16.0,6.43,1,high
+SYN-003273,54,male,hand,office,Assam,bn,0,1.56,1.14,4.51,4.43,7.58,5.01,4.17,0.466,4.0,1.93,0,mild
+SYN-000642,62,female,other,household,Mizoram,as,0,5.02,6.81,9.04,7.46,10.0,8.9,,0.665,18.0,4.12,1,high
+SYN-006305,30,male,hand,household,Assam,as,0,3.57,0.0,2.62,2.11,0.98,1.88,0.72,0.471,0.0,0.87,0,none
+SYN-010823,29,male,hip,other,Assam,hi,0,1.42,0.0,0.0,0.46,0.76,0.49,1.24,0.393,0.0,,0,none
+SYN-006067,45,female,knee,office,Arunachal Pradesh,as,0,10.0,5.76,8.65,6.21,9.27,6.52,5.44,,13.0,3.59,1,high
+SYN-009106,54,female,hip,transport,Sikkim,hi,0,3.93,2.5,6.69,4.04,6.12,5.74,3.75,0.456,14.0,2.31,0,moderate
+SYN-002646,38,male,knee,farmer,Assam,as,0,6.88,6.57,3.71,5.28,8.11,4.03,0.1,,17.0,3.46,0,moderate
+SYN-000396,24,male,hand,household,Mizoram,hi,0,3.16,4.19,2.94,3.45,6.54,3.54,2.85,0.453,13.0,2.51,0,mild
+SYN-010775,56,male,hip,office,Manipur,bn,0,3.42,3.46,5.15,6.11,7.05,5.59,4.19,0.498,14.0,1.45,0,moderate
+SYN-006372,79,male,knee,other,Mizoram,as,0,3.59,4.15,6.58,3.33,5.18,4.89,1.21,0.328,17.0,1.93,0,mild
+SYN-007120,54,male,hip,construction,Assam,as,0,5.45,4.15,5.98,4.84,7.44,5.36,4.47,0.449,17.0,2.95,0,moderate
+SYN-001691,49,male,hip,construction,Assam,hi,0,2.81,5.76,5.6,6.66,10.0,5.7,,0.704,9.0,3.17,0,high
+SYN-011938,61,female,knee,office,Assam,as,1,7.74,9.69,10.0,10.0,10.0,,4.74,0.424,17.0,7.16,1,high
+SYN-001387,72,male,hand,other,Nagaland,bn,0,6.81,8.11,9.7,9.67,10.0,8.45,,0.574,22.0,6.05,1,high
+SYN-009928,68,female,knee,farmer,Sikkim,as,0,3.79,8.65,7.8,8.09,10.0,7.41,4.87,0.467,,4.85,1,high
+SYN-003364,52,male,hip,transport,Mizoram,hi,0,5.4,4.44,5.07,4.34,7.99,5.63,1.86,0.508,13.0,2.55,1,moderate
+SYN-011014,36,female,hip,household,Tripura,en,0,6.92,0.94,0.67,0.0,0.0,0.77,0.0,0.695,4.0,0.0,0,none
+SYN-010524,56,female,knee,construction,Manipur,bn,1,7.16,5.79,8.37,8.16,10.0,10.0,3.0,0.542,16.0,4.99,1,high
+SYN-001402,66,female,knee,farmer,Sikkim,as,0,4.22,8.46,10.0,10.0,10.0,10.0,7.97,0.376,26.0,3.85,1,high
+SYN-006392,57,female,knee,other,Meghalaya,hi,1,6.83,8.84,10.0,8.21,10.0,6.48,5.62,0.668,13.0,6.96,1,high
+SYN-010156,30,male,other,office,Sikkim,bn,1,5.94,7.33,10.0,7.67,10.0,6.87,5.33,0.42,6.0,3.2,1,high
+SYN-009635,42,female,knee,other,Tripura,en,0,8.92,4.92,7.97,6.23,9.4,7.17,,0.658,10.0,3.91,1,high
+SYN-000688,50,male,knee,farmer,Tripura,bn,0,6.91,5.8,4.74,4.8,8.01,5.1,3.59,0.48,7.0,3.12,1,moderate
+SYN-009632,51,male,hand,farmer,Manipur,as,0,6.55,5.29,8.02,4.13,7.44,4.74,1.69,0.582,10.0,1.67,0,moderate
+SYN-000624,64,female,hand,construction,Meghalaya,as,0,7.17,5.22,6.39,4.3,8.52,4.95,3.07,0.467,9.0,3.26,0,moderate
+SYN-007482,36,male,hand,farmer,Arunachal Pradesh,as,0,2.74,0.0,0.0,0.0,0.0,0.0,,0.484,1.0,0.0,0,none
+SYN-010206,60,male,knee,transport,Sikkim,en,0,8.34,4.19,4.91,2.25,4.58,2.98,1.78,0.829,5.0,0.42,0,mild
+SYN-002662,64,male,hip,transport,Assam,en,0,7.83,7.94,7.28,8.77,10.0,8.12,5.09,0.794,18.0,4.66,1,high
+SYN-002737,35,male,knee,farmer,Sikkim,as,0,0.23,0.08,2.09,1.68,3.71,1.76,0.18,0.555,8.0,0.0,0,none
+SYN-006171,18,male,knee,household,Arunachal Pradesh,bn,0,3.33,0.0,0.0,0.0,0.0,0.0,1.81,0.361,2.0,0.0,0,none
+SYN-009597,81,female,knee,farmer,Sikkim,hi,0,3.59,4.74,5.65,5.42,6.06,,4.2,0.625,12.0,2.67,0,moderate
+SYN-002476,45,male,hand,construction,Tripura,hi,0,0.63,0.0,0.0,0.0,0.82,1.98,0.69,0.699,4.0,0.95,0,none
+SYN-001877,88,male,other,farmer,Mizoram,bn,0,3.38,8.39,8.06,8.86,10.0,9.88,4.85,0.692,27.0,5.15,1,high
+SYN-000240,44,female,hand,farmer,Meghalaya,as,0,0.82,1.74,0.75,0.0,0.36,3.08,0.19,0.369,8.0,2.37,0,none
+SYN-009907,33,female,hand,household,Manipur,bn,0,5.1,5.11,2.93,1.98,6.24,5.59,3.41,0.397,8.0,3.89,0,mild
+SYN-007755,52,female,knee,other,Tripura,hi,0,2.63,2.57,2.35,2.45,2.9,1.53,,0.92,12.0,1.84,0,none
+SYN-007288,56,female,knee,office,Assam,en,0,5.02,4.15,6.04,6.42,8.66,6.9,5.05,0.62,8.0,2.87,1,moderate
+SYN-004286,80,male,knee,household,Assam,as,1,4.55,10.0,10.0,10.0,10.0,7.93,5.8,0.436,33.0,6.52,1,high
+SYN-004049,41,male,hand,construction,Assam,en,0,6.95,3.45,2.47,0.66,4.05,2.93,0.45,,4.0,1.38,0,none
+SYN-000903,46,female,knee,farmer,Manipur,as,0,3.64,5.13,4.72,4.74,9.42,6.62,5.52,0.251,19.0,2.5,0,moderate
+SYN-000487,86,female,hand,transport,Arunachal Pradesh,hi,1,6.22,5.56,9.19,10.0,10.0,9.58,2.75,0.478,24.0,3.71,1,high
+SYN-008964,46,male,hip,farmer,Assam,hi,0,8.44,7.94,8.83,10.0,10.0,6.82,6.84,0.889,17.0,7.05,1,high
+SYN-001417,25,female,other,household,Manipur,en,0,1.6,3.94,3.74,3.65,5.54,4.64,1.03,0.488,14.0,2.41,0,mild
+SYN-009947,56,female,knee,household,Meghalaya,as,0,7.6,5.67,7.34,7.32,10.0,7.65,2.65,0.51,20.0,3.58,1,high
+SYN-010629,36,male,knee,other,Tripura,bn,0,3.55,2.48,0.11,0.0,0.0,0.0,,0.557,12.0,2.47,0,none
+SYN-009135,59,male,hand,other,Meghalaya,as,0,5.35,3.67,2.86,2.49,5.51,1.76,1.78,0.671,7.0,,0,mild
+SYN-005226,46,female,other,farmer,Nagaland,hi,0,3.04,0.0,0.0,0.0,0.54,1.21,0.0,0.58,0.0,0.53,0,none
+SYN-002484,76,male,knee,household,Nagaland,bn,0,7.35,5.23,6.44,3.92,8.41,6.06,3.85,,17.0,2.52,0,moderate
+SYN-010808,67,male,hand,office,Assam,hi,0,8.75,7.12,9.81,7.86,10.0,6.7,5.0,0.38,9.0,3.32,1,high
+SYN-008617,65,female,knee,other,Mizoram,as,0,1.68,3.65,5.82,5.74,6.73,5.35,1.89,0.628,5.0,3.95,0,moderate
+SYN-001537,66,female,hand,other,Meghalaya,hi,0,4.07,5.25,6.68,3.8,5.84,4.34,3.93,0.684,18.0,3.18,0,moderate
+SYN-005692,49,male,knee,farmer,Assam,hi,0,6.91,2.89,2.03,4.46,7.06,1.99,3.28,,10.0,1.83,0,mild
+SYN-008312,50,male,knee,transport,Meghalaya,hi,0,1.65,1.22,5.0,3.58,2.9,3.19,1.44,0.61,4.0,2.14,0,mild
+SYN-010605,48,male,hand,construction,Tripura,en,0,8.21,2.96,1.76,0.84,2.38,1.7,0.0,0.619,10.0,0.65,0,none
+SYN-011926,40,male,hip,office,Tripura,as,0,4.67,10.0,10.0,10.0,10.0,10.0,6.6,0.281,20.0,5.77,1,high
+SYN-003070,71,female,knee,farmer,Manipur,as,1,2.25,7.32,10.0,8.68,10.0,9.86,3.6,0.454,14.0,6.36,1,high
+SYN-006399,58,male,hand,farmer,Arunachal Pradesh,as,0,7.01,6.28,6.09,7.43,10.0,8.63,,0.42,10.0,5.12,1,high
+SYN-001712,51,female,hip,transport,Assam,hi,0,1.7,3.82,4.35,4.28,9.23,,,0.627,13.0,1.36,0,moderate
+SYN-003700,58,male,hand,farmer,Mizoram,as,0,4.66,4.41,6.48,3.47,7.1,3.07,4.6,0.507,11.0,2.54,0,moderate
+SYN-004540,37,female,hip,farmer,Meghalaya,as,0,5.01,4.78,4.9,6.05,10.0,,4.72,0.559,15.0,2.4,1,high
+SYN-004374,76,female,hip,household,Nagaland,hi,0,4.77,6.54,8.52,8.91,10.0,9.38,6.96,0.413,22.0,3.82,1,high
+SYN-006114,61,male,hip,office,Mizoram,bn,0,5.04,4.48,5.65,6.19,8.65,6.17,2.84,0.413,16.0,4.37,0,moderate
+SYN-004535,73,male,hand,construction,Tripura,as,1,7.62,10.0,10.0,10.0,10.0,10.0,6.42,0.439,26.0,6.95,1,high
+SYN-008249,43,female,hip,household,Assam,bn,0,6.04,0.0,0.0,1.03,1.55,2.82,0.0,0.276,0.0,0.59,0,none
+SYN-009991,72,male,hip,other,Mizoram,hi,0,2.14,3.47,3.17,1.58,2.0,2.11,1.54,0.464,15.0,0.0,0,none
+SYN-005537,55,female,hip,office,Tripura,as,0,5.14,7.33,8.06,8.79,10.0,9.93,5.43,0.313,11.0,5.68,1,high
+SYN-009994,56,female,hip,office,Manipur,bn,0,4.43,4.77,2.88,6.5,9.83,6.85,4.04,0.686,13.0,2.37,1,moderate
+SYN-004581,31,female,knee,farmer,Arunachal Pradesh,bn,0,3.23,6.23,7.99,6.24,7.86,6.8,3.9,0.526,3.0,2.9,1,high
+SYN-006113,51,female,knee,household,Meghalaya,bn,0,3.57,0.1,0.14,0.32,0.0,1.61,0.0,0.334,3.0,,0,none
+SYN-004903,70,male,other,office,Meghalaya,as,0,1.42,5.09,3.44,1.75,5.88,2.87,1.44,0.541,8.0,1.4,0,mild
+SYN-000506,62,female,hip,other,Arunachal Pradesh,as,0,6.37,5.19,5.08,4.39,7.62,6.75,0.47,0.251,13.0,1.18,0,moderate
+SYN-009669,61,male,other,farmer,Meghalaya,en,0,1.83,2.23,4.2,5.52,8.8,6.93,1.36,0.754,10.0,2.42,0,moderate
+SYN-007335,39,female,knee,household,Tripura,hi,0,5.29,2.08,1.37,2.86,5.17,3.1,0.08,0.796,0.0,0.0,0,none
+SYN-010491,66,female,hand,office,Meghalaya,bn,0,7.46,8.84,10.0,10.0,10.0,,5.46,0.661,26.0,5.92,1,high
+SYN-000163,52,male,other,household,Meghalaya,bn,1,5.81,6.8,6.57,8.43,10.0,7.84,5.61,0.488,16.0,5.0,1,high
+SYN-010504,68,female,hand,household,Sikkim,bn,0,5.61,4.57,4.71,7.76,10.0,8.44,2.4,0.75,13.0,3.31,0,high
+SYN-000954,18,female,knee,farmer,Mizoram,as,1,6.06,5.69,7.12,5.28,7.91,5.71,3.65,0.453,13.0,2.32,0,moderate
+SYN-000256,31,male,hand,other,Assam,as,0,4.73,1.07,3.07,0.08,2.35,0.17,0.0,0.329,6.0,0.22,0,none
+SYN-001955,39,male,knee,farmer,Meghalaya,as,0,1.45,1.91,2.49,0.31,0.96,1.19,0.42,0.565,3.0,0.39,0,none
+SYN-002882,29,female,other,other,Mizoram,as,0,10.0,7.71,7.72,9.91,10.0,7.47,6.75,0.573,10.0,4.77,1,high
+SYN-004205,68,male,hip,farmer,Tripura,as,1,2.5,9.65,10.0,10.0,10.0,10.0,5.94,0.387,25.0,7.8,1,high
+SYN-006263,72,female,hand,other,Arunachal Pradesh,bn,0,2.67,3.85,5.84,4.8,6.86,5.9,3.66,,12.0,2.23,0,moderate
+SYN-004152,28,female,hip,transport,Sikkim,bn,0,4.46,0.0,5.26,1.64,1.46,3.86,1.85,0.612,0.0,0.0,0,none
+SYN-000721,61,male,knee,farmer,Arunachal Pradesh,bn,1,1.44,10.0,9.62,10.0,10.0,9.3,7.23,0.941,26.0,5.52,1,high
+SYN-010233,37,female,knee,household,Tripura,as,0,2.93,4.07,4.1,3.62,5.14,4.76,2.64,0.64,8.0,3.02,0,mild
+SYN-011635,53,male,knee,household,Nagaland,hi,0,5.91,0.0,0.62,0.0,0.0,0.0,0.0,0.371,0.0,0.0,0,none
+SYN-008352,41,female,knee,farmer,Sikkim,bn,0,8.03,3.59,4.08,6.74,6.95,6.26,0.29,0.646,12.0,2.09,0,moderate
+SYN-006776,76,male,knee,other,Manipur,hi,0,2.18,5.87,8.59,7.89,10.0,8.77,5.13,0.812,18.0,4.68,1,high
+SYN-002089,71,male,hand,office,Meghalaya,bn,0,3.74,5.53,3.88,6.51,10.0,6.67,2.8,0.507,13.0,5.86,1,moderate
+SYN-003676,51,male,knee,office,Meghalaya,as,0,3.98,4.2,4.71,4.98,7.63,3.53,0.55,0.78,11.0,2.55,0,moderate
+SYN-003142,31,male,hand,farmer,Assam,en,0,6.15,6.61,6.25,7.06,9.13,5.86,5.22,0.775,7.0,4.93,0,high
+SYN-007572,72,male,knee,other,Mizoram,hi,0,3.03,9.07,10.0,10.0,10.0,9.69,,0.603,24.0,5.71,1,high
+SYN-009514,80,female,hand,office,Meghalaya,as,1,4.05,8.37,9.32,8.86,10.0,8.2,4.73,0.369,31.0,5.53,1,high
+SYN-000513,69,female,knee,transport,Tripura,en,0,3.9,4.36,3.07,4.28,6.8,6.07,0.38,0.729,9.0,4.46,0,mild
+SYN-003409,45,male,knee,farmer,Meghalaya,bn,0,8.41,4.1,4.13,2.31,1.65,1.63,3.63,0.509,1.0,1.57,0,mild
+SYN-000211,67,female,hand,office,Assam,bn,0,3.88,5.15,7.22,3.54,6.39,4.31,1.54,0.349,9.0,2.1,0,moderate
+SYN-010596,41,female,hip,office,Assam,hi,0,4.87,5.0,4.68,4.39,9.3,,2.37,0.246,5.0,,0,moderate
+SYN-009968,56,female,knee,construction,Sikkim,as,0,1.55,0.0,0.0,0.0,0.05,0.0,0.0,0.585,5.0,0.0,0,none
+SYN-004617,36,female,hip,construction,Mizoram,as,1,6.9,1.01,1.08,0.0,1.43,1.76,1.12,0.475,10.0,0.0,0,none
+SYN-004450,68,female,knee,household,Assam,bn,1,5.37,10.0,10.0,10.0,10.0,,7.08,0.617,24.0,6.55,1,high
+SYN-011449,47,female,knee,household,Arunachal Pradesh,hi,0,6.76,3.62,5.57,2.18,4.73,4.38,2.58,0.65,11.0,2.77,0,mild
+SYN-002272,62,female,knee,farmer,Nagaland,en,0,3.6,2.57,2.84,1.86,5.09,4.09,1.78,,12.0,1.58,0,mild
+SYN-003755,53,male,knee,farmer,Nagaland,hi,0,4.66,5.17,6.35,5.2,8.68,5.52,5.22,0.686,9.0,3.41,1,moderate
+SYN-007895,37,female,knee,other,Arunachal Pradesh,en,1,3.24,2.37,4.26,4.38,4.71,3.02,5.54,0.806,5.0,4.49,0,mild
+SYN-002442,40,female,knee,office,Assam,hi,0,4.37,6.72,7.39,6.99,10.0,7.16,,0.594,13.0,3.51,0,high
+SYN-007668,64,female,hip,other,Nagaland,as,0,2.52,7.4,10.0,10.0,10.0,9.12,,0.539,23.0,4.5,1,high
+SYN-010362,61,female,knee,farmer,Manipur,hi,0,5.06,7.62,9.75,8.08,10.0,7.88,6.79,,22.0,5.84,1,high
+SYN-011419,56,female,knee,office,Nagaland,hi,1,5.48,7.02,7.31,7.22,10.0,6.5,3.81,0.646,18.0,4.04,1,high
+SYN-010305,55,male,hip,office,Nagaland,hi,1,9.59,9.75,10.0,10.0,10.0,8.79,3.17,0.683,25.0,,1,high
+SYN-007525,76,female,other,other,Arunachal Pradesh,hi,0,3.72,4.2,8.47,5.15,8.75,,4.94,0.354,15.0,1.78,1,moderate
+SYN-008322,54,male,knee,other,Meghalaya,hi,1,7.03,7.36,9.81,8.12,10.0,9.07,7.17,0.745,22.0,4.06,1,high
+SYN-004910,47,female,knee,other,Nagaland,hi,1,6.6,8.77,10.0,9.18,10.0,7.83,6.0,0.406,20.0,6.78,1,high
+SYN-009442,79,male,knee,construction,Assam,as,1,6.35,10.0,10.0,10.0,10.0,8.67,5.58,0.891,31.0,5.4,1,high
+SYN-010863,47,male,knee,office,Tripura,as,1,8.81,3.29,5.52,3.65,6.03,4.02,2.69,0.214,11.0,1.71,0,mild
+SYN-001065,19,female,other,household,Sikkim,en,0,4.95,0.0,0.0,0.33,0.0,3.91,0.0,,6.0,0.0,0,none
+SYN-004782,38,female,hand,construction,Sikkim,hi,0,4.68,5.93,8.44,6.43,9.28,6.1,3.11,0.77,12.0,4.21,1,high
+SYN-001047,33,female,hand,office,Nagaland,hi,0,7.71,5.27,8.16,6.68,10.0,7.68,3.41,0.477,11.0,3.22,1,high
+SYN-002792,28,female,knee,household,Tripura,hi,0,7.13,0.78,0.26,0.0,0.93,0.17,0.02,0.822,3.0,0.92,0,none
+SYN-006562,67,male,other,office,Arunachal Pradesh,hi,0,5.92,8.01,7.2,6.46,9.88,7.36,1.33,0.677,17.0,6.2,1,high
+SYN-007078,58,female,hand,office,Nagaland,as,0,5.28,6.73,7.72,7.88,10.0,5.77,3.01,0.731,19.0,4.6,0,high
+SYN-008657,61,male,hand,farmer,Assam,en,0,0.0,5.07,4.41,3.38,8.7,,3.16,,9.0,2.78,0,moderate
+SYN-001725,18,female,knee,office,Tripura,bn,0,4.76,5.79,4.43,5.02,8.39,5.47,1.96,0.678,8.0,2.85,0,moderate
+SYN-004427,62,male,other,construction,Mizoram,en,0,6.7,7.26,6.89,6.87,10.0,9.51,5.0,0.567,16.0,5.08,1,high
+SYN-005121,74,male,knee,other,Mizoram,bn,0,6.41,8.27,8.25,8.9,10.0,7.77,6.26,0.508,21.0,4.49,1,high
+SYN-001209,58,male,knee,farmer,Nagaland,bn,0,2.15,7.21,8.55,9.97,10.0,8.47,7.14,0.551,14.0,4.3,1,high
+SYN-000505,56,male,hip,household,Manipur,as,1,8.87,10.0,10.0,10.0,10.0,8.78,7.74,0.491,31.0,5.87,1,high
+SYN-005981,71,male,knee,transport,Mizoram,as,0,2.34,7.15,7.93,5.88,9.9,7.38,3.92,0.545,18.0,4.3,1,high
+SYN-010667,32,female,hip,construction,Assam,bn,0,6.12,5.66,7.25,6.32,8.79,6.32,1.44,0.64,11.0,2.52,0,high
+SYN-002555,67,male,knee,household,Tripura,hi,0,4.86,2.27,2.43,0.0,2.26,1.03,0.0,,8.0,0.0,0,none
+SYN-002758,70,male,hand,household,Mizoram,bn,0,5.02,7.5,8.61,10.0,10.0,9.72,6.45,0.336,17.0,7.64,1,high
+SYN-000317,58,male,hand,household,Tripura,hi,1,6.8,5.74,9.1,9.81,10.0,9.49,5.46,0.498,14.0,,1,high
+SYN-010093,32,male,knee,farmer,Meghalaya,en,0,3.29,2.81,2.76,3.32,6.96,2.7,1.21,0.602,0.0,2.36,0,mild
+SYN-005719,55,female,knee,farmer,Tripura,as,0,2.86,6.03,5.29,3.72,6.2,5.73,1.78,0.851,12.0,3.12,0,moderate
+SYN-005822,69,female,knee,construction,Mizoram,hi,1,5.8,10.0,10.0,10.0,10.0,9.43,8.37,0.615,23.0,6.42,1,high
+SYN-006018,70,female,hip,farmer,Tripura,as,0,4.28,5.24,4.93,5.77,8.79,4.25,2.84,0.594,19.0,5.03,0,moderate
+SYN-002846,47,male,other,other,Mizoram,en,1,7.27,8.12,10.0,9.92,10.0,,6.35,0.648,11.0,5.46,1,high
+SYN-009596,56,female,knee,office,Mizoram,en,0,4.99,4.66,5.18,4.2,6.91,5.22,0.76,0.566,16.0,0.21,0,moderate
+SYN-011460,72,male,hip,other,Meghalaya,as,0,4.98,10.0,10.0,10.0,10.0,7.69,4.31,0.476,25.0,5.41,1,high
+SYN-000489,34,male,hand,farmer,Arunachal Pradesh,hi,0,2.82,2.9,1.84,0.31,0.89,,0.64,0.437,7.0,1.41,0,none
+SYN-005659,32,female,knee,construction,Assam,hi,0,5.48,7.46,7.94,5.85,10.0,5.68,,0.639,9.0,3.93,0,high
+SYN-001531,50,female,knee,farmer,Meghalaya,hi,0,2.93,2.33,0.42,0.67,4.11,3.25,0.08,0.538,13.0,0.0,0,none
+SYN-000880,53,female,knee,household,Manipur,bn,0,2.46,3.55,6.17,4.1,5.46,3.82,6.16,0.565,11.0,0.58,0,moderate
+SYN-003025,33,female,knee,household,Manipur,en,0,3.6,6.84,6.53,6.85,10.0,6.5,3.34,0.512,13.0,4.21,0,high
+SYN-011804,28,female,knee,other,Assam,en,0,5.0,1.95,2.57,3.07,3.59,3.01,1.2,0.919,10.0,1.09,0,mild
+SYN-005940,31,female,knee,farmer,Assam,bn,0,5.77,2.4,2.11,1.0,3.25,,1.0,0.915,8.0,0.07,0,none
+SYN-000460,48,female,knee,office,Nagaland,bn,0,6.82,2.55,3.3,2.53,5.91,3.26,3.78,0.559,1.0,1.54,0,mild
+SYN-010472,41,female,other,other,Arunachal Pradesh,hi,0,2.36,0.0,1.05,0.0,0.0,0.18,0.0,0.463,3.0,0.0,0,none
+SYN-006912,22,female,knee,transport,Meghalaya,as,0,8.39,4.98,5.12,5.57,7.7,6.07,2.38,0.608,2.0,4.4,0,moderate
+SYN-001313,51,male,knee,other,Meghalaya,hi,0,8.05,5.23,9.35,6.19,8.72,,4.97,,17.0,3.97,1,high
+SYN-007005,54,female,knee,farmer,Meghalaya,bn,0,6.06,2.25,3.97,2.55,5.03,4.67,1.96,0.446,14.0,1.15,0,mild
+SYN-000674,69,female,hand,office,Manipur,bn,1,9.34,10.0,10.0,10.0,10.0,9.08,6.64,0.483,17.0,6.92,1,high
+SYN-000932,61,female,knee,farmer,Nagaland,en,0,6.38,10.0,10.0,10.0,10.0,8.03,4.7,0.759,24.0,6.7,1,high
+SYN-009339,58,male,knee,office,Mizoram,hi,1,5.53,10.0,10.0,10.0,10.0,8.31,5.25,0.759,26.0,7.66,1,high
+SYN-001742,52,male,knee,transport,Manipur,bn,0,6.23,6.29,5.53,7.42,10.0,6.1,,0.884,13.0,2.78,1,high
+SYN-005688,61,male,hip,office,Meghalaya,bn,0,5.26,5.24,5.36,3.76,7.85,5.9,2.86,0.69,16.0,3.57,0,moderate
+SYN-010317,62,female,knee,farmer,Assam,en,0,3.25,5.75,7.71,5.56,10.0,6.9,5.96,0.566,13.0,3.13,1,high
+SYN-007409,60,female,knee,farmer,Manipur,en,0,3.58,7.53,7.29,5.76,10.0,7.1,4.62,0.592,22.0,2.44,0,high
+SYN-007923,67,female,knee,office,Meghalaya,hi,1,2.59,1.39,3.74,2.49,4.15,4.27,2.65,,6.0,0.93,0,mild
+SYN-004113,44,female,knee,household,Sikkim,en,1,6.8,0.08,2.29,1.53,0.41,,,,4.0,0.51,0,none
+SYN-010529,40,male,hip,household,Tripura,en,0,3.72,2.98,2.97,0.0,0.67,2.29,0.0,0.728,7.0,1.47,0,none
+SYN-003619,71,female,knee,office,Tripura,as,0,2.52,6.54,7.15,9.27,10.0,8.14,7.42,0.902,20.0,5.93,1,high
+SYN-007935,45,male,hand,construction,Tripura,hi,0,7.03,5.1,4.1,6.54,7.47,6.78,,0.367,8.0,3.13,0,moderate
+SYN-002574,58,male,knee,office,Tripura,bn,0,4.0,3.03,5.13,2.85,3.97,3.99,1.52,0.806,15.0,0.0,0,mild
+SYN-007083,49,male,hip,farmer,Mizoram,bn,0,3.05,5.81,6.03,7.34,10.0,8.71,3.78,0.47,10.0,5.82,1,high
+SYN-006822,58,male,knee,office,Meghalaya,bn,0,5.09,7.54,9.56,8.43,9.78,9.29,6.02,0.456,24.0,5.66,1,high
+SYN-005127,27,male,other,household,Assam,as,0,7.05,5.15,7.0,5.82,7.89,6.41,3.36,0.656,10.0,3.95,1,moderate
+SYN-008749,54,male,hip,office,Arunachal Pradesh,en,0,8.57,4.24,5.51,7.2,10.0,7.83,4.07,0.626,12.0,3.2,1,high
+SYN-002305,61,male,knee,other,Arunachal Pradesh,as,0,3.1,5.84,7.91,5.51,7.97,5.8,5.32,0.589,11.0,1.67,1,high
+SYN-010678,59,female,hip,other,Manipur,bn,0,7.49,9.09,10.0,10.0,10.0,9.86,,0.564,22.0,4.8,1,high
+SYN-001181,51,female,hip,farmer,Nagaland,en,0,3.37,0.0,0.16,0.0,1.41,0.0,0.0,0.845,0.0,0.0,0,none
+SYN-001305,38,female,knee,other,Tripura,bn,0,6.14,0.09,0.0,0.79,0.7,0.0,0.0,,0.0,0.0,0,none
+SYN-001414,67,female,hand,other,Assam,bn,0,4.27,10.0,9.76,10.0,10.0,8.75,6.16,0.754,24.0,5.77,1,high
+SYN-006258,61,male,knee,office,Meghalaya,as,1,8.02,5.09,8.19,7.28,9.98,5.41,4.68,0.576,11.0,3.76,1,high
+SYN-009079,65,female,knee,office,Tripura,as,0,2.55,7.22,10.0,7.86,10.0,8.6,3.9,0.381,13.0,3.42,1,high
+SYN-000461,43,female,knee,office,Nagaland,hi,0,6.72,0.07,0.46,0.57,0.0,0.0,0.81,0.534,0.0,1.99,0,none
+SYN-003875,47,female,knee,farmer,Sikkim,bn,0,6.5,10.0,9.09,8.86,10.0,10.0,4.96,0.189,27.0,5.62,1,high
+SYN-003015,65,female,hand,household,Arunachal Pradesh,hi,1,5.4,10.0,10.0,10.0,10.0,9.16,5.53,0.497,21.0,4.84,1,high
+SYN-010770,46,female,hand,farmer,Assam,bn,0,5.91,1.95,3.89,2.4,3.78,2.29,0.42,0.568,1.0,1.58,0,mild
+SYN-010510,63,male,hand,household,Meghalaya,as,0,8.17,6.12,9.79,8.62,10.0,8.3,4.41,0.521,13.0,4.98,1,high
+SYN-010110,69,female,knee,household,Meghalaya,as,0,8.76,4.16,7.92,4.29,7.69,4.27,2.01,0.788,19.0,2.32,1,moderate
+SYN-011376,51,male,knee,office,Tripura,en,0,4.01,5.29,6.69,8.48,10.0,8.07,3.84,0.632,12.0,4.09,1,high
+SYN-011555,49,male,knee,other,Sikkim,as,0,5.08,4.13,3.97,2.92,5.18,,2.54,0.638,12.0,2.18,0,mild
+SYN-003485,78,female,knee,household,Meghalaya,as,1,3.27,9.87,10.0,10.0,10.0,8.39,7.19,0.665,26.0,6.77,1,high
+SYN-001343,27,male,knee,transport,Meghalaya,as,0,5.9,3.93,5.15,3.69,6.59,5.97,3.34,0.88,10.0,,0,moderate
+SYN-003687,66,female,hand,construction,Mizoram,bn,0,2.34,5.33,5.31,7.84,10.0,6.48,4.65,0.488,15.0,4.08,1,high
+SYN-007965,69,male,knee,farmer,Arunachal Pradesh,hi,1,4.11,5.15,7.96,9.39,10.0,8.95,2.53,0.686,13.0,,1,high
+SYN-010145,60,male,hand,construction,Meghalaya,en,0,0.8,1.73,2.53,3.6,3.05,2.98,1.8,0.627,5.0,0.0,0,mild
+SYN-004226,56,female,knee,office,Assam,as,0,5.34,3.85,6.38,4.01,6.01,2.37,1.17,,12.0,1.24,0,mild
+SYN-010128,78,female,knee,office,Arunachal Pradesh,hi,0,8.06,10.0,10.0,10.0,10.0,9.66,5.6,0.827,24.0,7.34,1,high
+SYN-005054,61,male,hand,transport,Manipur,en,0,4.99,4.98,2.71,5.43,7.54,5.6,3.01,0.501,11.0,3.47,0,moderate
+SYN-000548,43,male,knee,office,Assam,as,0,3.77,0.0,0.0,0.27,0.08,0.0,1.66,0.481,4.0,0.9,0,none
+SYN-009004,50,female,knee,construction,Tripura,en,0,8.82,5.46,7.81,6.62,8.14,6.56,3.66,0.686,18.0,3.77,1,high
+SYN-009446,67,female,knee,household,Arunachal Pradesh,hi,0,7.83,5.44,2.73,3.25,5.98,4.22,3.11,0.657,13.0,2.8,0,mild
+SYN-011861,46,female,knee,household,Nagaland,en,0,2.77,2.04,2.09,0.51,1.05,1.78,2.51,0.374,11.0,,0,none
+SYN-009732,54,male,hip,farmer,Nagaland,bn,0,6.8,0.0,0.0,1.34,0.49,1.51,,0.517,11.0,0.15,0,none
+SYN-003037,54,female,knee,farmer,Meghalaya,hi,1,3.78,9.7,10.0,10.0,10.0,,6.5,0.508,16.0,5.85,1,high
+SYN-003796,48,male,hip,household,Assam,hi,0,2.78,0.79,1.82,3.39,5.51,3.11,2.68,0.556,0.0,1.09,0,mild
+SYN-005459,46,female,knee,office,Arunachal Pradesh,as,0,3.88,2.33,4.27,1.21,3.48,2.3,2.95,0.531,,0.07,0,mild
+SYN-007769,55,female,knee,farmer,Nagaland,as,0,8.12,7.18,9.12,10.0,10.0,10.0,6.13,0.49,18.0,5.52,1,high
+SYN-006608,62,male,knee,construction,Nagaland,as,1,7.09,10.0,10.0,10.0,10.0,7.9,6.2,0.378,,5.06,1,high
+SYN-011072,53,male,knee,office,Mizoram,bn,0,0.14,1.36,3.8,1.57,0.8,3.21,1.76,0.674,6.0,0.51,0,none
+SYN-009790,79,female,other,farmer,Meghalaya,as,1,4.41,7.06,10.0,9.7,10.0,9.43,7.44,0.47,22.0,4.93,1,high
+SYN-003317,56,female,other,construction,Sikkim,as,1,2.34,4.99,4.26,6.02,10.0,6.17,3.49,0.709,11.0,1.61,0,moderate
+SYN-002688,47,female,hand,farmer,Meghalaya,as,0,8.09,6.68,9.03,7.25,10.0,6.13,3.5,0.629,11.0,4.61,1,high
+SYN-004667,71,female,knee,farmer,Mizoram,as,1,5.79,10.0,10.0,10.0,10.0,9.91,4.69,0.439,26.0,5.15,1,high
+SYN-009824,60,male,knee,office,Assam,as,1,2.67,7.66,10.0,10.0,10.0,8.92,5.91,0.493,16.0,6.0,1,high
+SYN-007580,48,male,knee,construction,Assam,bn,0,2.73,0.0,0.81,1.86,2.54,1.12,0.85,0.23,9.0,0.7,0,none
+SYN-001557,63,female,knee,farmer,Tripura,hi,0,1.38,4.01,2.96,3.51,6.11,4.51,2.02,0.502,16.0,2.68,0,mild
+SYN-009960,44,male,hip,construction,Mizoram,as,0,4.85,1.16,0.0,0.0,0.25,0.57,0.82,0.408,4.0,2.16,0,none
+SYN-011352,44,male,knee,household,Arunachal Pradesh,en,0,3.08,6.11,7.69,6.85,9.9,5.64,2.67,0.919,6.0,5.26,0,high
+SYN-011710,41,female,knee,other,Sikkim,as,0,4.18,3.03,4.07,6.05,8.55,6.43,2.88,0.274,9.0,3.63,0,moderate
+SYN-011718,30,male,knee,office,Meghalaya,bn,1,8.7,6.54,8.38,8.83,10.0,6.73,3.9,0.301,15.0,4.46,1,high
+SYN-004751,67,female,hip,office,Nagaland,en,1,5.22,10.0,10.0,10.0,10.0,8.31,4.3,0.768,24.0,,1,high
+SYN-002797,88,female,knee,construction,Manipur,as,1,7.32,9.54,10.0,10.0,10.0,9.74,4.07,0.512,28.0,5.5,1,high
+SYN-008286,83,female,knee,household,Assam,hi,0,2.78,8.1,8.07,9.9,10.0,9.56,4.6,,28.0,5.11,1,high
+SYN-005765,43,male,knee,transport,Nagaland,en,0,6.01,2.31,5.85,4.01,6.8,4.42,4.29,0.548,3.0,1.87,0,mild
+SYN-005152,66,male,knee,office,Assam,as,0,5.14,4.67,4.07,3.66,5.93,1.36,5.14,0.821,20.0,3.05,0,mild
+SYN-009985,44,female,hand,other,Mizoram,as,0,6.63,0.0,0.64,0.67,0.0,0.8,0.0,0.631,5.0,0.8,0,none
+SYN-004141,42,female,knee,transport,Meghalaya,as,0,4.4,1.86,1.01,0.51,1.47,0.0,0.98,0.679,1.0,0.38,0,none
+SYN-001356,48,female,hip,farmer,Sikkim,as,0,3.4,4.97,5.83,4.79,6.69,5.79,3.86,0.766,6.0,,0,moderate
+SYN-001447,64,male,knee,household,Sikkim,en,0,3.71,7.37,9.67,10.0,10.0,7.46,5.91,0.453,18.0,5.34,1,high
+SYN-002106,62,male,knee,office,Arunachal Pradesh,bn,0,7.19,4.95,5.09,3.87,7.67,5.34,,0.341,17.0,1.66,0,moderate
+SYN-003851,38,female,knee,construction,Nagaland,en,0,4.99,2.48,2.89,2.66,5.87,4.66,0.82,0.528,18.0,3.09,0,mild
+SYN-011924,60,female,hip,other,Manipur,as,0,5.06,6.04,6.29,9.1,10.0,10.0,6.32,0.562,16.0,3.86,1,high
+SYN-003188,63,female,knee,farmer,Mizoram,as,1,5.64,5.48,8.09,6.74,8.86,7.7,1.97,0.805,17.0,4.63,1,high
+SYN-010584,30,male,hand,household,Manipur,as,0,2.72,1.62,2.12,2.44,3.52,2.92,2.93,0.338,7.0,1.12,0,none
+SYN-000362,52,male,knee,office,Nagaland,en,0,6.51,6.98,7.4,8.19,10.0,8.33,4.13,0.479,12.0,3.33,1,high
+SYN-009451,64,female,other,farmer,Arunachal Pradesh,as,0,1.9,5.37,6.17,5.03,8.6,5.75,4.35,0.523,20.0,,1,moderate
+SYN-002448,33,male,hip,office,Manipur,en,0,6.37,2.42,2.6,3.05,3.66,3.45,2.62,0.701,0.0,0.11,0,mild
+SYN-002729,52,female,knee,household,Nagaland,hi,0,3.18,1.85,2.41,2.06,2.89,1.74,0.63,0.585,5.0,1.48,0,none
+SYN-001731,56,female,knee,other,Assam,en,0,8.23,6.75,8.75,7.09,10.0,8.59,5.46,0.908,11.0,4.22,1,high
+SYN-000194,88,male,hand,construction,Manipur,en,0,8.27,10.0,10.0,10.0,10.0,,6.18,0.644,23.0,4.4,1,high
+SYN-004909,55,male,hip,farmer,Arunachal Pradesh,bn,0,4.63,0.75,4.97,5.74,5.36,5.26,4.68,0.638,11.0,3.85,0,mild
+SYN-008188,60,male,knee,construction,Manipur,en,0,2.65,0.0,0.35,0.0,0.0,0.51,1.56,0.836,10.0,0.0,0,none
+SYN-003622,61,male,other,office,Nagaland,hi,0,6.4,3.06,2.93,5.57,8.19,4.56,3.9,0.448,14.0,2.68,0,moderate
+SYN-010164,33,male,other,construction,Meghalaya,bn,0,6.81,6.77,6.82,5.35,8.03,6.38,3.22,0.366,16.0,3.35,0,high
+SYN-002112,47,female,knee,office,Arunachal Pradesh,bn,0,4.88,5.23,5.77,5.12,9.74,5.48,2.77,0.261,3.0,1.79,0,moderate
+SYN-006380,29,female,hand,construction,Manipur,en,0,7.46,7.94,10.0,8.76,10.0,10.0,6.19,0.356,16.0,6.24,1,high
+SYN-002241,41,male,hand,household,Manipur,as,0,5.9,5.17,5.97,5.86,8.59,7.47,,,6.0,4.43,0,moderate
+SYN-011657,61,female,hand,other,Manipur,as,0,6.24,10.0,9.5,9.07,10.0,8.45,5.61,,30.0,6.08,1,high
+SYN-010361,46,female,knee,construction,Tripura,as,0,4.58,4.74,4.53,4.79,8.4,,3.72,0.291,9.0,3.98,0,moderate
+SYN-005233,62,male,hip,farmer,Meghalaya,as,1,8.64,10.0,10.0,10.0,10.0,9.96,6.89,0.821,25.0,6.02,1,high
+SYN-004362,50,male,knee,transport,Tripura,en,0,7.2,3.61,6.84,4.9,8.24,5.33,0.33,0.818,9.0,1.87,1,moderate
+SYN-004762,58,female,hand,farmer,Mizoram,bn,0,4.5,5.29,5.87,4.84,8.01,6.34,1.0,0.7,20.0,1.62,1,moderate
+SYN-009668,81,female,knee,office,Nagaland,en,1,8.2,7.27,7.24,9.74,10.0,8.14,6.06,0.601,15.0,8.34,1,high
+SYN-005896,34,female,knee,office,Meghalaya,hi,0,8.87,4.1,4.34,4.26,6.56,6.85,2.75,0.607,13.0,1.12,0,moderate
+SYN-004103,64,male,knee,other,Assam,en,0,6.42,0.39,4.02,2.21,1.63,1.31,2.06,0.715,10.0,0.22,0,none
+SYN-006938,44,female,knee,other,Sikkim,hi,0,5.65,4.46,3.86,3.64,7.33,,2.77,0.323,8.0,2.02,0,mild
+SYN-003645,76,male,hand,farmer,Nagaland,as,0,4.17,10.0,10.0,10.0,10.0,7.92,7.55,0.763,31.0,6.47,1,high
+SYN-004588,66,female,hip,household,Manipur,en,1,7.59,7.87,8.21,10.0,10.0,7.15,4.73,0.547,13.0,4.65,1,high
+SYN-000158,81,female,hip,transport,Nagaland,bn,1,3.9,8.76,9.95,8.28,10.0,9.15,4.82,0.638,29.0,5.42,1,high
+SYN-008986,48,male,knee,office,Meghalaya,bn,0,6.88,6.04,6.75,8.66,10.0,7.63,3.65,0.483,11.0,3.32,1,high
+SYN-009908,42,female,other,office,Arunachal Pradesh,as,0,7.19,10.0,10.0,10.0,10.0,10.0,6.45,0.472,17.0,5.05,1,high
+SYN-005675,59,female,hand,office,Nagaland,en,0,5.55,0.85,3.65,0.38,0.0,1.15,1.41,,4.0,0.18,0,none
+SYN-005500,56,female,knee,farmer,Sikkim,as,0,2.09,0.56,0.03,0.0,2.4,0.86,1.13,0.635,8.0,0.59,0,none
+SYN-001401,49,male,hip,other,Sikkim,as,0,7.47,3.12,6.88,6.13,7.93,7.07,5.73,0.637,5.0,3.05,0,moderate
+SYN-011453,48,female,knee,other,Sikkim,en,0,5.37,0.0,0.0,0.0,1.21,0.0,0.63,0.603,2.0,0.07,0,none
+SYN-007361,50,female,other,other,Arunachal Pradesh,as,0,7.04,5.3,9.0,5.73,7.41,5.76,3.37,0.823,14.0,3.47,0,high
+SYN-007882,66,male,hip,farmer,Mizoram,bn,0,6.98,4.22,4.17,3.68,5.41,6.21,2.48,,17.0,2.46,0,mild
+SYN-001379,50,male,knee,office,Tripura,as,0,8.51,8.84,9.74,7.67,10.0,,3.54,0.646,12.0,5.41,1,high
+SYN-002283,67,female,knee,farmer,Assam,as,0,7.26,7.53,7.1,7.39,10.0,7.51,4.56,0.462,18.0,,1,high
+SYN-003217,38,male,knee,farmer,Arunachal Pradesh,as,1,5.06,4.2,5.5,6.51,8.56,3.6,3.63,0.848,9.0,3.77,0,moderate
+SYN-006147,71,female,hand,household,Meghalaya,en,0,4.85,6.11,8.27,5.26,10.0,7.14,6.21,0.796,8.0,2.72,0,high
+SYN-010227,66,male,hip,construction,Arunachal Pradesh,bn,0,7.5,7.48,8.1,8.41,10.0,7.31,3.7,0.305,16.0,3.98,1,high
+SYN-006655,71,male,other,office,Nagaland,en,0,0.82,7.43,8.36,7.56,10.0,,5.84,0.709,17.0,4.73,1,high
+SYN-009035,85,female,hip,office,Sikkim,as,1,4.66,7.12,7.56,10.0,10.0,9.81,4.08,0.526,13.0,5.95,1,high
+SYN-003841,18,male,knee,household,Mizoram,en,0,6.0,2.01,3.86,2.15,6.01,4.15,0.51,0.638,4.0,1.63,0,mild
+SYN-010349,29,female,hand,farmer,Sikkim,en,1,6.0,5.08,5.75,9.09,10.0,8.74,3.68,0.66,11.0,3.92,1,high
+SYN-001768,47,female,other,transport,Nagaland,hi,0,3.98,4.83,3.91,2.88,3.67,3.12,1.86,0.425,16.0,1.04,0,mild
+SYN-002551,71,female,knee,household,Assam,hi,0,6.28,10.0,10.0,10.0,10.0,7.37,3.94,0.841,24.0,6.23,1,high
+SYN-006043,46,male,knee,farmer,Manipur,as,1,6.63,5.87,8.08,7.38,10.0,7.94,4.76,0.398,12.0,4.06,1,high
+SYN-000180,42,male,hip,other,Meghalaya,en,0,1.01,1.64,2.45,0.94,2.52,0.12,0.5,0.631,11.0,0.76,0,none
+SYN-009210,45,female,knee,other,Mizoram,as,0,7.48,2.26,1.41,0.73,2.0,0.0,1.28,0.579,2.0,0.9,0,none
+SYN-001109,59,female,hand,household,Meghalaya,en,0,6.54,7.31,9.86,8.32,10.0,9.74,4.53,0.409,24.0,5.91,1,high
+SYN-001224,39,female,knee,other,Assam,en,1,9.44,9.74,9.82,9.16,10.0,7.75,5.92,0.904,17.0,,1,high
+SYN-003494,63,female,other,other,Sikkim,en,0,4.36,2.76,3.93,6.96,9.95,7.37,3.6,0.633,7.0,,0,moderate
+SYN-006315,34,female,hand,other,Nagaland,en,0,4.67,0.15,0.0,0.0,1.08,1.61,0.0,0.497,0.0,0.0,0,none
+SYN-001511,71,female,hip,office,Tripura,hi,0,8.16,7.31,6.02,8.15,10.0,8.54,3.21,0.498,26.0,5.07,1,high
+SYN-003147,34,female,hand,farmer,Sikkim,as,0,3.43,5.53,6.12,4.63,7.59,5.46,2.21,0.713,17.0,1.52,0,moderate
+SYN-003049,61,male,hip,other,Mizoram,as,0,3.44,2.07,3.43,0.0,1.87,0.59,0.0,0.482,12.0,0.0,0,none
+SYN-002437,41,female,knee,household,Arunachal Pradesh,bn,0,2.06,0.76,1.26,0.76,0.46,0.48,0.0,,2.0,1.54,0,none
+SYN-002773,41,male,knee,farmer,Manipur,as,0,2.87,3.57,4.93,6.17,7.24,5.47,,0.29,6.0,4.4,0,moderate
+SYN-001586,56,female,hip,farmer,Mizoram,as,0,6.16,2.28,0.0,0.57,2.86,0.25,0.21,0.347,10.0,0.03,0,none
+SYN-001220,34,female,knee,construction,Sikkim,en,0,5.69,5.66,7.8,5.44,9.03,5.65,2.26,0.737,10.0,4.06,1,moderate
+SYN-010561,44,female,knee,other,Nagaland,as,1,1.07,2.14,4.98,5.09,3.69,4.82,1.86,0.344,2.0,0.52,0,mild
+SYN-005702,44,male,other,office,Nagaland,hi,0,4.47,4.89,5.95,4.44,7.27,5.28,4.36,0.613,12.0,3.37,0,moderate
+SYN-001723,23,female,hip,transport,Tripura,hi,0,1.32,0.83,0.0,0.0,0.0,0.0,0.0,0.402,8.0,1.0,0,none
+SYN-011818,45,male,knee,household,Arunachal Pradesh,hi,0,5.04,8.95,9.43,10.0,10.0,,4.99,0.509,11.0,4.01,1,high
+SYN-006213,36,male,knee,farmer,Tripura,hi,0,4.26,1.23,0.0,0.02,1.93,3.54,1.18,0.816,3.0,0.47,0,none
+SYN-003129,63,female,knee,household,Meghalaya,as,1,8.16,10.0,10.0,10.0,10.0,,5.8,0.54,22.0,6.81,1,high
+SYN-005720,68,female,knee,other,Mizoram,as,0,8.16,7.8,9.96,10.0,10.0,10.0,7.21,0.591,23.0,4.74,1,high
+SYN-010478,55,female,knee,construction,Nagaland,as,0,3.09,1.67,0.0,0.25,0.35,0.89,0.56,,0.0,1.1,0,none
+SYN-006936,58,female,knee,household,Tripura,bn,1,8.05,7.54,9.35,9.99,10.0,7.5,6.56,0.601,18.0,5.13,1,high
+SYN-011235,51,male,knee,farmer,Arunachal Pradesh,as,0,8.32,6.58,9.05,5.24,10.0,7.3,2.34,0.294,16.0,4.75,1,high
+SYN-004576,36,female,hand,farmer,Tripura,en,1,3.59,3.44,1.09,1.72,5.47,,2.68,0.503,6.0,0.2,0,mild
+SYN-004254,43,female,other,household,Meghalaya,en,0,7.18,5.44,4.5,3.74,8.35,4.57,2.71,0.702,13.0,3.33,0,moderate
+SYN-007522,43,female,knee,office,Manipur,bn,0,6.81,2.96,0.61,2.19,3.69,3.75,1.62,0.36,5.0,0.0,0,none
+SYN-007008,44,female,knee,office,Tripura,hi,1,4.69,5.01,8.05,8.6,10.0,6.77,5.57,0.509,12.0,4.54,0,high
+SYN-005741,63,female,knee,household,Meghalaya,hi,0,7.93,6.2,6.52,8.04,10.0,7.43,4.4,0.83,26.0,4.01,1,high
+SYN-004525,60,male,knee,office,Mizoram,as,0,5.05,5.04,6.55,7.84,9.61,8.38,4.8,0.617,11.0,,1,high
+SYN-007858,54,male,knee,farmer,Sikkim,en,0,0.43,4.2,5.62,6.13,8.21,,3.18,0.684,9.0,4.08,0,moderate
+SYN-004175,56,female,hip,farmer,Tripura,en,0,6.42,2.62,2.6,4.37,5.18,3.93,0.64,0.699,6.0,0.75,0,mild
+SYN-010528,57,male,knee,construction,Arunachal Pradesh,as,0,3.7,6.13,6.58,8.8,10.0,10.0,4.41,0.619,6.0,3.88,1,high
+SYN-005555,41,female,hip,transport,Tripura,en,0,9.43,4.59,3.62,2.84,6.14,3.99,3.03,0.551,11.0,3.31,0,mild
+SYN-000321,50,female,knee,transport,Manipur,en,1,4.68,7.52,10.0,9.93,10.0,10.0,3.23,0.375,13.0,5.81,1,high
+SYN-007700,33,male,knee,transport,Manipur,hi,1,1.11,3.65,5.13,3.78,8.47,5.06,1.88,0.267,7.0,2.17,0,moderate
+SYN-009170,43,male,other,other,Meghalaya,hi,0,3.49,3.96,5.42,5.98,7.88,5.76,2.96,0.721,6.0,1.97,0,moderate
+SYN-010688,62,female,hand,construction,Assam,en,1,3.14,10.0,10.0,10.0,10.0,7.18,6.65,0.865,17.0,5.43,1,high
+SYN-011867,62,male,knee,construction,Nagaland,en,0,4.82,4.27,3.12,3.74,6.04,5.36,1.19,0.604,10.0,2.34,0,mild
+SYN-006761,75,male,hip,household,Nagaland,hi,1,6.38,8.27,9.58,8.63,10.0,9.07,6.89,0.457,20.0,6.77,1,high
+SYN-000681,49,female,hip,transport,Meghalaya,en,1,7.71,6.82,6.77,7.47,8.18,8.02,3.51,0.837,5.0,2.74,1,high
+SYN-000365,41,female,knee,construction,Arunachal Pradesh,bn,0,1.89,0.0,0.0,0.0,1.49,2.84,0.0,0.654,0.0,0.0,0,none
+SYN-010479,51,male,knee,other,Mizoram,bn,0,7.9,10.0,10.0,10.0,10.0,10.0,4.06,0.547,23.0,5.94,1,high
+SYN-002632,50,female,hand,other,Tripura,as,0,3.18,1.12,0.0,2.42,2.28,2.73,2.01,0.255,,0.3,0,none
+SYN-001675,63,female,hand,transport,Arunachal Pradesh,en,0,7.48,8.86,10.0,9.72,10.0,8.05,,0.773,24.0,6.83,1,high
+SYN-000689,36,male,hand,construction,Arunachal Pradesh,en,1,5.14,4.45,4.91,2.92,5.71,2.92,0.29,0.626,2.0,3.09,0,mild
+SYN-004949,85,male,knee,other,Assam,en,0,3.39,8.31,7.96,10.0,10.0,8.79,4.15,0.434,28.0,6.97,1,high
+SYN-004278,48,male,knee,office,Assam,en,0,6.32,4.3,5.47,6.17,10.0,6.68,5.53,0.749,12.0,4.88,1,moderate
+SYN-001407,52,female,knee,construction,Mizoram,hi,0,6.78,0.0,0.0,0.0,0.33,0.0,0.43,0.417,1.0,0.67,0,none
+SYN-009203,31,male,hand,construction,Tripura,en,0,3.46,2.51,3.22,1.2,4.11,2.77,0.67,0.74,6.0,1.81,0,none
+SYN-008155,64,female,knee,other,Assam,hi,1,5.65,10.0,10.0,10.0,10.0,7.51,6.7,0.609,27.0,4.18,1,high
+SYN-009195,74,male,other,office,Meghalaya,hi,1,8.27,9.26,9.04,8.14,10.0,7.55,5.12,0.665,19.0,6.16,1,high
+SYN-005236,73,male,hip,household,Manipur,bn,0,9.49,7.04,7.61,8.89,10.0,9.01,3.98,0.455,,4.66,1,high
+SYN-009292,72,female,knee,other,Sikkim,as,0,1.95,0.0,0.31,0.0,0.14,1.43,1.08,0.765,7.0,0.0,0,none
+SYN-009278,39,female,knee,construction,Mizoram,bn,1,0.0,4.71,2.79,2.96,6.49,3.89,2.86,0.503,12.0,3.05,0,mild
+SYN-003074,88,female,knee,farmer,Meghalaya,en,0,5.73,10.0,10.0,10.0,10.0,7.2,3.55,0.697,27.0,5.85,1,high
+SYN-001643,43,male,knee,other,Sikkim,en,0,7.22,0.0,0.0,0.0,0.71,0.0,2.54,0.827,9.0,0.0,0,none
+SYN-011284,36,female,knee,farmer,Tripura,as,0,9.48,2.75,5.44,2.75,4.05,4.49,2.49,0.566,5.0,2.49,0,mild
+SYN-009452,24,female,hip,other,Sikkim,hi,0,7.1,5.29,6.62,4.94,6.92,4.57,3.24,0.647,13.0,3.26,0,moderate
+SYN-004101,47,male,other,farmer,Sikkim,bn,0,7.19,1.52,4.39,4.27,7.04,5.28,1.17,0.656,8.0,2.43,0,mild
+SYN-006015,59,female,hip,other,Tripura,hi,0,0.59,3.81,5.19,1.74,5.74,4.31,2.78,0.773,14.0,2.23,0,mild
+SYN-009946,87,female,knee,household,Tripura,as,0,4.85,5.04,9.35,8.79,10.0,9.6,5.5,0.508,26.0,3.6,1,high
+SYN-009846,59,female,hand,household,Arunachal Pradesh,bn,0,6.93,5.0,4.97,5.06,9.38,5.06,1.59,0.77,16.0,4.41,0,moderate
+SYN-002576,80,female,hip,farmer,Meghalaya,as,1,5.72,10.0,10.0,10.0,10.0,8.43,5.72,0.586,25.0,5.03,1,high
+SYN-003377,71,male,hip,construction,Manipur,en,1,3.2,6.25,9.63,7.44,10.0,8.19,3.89,1.0,20.0,5.61,1,high
+SYN-000369,43,female,other,household,Arunachal Pradesh,as,0,6.8,0.0,0.06,0.0,0.11,1.69,1.73,0.293,0.0,0.0,0,none
+SYN-001832,39,female,knee,office,Arunachal Pradesh,hi,1,6.81,9.08,10.0,10.0,10.0,9.71,6.16,0.69,11.0,7.39,1,high
+SYN-011133,45,female,hip,farmer,Arunachal Pradesh,as,0,5.25,1.27,0.6,1.03,2.1,1.86,1.17,0.626,6.0,2.99,0,none
+SYN-007759,32,female,knee,other,Arunachal Pradesh,as,0,1.3,0.0,0.55,0.0,0.0,0.0,1.36,0.747,3.0,0.0,0,none
+SYN-010437,73,male,hip,other,Tripura,as,1,5.39,10.0,10.0,10.0,10.0,9.95,6.07,0.574,25.0,7.25,1,high
+SYN-007929,49,female,knee,farmer,Nagaland,hi,0,3.18,0.0,0.1,0.0,1.2,0.0,0.0,0.416,3.0,1.72,0,none
+SYN-005028,60,female,knee,construction,Mizoram,hi,0,1.69,6.18,5.5,6.53,9.53,7.1,2.84,,14.0,2.77,1,high
+SYN-007213,36,female,hip,transport,Tripura,as,1,5.09,5.45,5.06,5.34,9.05,4.82,4.95,0.752,6.0,5.49,0,moderate
+SYN-003314,76,male,knee,transport,Assam,bn,0,7.24,4.78,5.88,6.94,10.0,6.06,4.03,0.703,,5.17,1,high
+SYN-009666,83,male,knee,office,Tripura,as,0,0.0,6.86,7.6,6.11,9.86,7.1,4.09,0.55,22.0,4.74,1,high
+SYN-003243,31,female,knee,office,Manipur,hi,0,3.72,1.56,0.41,0.46,2.69,0.97,0.4,0.47,8.0,2.5,0,none
+SYN-010713,21,female,knee,farmer,Arunachal Pradesh,as,0,4.35,2.27,1.88,3.67,3.49,,3.31,0.37,2.0,0.71,0,mild
+SYN-006623,53,female,knee,household,Mizoram,as,0,7.0,1.7,4.06,4.23,4.63,4.57,2.94,0.271,7.0,3.07,0,mild
+SYN-009360,42,female,hip,farmer,Nagaland,as,0,2.67,0.0,0.0,0.6,0.22,1.03,0.0,0.172,2.0,2.51,0,none
+SYN-001608,43,female,hand,farmer,Mizoram,en,0,3.35,0.0,0.0,0.0,0.0,2.26,0.0,0.451,0.0,1.35,0,none
+SYN-006437,49,female,hip,household,Meghalaya,en,0,6.16,2.08,3.88,1.48,2.88,0.24,1.32,0.279,3.0,1.13,0,none
+SYN-010359,49,female,hip,household,Sikkim,hi,0,7.14,1.09,2.02,0.08,0.07,0.13,2.61,0.564,9.0,0.33,0,none
+SYN-005326,41,female,knee,farmer,Mizoram,bn,0,0.27,2.63,1.6,3.89,3.73,,2.32,0.557,4.0,2.36,0,mild
+SYN-009274,49,male,knee,farmer,Manipur,bn,0,5.27,3.96,5.24,2.79,6.05,3.86,2.35,0.764,5.0,1.87,0,mild
+SYN-004115,58,male,knee,household,Manipur,en,1,5.3,10.0,10.0,10.0,10.0,8.24,5.1,0.476,23.0,6.44,1,high
+SYN-006980,50,female,knee,other,Arunachal Pradesh,en,1,2.65,10.0,10.0,10.0,10.0,9.07,5.39,0.346,27.0,4.68,1,high
+SYN-010090,18,female,knee,household,Tripura,en,0,5.64,7.05,7.66,8.38,10.0,8.42,4.09,0.797,17.0,3.02,1,high
+SYN-003941,58,female,knee,construction,Manipur,en,0,0.84,4.5,3.57,7.73,8.62,9.11,4.51,0.482,8.0,5.51,0,high
+SYN-005272,52,female,knee,farmer,Meghalaya,hi,1,7.9,8.19,9.89,8.81,10.0,8.97,3.01,0.716,18.0,5.66,1,high
+SYN-007702,29,male,hip,transport,Nagaland,en,1,2.43,3.89,4.78,4.65,7.35,4.89,2.55,0.507,4.0,2.17,0,moderate
+SYN-001384,62,female,knee,transport,Sikkim,hi,0,9.19,9.52,10.0,9.85,10.0,9.9,4.36,0.531,23.0,6.18,1,high
+SYN-009019,40,male,hip,office,Tripura,bn,0,0.0,4.42,3.74,5.14,9.39,6.57,1.56,,9.0,4.9,0,moderate
+SYN-001508,60,male,knee,other,Sikkim,en,0,7.32,10.0,10.0,10.0,10.0,10.0,5.91,0.834,21.0,7.0,1,high
+SYN-004153,88,female,knee,office,Manipur,as,1,5.5,9.01,10.0,10.0,10.0,8.86,6.01,,27.0,6.12,1,high
+SYN-008781,63,male,hip,transport,Arunachal Pradesh,en,0,4.19,3.46,3.27,4.47,6.61,7.06,0.7,0.618,13.0,3.07,0,mild
+SYN-009114,43,male,knee,farmer,Tripura,as,1,4.86,7.39,8.73,6.74,9.44,6.92,5.26,0.952,13.0,,1,high
+SYN-007728,76,female,knee,farmer,Meghalaya,bn,0,7.38,10.0,10.0,10.0,10.0,10.0,6.43,0.655,22.0,5.7,1,high
+SYN-010245,26,male,other,household,Arunachal Pradesh,en,0,3.09,5.43,8.02,5.27,8.96,6.69,6.16,0.497,12.0,2.83,0,high
+SYN-011898,53,male,knee,office,Mizoram,bn,0,5.84,7.83,7.51,6.13,10.0,9.2,2.85,0.694,13.0,3.13,1,high
+SYN-007790,63,female,knee,farmer,Tripura,bn,1,8.09,10.0,10.0,10.0,10.0,,,0.674,23.0,7.03,1,high
+SYN-001689,54,female,knee,farmer,Sikkim,as,0,8.11,7.24,10.0,8.38,10.0,9.72,3.94,0.594,16.0,5.22,1,high
+SYN-004989,50,male,knee,farmer,Nagaland,hi,0,4.78,3.66,4.61,4.18,7.55,4.88,2.08,0.792,15.0,3.05,0,moderate
+SYN-000737,59,female,knee,office,Assam,bn,1,4.74,8.32,10.0,8.97,10.0,7.9,6.32,0.57,19.0,5.88,1,high
+SYN-010925,19,male,knee,household,Nagaland,en,0,5.65,1.06,2.38,4.22,5.53,3.89,1.99,0.815,0.0,,0,mild
+SYN-001851,30,female,knee,farmer,Arunachal Pradesh,en,0,1.14,0.68,0.14,0.0,1.22,2.07,,0.657,15.0,0.0,0,none
+SYN-004767,61,male,knee,household,Nagaland,as,0,7.91,5.6,5.37,4.32,7.96,6.4,2.94,0.634,13.0,2.74,0,moderate
+SYN-003601,18,male,knee,office,Assam,en,0,6.29,4.99,3.99,5.76,9.18,6.83,2.06,0.669,14.0,1.84,0,moderate
+SYN-005129,77,male,knee,other,Sikkim,as,0,3.95,6.54,8.12,9.15,10.0,10.0,4.82,0.378,19.0,5.55,1,high
+SYN-001442,77,female,knee,construction,Arunachal Pradesh,as,1,3.79,10.0,10.0,10.0,10.0,10.0,4.97,0.628,27.0,5.32,1,high
+SYN-010723,35,male,hip,other,Tripura,hi,0,8.8,3.95,5.24,2.29,4.94,3.84,2.11,0.532,4.0,1.45,0,mild
+SYN-008495,44,female,knee,transport,Meghalaya,bn,0,4.31,9.59,9.67,8.42,10.0,8.32,4.9,0.526,21.0,4.86,1,high
+SYN-002888,64,male,knee,farmer,Manipur,hi,1,1.03,4.93,6.72,6.61,8.91,8.44,3.26,0.366,13.0,1.27,0,high
+SYN-003118,59,female,knee,other,Assam,en,0,2.02,5.15,5.99,5.33,8.81,6.54,2.58,0.629,12.0,2.83,0,moderate
+SYN-010203,50,male,other,farmer,Nagaland,hi,0,4.54,3.63,5.97,4.93,4.65,5.92,4.45,0.496,9.0,1.74,0,moderate
+SYN-010616,55,female,knee,farmer,Manipur,as,1,4.0,7.14,9.7,7.28,10.0,6.53,4.63,0.546,11.0,4.33,1,high
+SYN-011414,54,male,knee,other,Tripura,hi,0,1.91,0.0,0.0,0.0,0.0,0.68,0.0,0.599,0.0,0.0,0,none
+SYN-011305,43,male,knee,construction,Meghalaya,bn,0,6.82,4.12,7.15,6.87,8.47,7.17,2.15,0.338,0.0,4.46,1,moderate
+SYN-009733,43,female,knee,office,Meghalaya,as,0,3.22,5.44,6.43,10.0,10.0,9.09,4.41,0.506,11.0,3.21,1,high
+SYN-006804,65,male,hip,office,Assam,en,0,1.87,4.81,3.92,5.93,10.0,6.96,2.29,0.514,10.0,2.26,0,moderate
+SYN-001729,47,male,other,other,Tripura,en,0,1.98,3.0,2.16,1.44,2.49,1.14,0.0,0.833,7.0,0.0,0,none
+SYN-003792,41,female,knee,household,Manipur,hi,0,6.14,3.32,2.35,3.12,6.47,4.77,0.31,0.59,9.0,2.41,0,mild
+SYN-011878,45,female,knee,transport,Manipur,en,1,3.85,4.76,5.32,4.48,7.17,5.93,2.56,0.785,2.0,1.46,0,moderate
+SYN-006863,82,female,knee,other,Sikkim,bn,0,0.25,5.37,6.38,4.87,10.0,5.72,3.17,0.307,23.0,3.84,0,moderate
+SYN-001204,20,female,knee,office,Mizoram,as,0,5.43,0.84,0.31,1.3,0.73,1.33,1.49,0.397,5.0,2.56,0,none
+SYN-004338,36,male,hip,construction,Sikkim,en,0,2.34,2.14,2.68,1.82,1.49,0.54,2.1,0.766,5.0,0.91,0,none
+SYN-001374,37,male,other,office,Nagaland,en,0,3.21,0.0,0.0,0.0,1.17,0.3,0.15,0.775,0.0,0.0,0,none
+SYN-010940,39,female,knee,farmer,Arunachal Pradesh,hi,0,0.5,5.16,6.2,6.91,10.0,6.44,3.55,0.637,15.0,4.43,0,high
+SYN-004459,61,male,knee,household,Assam,as,0,3.53,4.53,6.34,7.06,10.0,6.74,4.34,0.601,20.0,2.79,1,high
+SYN-005270,47,male,hip,transport,Arunachal Pradesh,en,0,5.62,4.3,2.51,3.87,5.89,4.9,2.09,0.872,14.0,1.83,0,mild
+SYN-009888,60,male,knee,farmer,Nagaland,as,0,5.4,2.78,5.27,4.5,5.04,5.09,3.95,0.315,10.0,0.67,0,mild
+SYN-005903,69,female,other,other,Arunachal Pradesh,en,0,6.57,7.13,10.0,10.0,10.0,9.11,,0.562,16.0,5.43,1,high
+SYN-002700,53,female,knee,office,Meghalaya,en,0,4.65,9.75,9.98,9.12,10.0,8.78,4.16,0.786,15.0,5.58,1,high
+SYN-009323,57,male,hand,household,Assam,bn,0,4.42,7.03,7.67,8.38,10.0,9.68,3.73,0.786,20.0,4.55,1,high
+SYN-000555,44,female,hip,farmer,Meghalaya,hi,0,5.9,8.46,7.84,6.97,10.0,8.39,4.47,0.734,22.0,5.56,1,high
+SYN-000329,49,female,hip,farmer,Sikkim,en,0,2.08,0.0,0.0,0.04,1.01,1.24,0.22,0.629,5.0,0.0,0,none
+SYN-002491,53,female,knee,office,Mizoram,as,1,6.44,8.53,10.0,10.0,10.0,9.36,,0.754,16.0,5.92,1,high
+SYN-001941,62,male,knee,construction,Mizoram,hi,1,3.47,5.28,6.96,8.27,10.0,,,0.408,8.0,2.97,1,high
+SYN-001154,39,female,knee,transport,Assam,en,0,6.25,3.48,5.67,3.79,7.72,5.37,3.65,0.851,14.0,3.55,0,moderate
+SYN-000561,47,male,hip,farmer,Mizoram,en,0,2.24,0.73,3.13,2.13,1.89,1.31,1.22,0.72,1.0,0.66,0,none
+SYN-008899,44,female,hip,construction,Sikkim,as,1,4.18,7.13,10.0,10.0,10.0,9.15,4.05,0.827,16.0,4.08,1,high
+SYN-002644,18,female,hand,transport,Assam,as,0,5.94,2.36,1.34,2.17,4.42,4.25,3.22,0.537,5.0,2.0,0,mild
+SYN-004817,52,male,hip,farmer,Mizoram,en,0,4.63,2.32,1.92,1.23,4.21,3.43,1.93,0.15,9.0,1.74,0,none
+SYN-002894,40,male,knee,farmer,Sikkim,hi,0,1.32,0.0,0.0,0.0,0.0,0.54,0.89,0.547,0.0,1.55,0,none
+SYN-002425,88,male,knee,office,Tripura,bn,0,7.74,10.0,10.0,10.0,10.0,8.38,5.56,0.592,27.0,4.05,1,high
+SYN-005311,52,female,other,construction,Arunachal Pradesh,as,0,2.23,8.72,8.63,6.72,10.0,7.49,3.4,0.534,23.0,6.46,1,high
+SYN-002876,51,male,knee,office,Sikkim,en,1,3.55,10.0,10.0,10.0,10.0,8.64,5.88,0.346,24.0,6.47,1,high
+SYN-010787,39,male,knee,construction,Nagaland,bn,0,4.71,2.37,4.09,2.96,5.58,4.03,2.13,0.621,10.0,2.09,0,mild
+SYN-003861,54,female,knee,construction,Manipur,bn,1,8.06,9.64,10.0,8.59,10.0,10.0,5.08,0.579,26.0,5.42,1,high
+SYN-009209,40,female,other,construction,Sikkim,as,0,6.66,0.0,4.14,1.28,2.54,,1.11,0.359,0.0,0.76,0,none
+SYN-005893,24,male,other,office,Manipur,hi,0,6.1,5.02,6.13,5.25,9.16,5.37,6.86,0.703,8.0,2.9,0,moderate
+SYN-007224,44,male,knee,office,Meghalaya,bn,0,6.48,6.7,9.11,7.7,10.0,8.56,5.31,,16.0,4.34,1,high
+SYN-004068,57,female,knee,transport,Sikkim,as,0,2.63,2.86,4.56,2.38,3.7,2.94,3.12,0.499,9.0,1.77,0,mild
+SYN-001994,85,male,knee,household,Mizoram,hi,0,6.9,10.0,10.0,10.0,10.0,7.35,6.96,0.351,27.0,6.24,1,high
+SYN-008694,48,female,knee,other,Manipur,hi,0,3.51,2.45,0.62,0.3,1.32,1.52,0.88,0.353,12.0,1.53,0,none
+SYN-010507,72,male,other,household,Assam,as,0,0.71,6.09,5.76,5.74,9.64,5.29,3.83,0.792,20.0,3.08,1,moderate
+SYN-008292,47,female,knee,office,Sikkim,en,0,4.57,2.8,1.55,1.2,3.18,2.76,2.47,0.863,6.0,1.25,0,none
+SYN-006668,40,female,other,household,Manipur,as,0,9.43,9.13,10.0,10.0,10.0,9.22,5.52,0.512,19.0,4.68,1,high
+SYN-003145,64,male,hand,office,Arunachal Pradesh,en,0,5.24,3.25,3.56,2.85,5.51,2.48,0.0,0.658,20.0,0.53,0,mild
+SYN-009383,54,female,knee,other,Arunachal Pradesh,hi,1,7.57,10.0,10.0,10.0,10.0,9.87,5.52,0.42,21.0,7.05,1,high
+SYN-000294,63,female,knee,construction,Manipur,as,1,6.7,5.08,6.01,7.28,9.91,7.63,2.64,0.381,17.0,3.49,1,high
+SYN-000126,40,male,knee,farmer,Arunachal Pradesh,en,1,4.26,7.58,8.63,9.18,10.0,,4.92,,13.0,6.66,1,high
+SYN-005463,52,male,other,other,Meghalaya,as,0,4.37,4.17,6.24,6.21,9.24,5.63,3.15,0.416,17.0,3.27,0,moderate
+SYN-002382,65,female,hip,transport,Sikkim,bn,0,7.73,3.46,2.68,4.1,5.64,5.38,1.75,0.393,15.0,2.65,0,mild
+SYN-004693,40,female,other,transport,Nagaland,hi,0,3.57,0.0,0.0,0.0,0.0,1.69,0.0,0.407,0.0,0.0,0,none
+SYN-001766,85,female,knee,other,Tripura,as,0,8.96,6.19,10.0,9.58,10.0,,4.75,0.415,17.0,4.65,1,high
+SYN-006313,52,female,knee,construction,Tripura,hi,0,2.83,0.0,0.0,0.0,0.0,0.0,0.0,0.541,0.0,0.0,0,none
+SYN-002338,53,male,hand,construction,Mizoram,bn,0,3.19,0.62,1.5,1.1,0.89,1.3,0.0,0.555,5.0,0.0,0,none
+SYN-000043,62,male,knee,office,Nagaland,as,0,2.53,5.99,5.17,6.93,10.0,7.35,3.05,0.262,22.0,4.44,1,high
+SYN-011766,47,female,other,other,Manipur,as,0,4.65,3.26,7.64,5.79,9.57,6.47,,0.771,8.0,2.8,0,moderate
+SYN-009728,42,male,knee,other,Manipur,hi,1,2.3,3.7,6.62,4.71,6.98,,2.82,0.725,7.0,4.62,0,moderate
+SYN-010712,62,female,knee,construction,Sikkim,en,0,6.24,3.22,2.85,3.83,4.58,2.05,3.49,0.506,13.0,,0,mild
+SYN-009083,38,female,knee,transport,Arunachal Pradesh,en,0,4.06,3.96,6.89,3.48,8.32,,2.98,0.733,8.0,1.04,0,moderate
+SYN-003567,79,female,knee,construction,Manipur,en,0,0.66,5.73,7.15,5.21,8.84,6.87,2.43,0.751,18.0,0.72,1,moderate
+SYN-000618,31,male,hip,household,Sikkim,hi,0,2.96,5.05,5.78,3.76,6.0,5.21,3.5,0.357,9.0,1.2,0,moderate
+SYN-005841,70,male,hand,other,Mizoram,en,0,5.02,6.4,8.59,6.98,9.17,5.77,4.46,0.789,22.0,3.97,0,high
+SYN-006552,29,male,hand,construction,Nagaland,as,0,2.79,0.0,3.82,0.25,1.33,0.59,1.85,0.613,3.0,0.0,0,none
+SYN-011945,53,male,knee,other,Tripura,bn,0,6.74,6.46,7.29,5.93,10.0,5.68,2.45,0.656,14.0,1.44,0,high
+SYN-008969,39,female,other,other,Mizoram,as,0,6.67,6.42,8.26,6.4,8.55,7.51,4.9,,11.0,3.22,1,high
+SYN-009071,74,male,knee,office,Assam,as,1,2.3,6.71,8.98,7.88,10.0,8.3,3.43,0.43,22.0,5.2,1,high
+SYN-007416,40,male,knee,farmer,Nagaland,as,0,6.16,5.77,8.7,9.22,10.0,8.78,5.22,0.398,21.0,5.17,1,high
+SYN-006223,58,female,other,other,Nagaland,bn,1,2.37,6.77,6.73,6.52,9.9,7.68,4.83,0.401,11.0,2.8,1,high
+SYN-002146,18,female,knee,household,Arunachal Pradesh,en,0,4.43,4.77,3.83,5.17,9.23,6.45,1.72,,8.0,1.04,0,moderate
+SYN-000791,82,male,other,farmer,Mizoram,as,0,5.87,10.0,10.0,10.0,10.0,9.15,5.55,0.536,21.0,4.55,1,high
+SYN-007022,24,female,knee,office,Assam,bn,0,4.38,0.62,0.54,0.13,1.96,2.05,1.03,0.451,0.0,2.31,0,none
+SYN-004862,53,female,hip,construction,Nagaland,bn,0,3.96,0.0,3.05,0.0,0.86,0.67,1.97,0.561,5.0,0.21,0,none
+SYN-009357,18,female,knee,other,Mizoram,as,0,2.18,0.75,1.1,1.93,1.91,,2.47,0.49,6.0,0.0,0,none
+SYN-005881,36,male,knee,office,Nagaland,as,0,4.8,5.8,6.87,9.13,10.0,9.34,4.71,0.382,10.0,4.78,1,high
+SYN-002290,55,female,hand,other,Assam,hi,0,6.85,2.61,5.92,3.73,6.43,4.6,2.43,0.72,11.0,2.91,0,mild
+SYN-008710,29,male,knee,transport,Meghalaya,bn,1,4.35,3.58,4.87,6.56,7.76,6.07,3.52,,6.0,2.93,1,moderate
+SYN-000586,48,male,knee,farmer,Mizoram,hi,0,7.32,9.17,10.0,9.6,10.0,9.25,4.63,0.701,24.0,6.1,1,high
+SYN-003545,21,female,knee,household,Tripura,hi,0,2.74,0.0,0.0,0.0,0.0,0.0,0.34,0.347,1.0,0.0,0,none
+SYN-011233,54,male,hip,other,Meghalaya,en,0,6.52,2.22,4.71,0.52,2.79,0.95,0.36,0.662,6.0,0.0,0,none
+SYN-002480,34,female,other,other,Mizoram,bn,1,3.77,6.78,9.28,8.37,10.0,5.7,2.66,0.602,7.0,3.64,1,high
+SYN-010072,85,male,knee,farmer,Arunachal Pradesh,hi,0,1.1,5.4,6.38,6.4,10.0,7.35,4.39,0.728,16.0,4.01,1,high
+SYN-007792,60,female,knee,farmer,Assam,as,0,4.29,6.1,4.93,6.99,10.0,6.48,,0.328,11.0,4.45,1,high
+SYN-010118,84,male,hand,other,Mizoram,as,0,3.76,6.58,7.08,8.75,10.0,7.61,5.42,0.492,22.0,3.78,1,high
+SYN-001516,40,male,hip,other,Manipur,hi,0,4.19,5.91,6.32,6.64,10.0,7.76,5.31,0.539,18.0,6.51,1,high
+SYN-008135,57,female,knee,household,Assam,en,0,8.88,6.04,9.33,7.32,9.85,7.53,4.4,0.781,12.0,2.93,1,high
+SYN-007793,64,female,hand,other,Meghalaya,as,0,2.93,8.69,10.0,9.47,10.0,9.42,5.91,,16.0,6.24,1,high
+SYN-005141,49,female,hand,other,Nagaland,bn,0,7.75,3.28,3.66,3.91,4.27,4.71,3.06,0.533,1.0,2.46,0,mild
+SYN-010615,54,male,knee,office,Mizoram,bn,0,7.87,8.85,10.0,7.55,10.0,7.22,4.84,0.664,16.0,6.27,1,high
+SYN-001659,51,male,knee,other,Sikkim,en,0,3.22,2.19,4.02,2.32,2.5,3.41,4.75,0.693,10.0,4.02,0,mild
+SYN-003779,54,female,knee,farmer,Nagaland,en,0,3.6,6.61,9.5,7.42,10.0,7.7,4.45,0.586,10.0,3.87,1,high
+SYN-000745,32,male,knee,farmer,Mizoram,en,0,4.96,5.82,6.95,9.02,10.0,7.69,5.02,0.791,15.0,4.53,1,high
+SYN-002673,64,female,knee,transport,Mizoram,en,1,5.1,10.0,9.8,9.19,10.0,,3.16,0.618,21.0,6.49,1,high
+SYN-000131,49,male,knee,farmer,Nagaland,hi,0,6.81,1.04,2.91,4.23,6.4,5.43,,0.318,7.0,1.81,0,mild
+SYN-009584,57,female,knee,construction,Assam,bn,0,5.15,5.58,6.2,6.22,10.0,7.47,2.6,0.711,14.0,2.84,1,high
+SYN-002677,64,male,knee,farmer,Assam,as,0,1.12,0.0,0.0,0.0,3.05,2.06,0.94,0.518,6.0,0.0,0,none
+SYN-002216,43,female,knee,household,Assam,en,0,5.89,1.33,2.64,3.75,4.88,4.34,2.23,0.737,0.0,2.94,0,mild
+SYN-005886,83,male,knee,farmer,Mizoram,en,0,5.11,10.0,10.0,10.0,10.0,9.92,5.2,0.913,26.0,5.79,1,high
+SYN-005529,45,male,knee,office,Manipur,hi,0,3.92,2.43,4.3,2.96,3.57,3.43,0.0,0.713,6.0,0.62,0,mild
+SYN-004795,34,male,hip,construction,Nagaland,as,0,6.98,4.84,5.55,3.13,10.0,6.26,3.76,0.895,8.0,2.63,0,moderate
+SYN-008347,88,male,knee,construction,Sikkim,en,0,5.88,8.68,10.0,10.0,10.0,10.0,5.99,0.634,26.0,4.41,1,high
+SYN-010933,49,female,other,household,Assam,as,1,2.46,5.81,4.68,5.09,9.48,7.01,3.24,0.745,15.0,3.14,0,moderate
+SYN-004831,40,male,hip,other,Sikkim,as,0,4.96,0.0,0.0,0.0,1.54,0.0,0.7,0.6,0.0,0.41,0,none
+SYN-005503,43,female,hip,office,Sikkim,hi,1,4.55,2.94,4.99,2.52,4.26,4.9,2.03,0.697,7.0,1.77,0,mild
+SYN-007420,67,male,hip,farmer,Nagaland,en,0,1.1,5.02,6.46,4.44,8.17,7.91,3.4,0.476,10.0,4.04,0,moderate
+SYN-002819,62,female,hip,transport,Assam,en,1,3.11,5.25,3.85,8.8,9.77,,6.59,,,4.33,1,high
+SYN-007413,46,female,knee,office,Nagaland,as,1,4.37,10.0,10.0,10.0,10.0,8.7,,0.706,14.0,8.69,1,high
+SYN-011586,36,female,knee,farmer,Sikkim,hi,0,2.84,1.22,0.0,1.51,1.5,0.96,0.15,0.528,0.0,2.01,0,none
+SYN-008647,52,male,other,other,Manipur,as,1,6.62,10.0,10.0,10.0,10.0,10.0,5.57,0.458,25.0,5.84,1,high
+SYN-010598,68,female,knee,office,Nagaland,hi,0,7.88,10.0,10.0,10.0,10.0,8.79,4.79,0.787,25.0,6.56,1,high
+SYN-008829,40,female,knee,household,Tripura,as,0,5.14,0.0,0.0,0.48,2.78,1.77,1.64,0.484,2.0,0.29,0,none
+SYN-008276,33,male,hip,office,Meghalaya,hi,0,6.18,1.22,0.0,0.0,0.12,0.0,0.0,0.598,0.0,1.2,0,none
+SYN-011129,83,female,knee,farmer,Tripura,hi,0,5.29,6.69,6.72,6.98,10.0,7.97,1.95,0.57,25.0,5.23,1,high
+SYN-004409,46,female,knee,farmer,Mizoram,as,0,6.85,2.4,2.85,3.6,5.59,3.86,1.76,0.579,10.0,2.13,0,mild
+SYN-002354,44,male,knee,office,Nagaland,bn,0,7.35,4.56,6.25,5.82,8.54,7.62,1.94,0.316,10.0,2.75,1,moderate
+SYN-008241,51,female,knee,farmer,Arunachal Pradesh,bn,0,5.75,4.38,5.53,4.11,6.4,3.84,3.99,0.506,13.0,2.44,0,moderate
+SYN-002424,82,male,hand,household,Arunachal Pradesh,en,0,7.59,10.0,10.0,10.0,10.0,6.97,,0.794,23.0,6.66,1,high
+SYN-005066,69,female,knee,farmer,Sikkim,as,1,3.1,5.08,7.42,6.12,10.0,,3.33,0.368,11.0,3.21,1,high
+SYN-005055,47,male,knee,office,Nagaland,en,0,7.3,6.96,8.65,5.39,9.84,5.88,3.62,0.749,11.0,3.66,1,high
+SYN-011769,37,male,knee,farmer,Nagaland,en,0,3.38,3.54,3.33,2.02,4.11,3.91,0.75,,5.0,1.3,0,mild
+SYN-002166,64,female,knee,office,Nagaland,as,0,6.1,5.65,3.83,5.19,8.9,4.77,2.1,0.567,18.0,3.22,0,moderate
+SYN-010390,63,female,knee,farmer,Nagaland,bn,0,2.81,5.22,9.18,9.55,10.0,7.49,4.63,0.533,18.0,5.66,1,high
+SYN-002601,45,male,knee,office,Assam,en,0,0.93,1.9,2.94,3.37,4.15,4.3,2.0,0.769,1.0,1.52,0,mild
+SYN-003829,60,male,hip,farmer,Assam,hi,0,1.23,0.0,0.0,0.0,0.0,,0.5,0.251,6.0,1.07,0,none
+SYN-005486,53,female,knee,other,Sikkim,bn,0,2.17,1.24,3.22,2.03,5.8,3.87,0.4,0.571,11.0,1.81,0,mild
+SYN-002174,59,female,knee,construction,Nagaland,as,0,8.13,5.88,8.7,7.54,10.0,8.6,5.12,0.436,22.0,3.34,1,high
+SYN-011069,58,female,hand,other,Nagaland,bn,0,3.1,4.08,1.95,1.55,4.2,0.69,,0.394,5.0,1.13,0,none
+SYN-010324,56,female,knee,construction,Arunachal Pradesh,as,0,8.65,8.35,9.17,10.0,10.0,9.11,4.1,0.474,13.0,4.61,1,high
+SYN-008235,28,female,hip,farmer,Sikkim,as,0,8.59,2.17,2.81,2.61,4.76,2.94,0.52,0.392,14.0,1.08,0,mild
+SYN-006360,61,male,knee,construction,Nagaland,en,0,2.45,3.49,2.82,0.52,3.95,2.22,1.66,0.757,7.0,0.82,0,none
+SYN-008022,46,female,hip,farmer,Tripura,as,0,2.95,0.0,0.0,0.51,1.41,0.55,0.47,0.468,0.0,0.0,0,none
+SYN-007181,29,female,knee,office,Nagaland,hi,0,7.02,5.1,8.29,8.48,10.0,7.7,6.33,0.301,11.0,4.12,1,high
+SYN-008251,42,male,hand,office,Sikkim,as,0,2.49,2.25,4.0,3.05,5.24,3.56,1.28,0.724,7.0,1.31,0,mild
+SYN-005985,36,female,hand,office,Manipur,as,0,7.62,6.86,8.58,7.46,10.0,6.89,4.78,0.493,10.0,4.45,1,high
+SYN-010576,59,male,knee,household,Sikkim,en,1,2.17,9.17,9.18,9.75,10.0,7.85,5.77,0.365,21.0,5.76,1,high
+SYN-003307,71,male,hip,other,Sikkim,as,1,6.98,10.0,10.0,10.0,10.0,7.84,3.73,0.588,32.0,5.59,1,high
+SYN-000130,44,female,knee,construction,Nagaland,en,0,8.07,0.95,4.12,4.02,3.52,3.76,1.93,0.642,3.0,3.57,0,mild
+SYN-001124,59,male,knee,farmer,Meghalaya,as,0,2.76,2.34,2.9,3.1,1.72,3.77,1.82,,12.0,0.81,0,mild
+SYN-007249,50,male,hip,office,Nagaland,en,0,8.33,2.88,4.61,6.25,6.05,6.33,2.77,0.656,9.0,2.03,0,moderate
+SYN-010983,62,female,knee,farmer,Assam,as,1,5.51,5.53,4.85,5.66,8.85,4.81,2.91,0.608,9.0,3.23,1,moderate
+SYN-001998,42,female,hand,construction,Tripura,en,0,4.91,2.24,2.64,4.2,7.9,5.46,1.69,0.614,8.0,2.23,0,mild
+SYN-003954,36,male,knee,construction,Arunachal Pradesh,as,0,6.35,3.86,4.28,1.32,4.93,3.58,2.59,0.662,17.0,1.7,0,mild
+SYN-003613,45,male,knee,office,Manipur,bn,0,5.75,5.1,8.19,5.79,9.59,8.0,2.97,0.608,9.0,4.11,0,high
+SYN-009980,48,male,knee,other,Meghalaya,bn,0,7.52,6.58,6.61,8.29,10.0,8.3,4.51,0.781,9.0,5.44,1,high
+SYN-005796,44,male,knee,transport,Assam,bn,0,6.58,5.19,7.04,3.31,6.48,4.38,2.51,0.574,15.0,1.08,0,moderate
+SYN-007069,41,male,hand,transport,Meghalaya,as,0,6.79,3.68,1.73,4.2,6.41,6.07,2.87,0.494,5.0,4.09,0,mild
+SYN-011712,62,male,knee,transport,Mizoram,as,0,5.65,6.58,7.39,6.77,10.0,7.9,4.33,0.286,16.0,3.27,1,high
+SYN-010371,46,male,knee,household,Mizoram,as,1,6.5,6.99,8.4,8.5,10.0,7.98,,0.327,7.0,4.8,1,high
+SYN-000718,48,female,knee,household,Assam,en,0,1.58,4.16,7.89,5.61,8.26,6.63,2.59,0.807,10.0,3.11,0,moderate
+SYN-006927,35,female,knee,farmer,Tripura,bn,0,0.79,0.88,1.75,1.76,3.08,,1.07,0.507,0.0,1.03,0,none
+SYN-010795,44,male,hip,farmer,Mizoram,bn,0,4.44,0.0,1.71,0.17,0.73,,0.0,0.649,1.0,0.0,0,none
+SYN-007565,28,male,knee,transport,Nagaland,hi,0,2.66,0.7,0.6,0.12,1.12,1.23,0.0,0.663,4.0,0.17,0,none
+SYN-000936,45,female,hip,household,Assam,as,0,7.43,2.49,1.52,2.31,3.59,2.28,0.77,0.427,6.0,1.7,0,none
+SYN-011264,49,female,hip,farmer,Nagaland,as,0,5.4,0.0,0.0,0.0,0.15,0.0,0.5,0.574,0.0,0.0,0,none
+SYN-006199,48,female,knee,other,Arunachal Pradesh,as,0,1.76,4.6,4.4,5.76,8.79,6.34,3.23,0.428,9.0,5.24,0,moderate
+SYN-011526,38,female,knee,office,Mizoram,as,0,5.58,3.73,3.38,3.02,5.21,4.54,0.65,0.455,6.0,2.57,0,mild
+SYN-006997,87,male,knee,farmer,Assam,as,0,3.48,7.67,9.3,9.86,10.0,8.41,5.03,0.613,28.0,6.54,1,high
+SYN-011695,50,male,other,farmer,Tripura,en,0,7.53,7.87,9.56,10.0,10.0,7.69,5.94,0.649,13.0,5.39,1,high
+SYN-002327,23,female,hip,household,Sikkim,as,0,6.0,5.91,2.89,5.73,10.0,5.61,0.29,0.595,9.0,4.19,0,moderate
+SYN-000457,58,female,knee,farmer,Manipur,as,0,3.79,4.93,4.32,4.83,10.0,6.41,0.0,0.469,14.0,2.71,1,moderate
+SYN-004181,54,female,knee,office,Assam,bn,0,3.05,0.54,1.54,1.86,2.89,,3.11,0.772,4.0,1.68,0,none
+SYN-002474,75,female,hip,office,Nagaland,hi,0,5.31,10.0,10.0,10.0,10.0,7.33,4.88,0.429,33.0,4.61,1,high
+SYN-001155,45,male,hand,farmer,Nagaland,as,1,8.11,9.21,9.89,8.74,10.0,9.87,5.9,0.15,19.0,3.6,1,high
+SYN-011753,55,male,knee,office,Assam,hi,1,4.12,9.06,10.0,10.0,10.0,10.0,4.72,,16.0,5.17,1,high
+SYN-011950,41,female,knee,farmer,Meghalaya,as,0,4.78,3.52,5.67,4.82,7.08,4.2,2.1,0.255,4.0,1.92,0,moderate
+SYN-005227,18,female,hand,household,Assam,en,0,8.9,5.28,8.9,5.45,9.48,5.84,3.03,0.57,12.0,3.17,0,high
+SYN-010552,52,female,hip,office,Meghalaya,bn,0,6.87,5.29,6.79,4.71,8.79,5.24,2.49,0.55,16.0,1.63,0,moderate
+SYN-007878,35,female,hand,farmer,Sikkim,bn,1,5.37,8.82,7.36,8.38,10.0,8.44,4.27,0.398,15.0,5.28,1,high
+SYN-001135,78,male,knee,household,Arunachal Pradesh,as,0,7.38,7.5,10.0,7.19,10.0,8.4,,0.774,22.0,6.26,1,high
+SYN-009373,29,female,hip,office,Nagaland,as,0,5.03,2.76,4.38,3.28,5.45,,5.09,0.59,2.0,2.63,0,mild
+SYN-002359,64,male,knee,other,Manipur,as,0,8.5,7.28,10.0,9.21,10.0,9.98,6.49,,16.0,6.65,1,high
+SYN-011532,65,female,hand,other,Arunachal Pradesh,bn,0,9.19,10.0,10.0,10.0,10.0,9.66,7.13,0.655,26.0,6.1,1,high
+SYN-005209,47,female,hand,other,Tripura,as,1,7.52,9.23,10.0,10.0,10.0,7.1,6.1,0.416,14.0,6.0,1,high
+SYN-006609,78,male,knee,farmer,Meghalaya,en,0,7.5,7.11,7.97,7.22,10.0,7.92,4.08,0.361,21.0,3.32,1,high
+SYN-003360,62,female,knee,farmer,Sikkim,en,0,4.58,2.84,4.93,1.4,3.6,1.15,1.7,0.616,8.0,1.08,0,mild
+SYN-001769,65,female,knee,household,Nagaland,bn,1,2.92,7.65,9.82,8.89,10.0,8.09,5.16,0.758,16.0,3.46,1,high
+SYN-000259,63,female,knee,construction,Mizoram,en,0,4.9,10.0,10.0,10.0,10.0,8.77,4.83,0.783,18.0,6.46,1,high
+SYN-007018,61,female,knee,office,Manipur,en,0,10.0,7.6,8.41,9.39,10.0,9.56,5.09,0.489,15.0,4.44,1,high
+SYN-008359,78,male,knee,construction,Nagaland,bn,0,2.73,6.19,7.48,9.04,10.0,10.0,6.85,0.681,24.0,5.81,1,high
+SYN-000588,49,male,knee,construction,Nagaland,as,0,7.38,4.48,4.08,4.17,6.91,4.98,3.12,0.519,14.0,3.35,0,moderate
+SYN-001987,63,male,knee,transport,Sikkim,as,1,6.0,10.0,10.0,10.0,10.0,8.25,6.24,0.476,,5.63,1,high
+SYN-000597,20,female,hand,household,Meghalaya,bn,0,9.78,3.61,3.73,5.74,8.15,5.08,2.53,0.625,5.0,2.21,0,moderate
+SYN-011681,33,female,knee,farmer,Sikkim,en,0,9.24,4.57,3.86,6.54,10.0,7.47,2.74,0.445,9.0,3.63,1,moderate
+SYN-005968,61,female,knee,transport,Arunachal Pradesh,en,0,6.69,1.84,2.6,1.58,3.25,2.47,1.72,0.486,8.0,0.64,0,none
+SYN-000153,53,female,knee,farmer,Arunachal Pradesh,bn,0,2.0,1.23,0.0,0.43,1.28,1.5,0.11,0.73,3.0,0.36,0,none
+SYN-006598,81,male,knee,farmer,Nagaland,en,0,4.89,6.27,5.71,5.75,10.0,8.51,4.07,0.908,14.0,4.85,1,high
+SYN-006524,34,male,knee,transport,Arunachal Pradesh,as,0,6.37,4.81,5.53,6.71,10.0,5.97,4.61,0.521,17.0,4.08,0,high
+SYN-001276,48,female,knee,farmer,Nagaland,en,0,2.29,1.4,2.51,2.01,2.12,2.74,0.0,0.682,1.0,2.03,0,none
+SYN-004312,57,female,hip,other,Manipur,hi,0,4.17,0.5,2.12,3.58,2.95,4.19,1.83,0.392,8.0,1.26,0,none
+SYN-003695,80,male,hip,farmer,Mizoram,as,0,7.62,10.0,10.0,10.0,10.0,9.92,3.57,0.531,21.0,4.96,1,high
+SYN-000159,51,female,hand,other,Sikkim,bn,0,3.16,2.13,0.63,2.44,5.71,1.48,1.66,0.364,9.0,,0,none
+SYN-004608,49,male,hand,office,Assam,as,0,6.75,3.4,1.82,1.5,3.04,3.17,0.0,0.427,15.0,0.31,0,none
+SYN-003473,72,male,knee,other,Manipur,as,0,4.72,4.25,3.55,4.92,8.71,5.58,2.25,0.724,17.0,4.06,0,moderate
+SYN-010544,40,female,knee,household,Sikkim,hi,0,6.93,2.94,5.07,2.97,3.58,4.19,1.48,0.355,4.0,0.68,0,mild
+SYN-007462,75,female,hip,household,Sikkim,en,0,4.82,4.3,8.19,8.77,10.0,9.64,2.71,0.793,17.0,4.47,1,high
+SYN-001114,68,female,hand,construction,Mizoram,hi,0,0.59,2.21,3.18,1.65,4.42,4.29,1.37,0.514,12.0,1.9,0,mild
+SYN-005164,53,female,other,farmer,Nagaland,bn,0,7.98,6.84,5.6,6.63,9.11,5.58,2.68,0.603,21.0,4.06,1,high
+SYN-011655,58,female,hip,other,Tripura,en,1,8.89,10.0,10.0,10.0,10.0,7.42,4.5,0.588,15.0,6.4,1,high
+SYN-000156,47,female,knee,farmer,Manipur,as,0,4.36,2.55,2.03,0.0,1.88,2.23,0.0,0.636,12.0,0.0,0,none
+SYN-008936,43,female,other,household,Assam,hi,0,4.66,5.85,6.63,6.02,8.2,7.57,3.61,0.724,14.0,1.19,0,high
+SYN-011150,56,female,hip,household,Arunachal Pradesh,as,1,7.92,10.0,10.0,10.0,10.0,9.79,6.26,0.599,27.0,6.01,1,high
+SYN-004639,77,female,hip,farmer,Manipur,hi,0,8.21,7.87,9.46,9.38,10.0,8.48,5.06,0.723,24.0,4.92,1,high
+SYN-011140,76,female,knee,office,Assam,hi,0,1.84,4.09,6.32,6.87,10.0,10.0,2.3,0.927,22.0,3.01,1,high
+SYN-008683,55,female,hand,office,Arunachal Pradesh,as,0,3.61,2.45,3.18,3.21,3.73,2.12,1.46,0.813,7.0,0.8,0,mild
+SYN-005722,54,female,knee,farmer,Nagaland,hi,0,4.03,6.46,8.54,8.21,10.0,8.52,4.65,0.541,15.0,4.76,1,high
+SYN-008526,59,female,knee,office,Tripura,bn,0,6.84,7.81,10.0,10.0,10.0,8.78,6.09,0.858,,3.52,1,high
+SYN-002727,30,female,other,other,Nagaland,bn,0,5.2,4.57,5.65,6.22,8.14,6.58,,0.487,13.0,4.5,0,moderate
+SYN-000092,64,female,hip,transport,Sikkim,en,0,7.78,10.0,10.0,10.0,10.0,7.02,7.35,0.541,22.0,5.58,1,high
+SYN-006422,70,female,hip,office,Mizoram,hi,0,1.8,5.26,4.98,4.57,8.44,4.81,2.44,0.494,17.0,3.42,1,moderate
+SYN-008974,49,male,other,other,Meghalaya,en,0,5.64,3.23,4.62,4.02,5.73,3.52,3.41,0.606,7.0,1.96,0,mild
+SYN-000202,67,female,other,farmer,Mizoram,bn,1,4.21,9.35,10.0,8.96,10.0,8.43,,,29.0,4.39,1,high
+SYN-004239,72,female,knee,construction,Manipur,bn,1,2.46,10.0,10.0,10.0,10.0,8.03,4.44,0.692,24.0,6.22,1,high
+SYN-007754,52,female,knee,transport,Meghalaya,as,1,6.51,8.34,9.63,10.0,10.0,,5.63,0.408,17.0,7.16,1,high
+SYN-005710,62,female,hip,farmer,Arunachal Pradesh,as,0,6.01,8.31,8.67,6.34,10.0,7.29,4.55,0.439,15.0,4.5,1,high
+SYN-003195,70,male,hand,other,Sikkim,en,0,0.25,9.51,9.59,9.6,10.0,8.84,3.55,0.895,26.0,2.92,1,high
+SYN-000949,72,male,knee,office,Manipur,en,1,0.93,6.54,8.79,6.26,9.36,6.99,5.6,0.618,19.0,3.02,1,high
+SYN-004150,61,female,knee,construction,Assam,hi,0,1.25,4.91,4.04,6.45,9.98,8.86,5.71,0.509,13.0,5.42,0,high
+SYN-001293,51,male,knee,other,Assam,hi,0,5.89,4.54,4.32,3.01,4.26,3.39,2.52,0.358,3.0,2.6,0,mild
+SYN-002820,37,female,knee,other,Meghalaya,en,1,3.36,7.58,8.03,8.67,10.0,8.71,4.95,0.722,21.0,4.92,1,high
+SYN-007979,34,male,hip,transport,Mizoram,en,0,5.72,5.28,6.69,6.14,8.73,,,0.737,19.0,2.3,1,high
+SYN-006571,28,male,knee,office,Assam,en,0,3.35,4.57,4.68,2.9,6.55,5.6,2.21,0.428,9.0,1.38,0,mild
+SYN-004921,42,male,hand,household,Tripura,en,0,5.89,2.62,4.82,5.97,8.02,6.27,2.45,0.689,6.0,1.03,0,moderate
+SYN-001294,31,female,knee,other,Mizoram,hi,0,4.26,3.21,3.75,1.76,4.92,2.61,1.74,0.471,2.0,1.03,0,mild
+SYN-011529,47,female,hand,office,Arunachal Pradesh,bn,0,3.41,4.4,5.93,1.76,3.43,1.35,4.01,0.515,15.0,1.74,0,mild
+SYN-007301,50,male,other,household,Manipur,as,1,4.58,3.87,4.07,6.87,9.15,,4.76,0.437,3.0,0.97,0,moderate
+SYN-007911,38,female,knee,household,Nagaland,en,0,4.94,3.73,6.24,4.13,5.65,4.8,1.4,0.649,4.0,1.75,0,moderate
+SYN-006214,70,male,other,household,Sikkim,as,0,9.64,6.99,7.28,8.18,10.0,7.34,5.38,0.544,15.0,3.26,1,high
+SYN-009400,38,male,other,other,Mizoram,as,0,3.42,0.0,0.0,0.0,2.59,,0.99,0.524,2.0,0.0,0,none
+SYN-004559,55,female,knee,household,Assam,as,0,2.6,9.56,10.0,10.0,10.0,7.63,6.07,0.341,21.0,5.94,1,high
+SYN-003846,54,female,hand,household,Meghalaya,as,0,6.84,7.89,7.61,5.62,10.0,7.72,2.01,0.518,17.0,3.05,1,high
+SYN-005038,48,female,other,office,Arunachal Pradesh,as,0,6.46,4.18,5.32,5.34,7.48,5.11,3.47,0.913,16.0,1.8,0,moderate
+SYN-002798,75,female,knee,household,Manipur,as,1,6.17,10.0,10.0,10.0,10.0,9.15,,0.536,26.0,4.39,1,high
+SYN-006474,56,female,knee,farmer,Tripura,en,0,3.84,2.83,5.21,3.31,4.24,1.68,4.46,0.782,7.0,4.24,0,mild
+SYN-010679,54,male,knee,transport,Nagaland,as,0,1.97,0.0,0.0,0.0,1.86,0.84,0.0,0.414,2.0,0.0,0,none
+SYN-005994,56,male,hand,household,Mizoram,bn,0,8.44,10.0,10.0,10.0,10.0,9.13,2.4,0.806,28.0,7.65,1,high
+SYN-006274,55,female,knee,other,Assam,as,0,6.12,7.08,6.39,5.43,8.0,5.85,,0.551,15.0,4.9,1,high
+SYN-009132,37,female,knee,household,Assam,as,0,2.6,0.83,2.33,2.36,2.92,2.29,1.42,0.557,0.0,0.74,0,none
+SYN-008955,69,male,hand,transport,Tripura,en,0,5.16,7.99,8.84,8.75,10.0,5.77,5.11,0.626,17.0,7.24,1,high
+SYN-003470,60,female,knee,household,Arunachal Pradesh,hi,1,4.44,10.0,10.0,10.0,10.0,9.38,6.37,0.667,28.0,6.0,1,high
+SYN-001571,63,male,hip,farmer,Mizoram,en,0,5.21,6.34,7.56,6.96,9.83,7.57,5.84,0.82,15.0,3.38,1,high
+SYN-009313,36,male,knee,household,Tripura,as,1,7.78,5.12,7.24,7.09,10.0,6.78,3.71,0.211,10.0,2.81,0,high
+SYN-005388,34,female,other,farmer,Tripura,en,1,2.3,6.36,9.14,5.61,7.59,5.41,4.24,0.56,14.0,4.57,0,high
+SYN-009838,45,female,knee,household,Nagaland,bn,0,3.52,3.46,3.45,3.94,5.97,3.76,1.19,0.306,10.0,,0,mild
+SYN-008522,22,male,hip,household,Nagaland,as,0,8.79,4.68,4.7,3.54,5.87,5.27,,0.527,14.0,2.48,0,mild
+SYN-002597,40,female,knee,farmer,Mizoram,bn,0,5.48,0.19,2.54,0.24,0.0,,0.5,0.643,2.0,2.04,0,none
+SYN-009430,70,female,hip,farmer,Nagaland,bn,0,2.68,6.18,7.3,7.77,10.0,10.0,,0.594,18.0,5.63,1,high
+SYN-003519,40,female,knee,other,Assam,en,0,7.55,2.69,8.46,5.13,6.79,6.93,2.7,0.511,7.0,3.83,0,moderate
+SYN-009102,50,female,hand,other,Assam,en,0,7.18,9.7,10.0,10.0,10.0,9.36,5.86,1.0,17.0,6.56,1,high
+SYN-008169,35,female,knee,farmer,Tripura,hi,0,7.84,4.61,2.27,2.06,4.81,3.8,0.12,0.446,15.0,0.8,0,mild
+SYN-011165,56,female,knee,other,Nagaland,hi,0,0.66,1.56,3.92,0.0,0.0,,0.75,0.53,8.0,0.69,0,none
+SYN-005426,42,female,knee,farmer,Arunachal Pradesh,en,0,6.81,9.1,9.95,8.28,10.0,6.47,6.17,0.833,16.0,4.64,1,high
+SYN-002433,42,male,other,office,Arunachal Pradesh,bn,1,3.45,1.51,0.0,0.14,1.67,1.21,0.16,0.752,10.0,0.0,0,none
+SYN-006729,42,male,knee,office,Assam,as,0,1.71,2.98,3.26,2.91,4.22,3.4,2.01,0.736,10.0,1.6,0,mild
+SYN-002096,25,male,hand,transport,Sikkim,en,0,4.66,5.94,8.4,6.19,8.6,6.34,4.23,0.533,11.0,3.01,1,high
+SYN-009450,64,male,hip,farmer,Arunachal Pradesh,as,0,8.9,7.74,9.44,10.0,10.0,7.73,5.65,0.483,16.0,5.62,1,high
+SYN-007206,63,female,knee,farmer,Assam,as,1,3.55,10.0,10.0,10.0,10.0,10.0,5.55,0.566,20.0,6.49,1,high
+SYN-004612,25,female,knee,other,Manipur,en,1,3.0,8.86,10.0,7.53,10.0,7.79,3.84,0.931,16.0,6.06,1,high
+SYN-003087,46,female,hand,farmer,Mizoram,hi,0,8.67,4.93,7.99,8.42,10.0,7.3,2.75,0.518,21.0,4.47,1,high
+SYN-009082,73,male,hip,household,Nagaland,en,0,5.09,3.34,1.92,5.09,6.44,3.73,2.61,0.496,20.0,4.23,0,mild
+SYN-001464,71,female,hand,farmer,Tripura,en,0,4.75,4.62,6.5,6.68,8.93,6.16,3.78,0.718,15.0,4.18,1,moderate
+SYN-009021,39,female,other,other,Manipur,en,0,6.55,3.08,3.83,3.74,5.18,,3.01,0.416,3.0,2.5,0,mild
+SYN-009881,25,male,knee,household,Nagaland,as,0,2.69,7.55,5.42,6.09,10.0,7.74,2.35,0.643,13.0,4.52,0,high
+SYN-010344,57,male,other,household,Assam,as,1,3.13,4.07,4.75,3.65,6.76,5.64,5.23,0.486,11.0,2.95,0,moderate
+SYN-009235,68,female,knee,farmer,Manipur,en,0,6.08,2.05,5.28,5.16,6.72,5.28,1.56,0.703,2.0,3.13,0,mild
+SYN-009976,67,male,knee,office,Manipur,hi,1,2.28,8.98,10.0,10.0,10.0,8.61,6.57,0.554,24.0,6.1,1,high
+SYN-009335,61,female,knee,farmer,Arunachal Pradesh,as,1,3.56,9.51,10.0,10.0,10.0,9.34,5.27,0.932,23.0,5.08,1,high
+SYN-003232,62,female,knee,office,Mizoram,as,0,4.85,6.34,6.56,5.11,6.73,7.13,2.25,0.436,13.0,3.34,0,moderate
+SYN-006530,58,female,hip,farmer,Mizoram,hi,1,3.29,7.48,9.57,8.43,10.0,7.19,5.48,0.553,21.0,5.47,1,high
+SYN-006137,65,female,knee,other,Assam,as,0,5.17,2.35,5.64,4.24,5.72,4.96,1.77,0.501,11.0,1.94,0,mild
+SYN-003916,57,male,knee,other,Assam,hi,0,6.63,5.31,4.95,6.79,10.0,6.04,5.04,0.787,16.0,5.16,0,high
+SYN-011505,51,male,knee,transport,Manipur,as,0,6.49,7.07,8.4,9.18,10.0,8.43,5.46,0.529,18.0,5.72,1,high
+SYN-010238,68,female,knee,household,Nagaland,bn,1,2.06,10.0,10.0,10.0,10.0,9.46,,0.884,23.0,7.28,1,high
+SYN-005782,47,male,knee,office,Arunachal Pradesh,bn,0,5.24,4.61,5.35,8.43,10.0,10.0,4.46,0.531,7.0,4.67,1,high
+SYN-003127,63,female,knee,other,Mizoram,en,0,1.01,9.61,9.69,9.84,10.0,8.46,6.01,0.384,23.0,5.19,1,high
+SYN-009230,64,male,knee,farmer,Meghalaya,as,0,1.15,3.61,4.34,6.96,8.5,5.94,3.76,0.535,10.0,3.89,0,moderate
+SYN-000544,42,male,knee,household,Mizoram,hi,0,8.49,6.51,6.33,5.05,8.85,,3.92,0.356,17.0,3.43,1,high
+SYN-000436,30,male,hip,construction,Assam,as,0,3.35,2.09,5.82,4.63,6.3,2.72,4.35,0.366,0.0,1.95,0,mild
+SYN-001733,42,female,knee,farmer,Arunachal Pradesh,bn,0,2.33,4.57,3.87,3.96,7.73,3.87,3.01,0.639,13.0,2.69,0,mild
+SYN-005588,40,female,hip,farmer,Manipur,hi,0,4.71,0.0,0.0,0.08,1.07,0.0,0.0,0.511,5.0,0.0,0,none
+SYN-009648,48,female,hip,construction,Mizoram,hi,0,4.45,0.0,0.0,0.0,0.0,,0.0,0.49,10.0,0.0,0,none
+SYN-000611,26,male,hand,farmer,Mizoram,en,0,3.35,0.0,1.47,0.07,0.03,,1.38,,2.0,0.34,0,none
+SYN-001248,88,female,other,farmer,Arunachal Pradesh,as,1,8.94,10.0,10.0,10.0,10.0,10.0,5.22,0.526,26.0,5.21,1,high
+SYN-004983,27,male,knee,household,Manipur,as,0,7.16,6.16,7.16,9.5,10.0,10.0,4.76,0.719,17.0,5.73,1,high
+SYN-001849,18,male,knee,office,Sikkim,as,0,7.78,7.18,10.0,7.74,10.0,8.37,3.82,0.615,10.0,5.26,1,high
+SYN-004727,45,male,hip,farmer,Mizoram,as,0,6.16,1.48,2.95,5.62,4.38,5.92,2.49,0.629,10.0,3.65,0,mild
+SYN-007760,66,male,hand,household,Meghalaya,as,0,4.27,4.43,4.24,6.8,8.01,6.77,4.88,0.433,9.0,3.87,1,moderate
+SYN-007112,66,female,knee,household,Assam,as,0,4.56,4.46,8.5,3.64,4.13,5.07,3.78,0.318,8.0,1.74,0,moderate
+SYN-006697,48,male,knee,farmer,Manipur,as,1,5.95,3.53,6.28,4.4,6.62,5.76,3.86,0.735,13.0,1.69,0,moderate
+SYN-005869,76,male,knee,other,Tripura,hi,0,2.22,6.23,7.73,8.68,10.0,9.98,3.92,0.293,22.0,3.26,1,high
+SYN-008086,53,male,hand,farmer,Mizoram,as,0,1.0,1.85,4.91,2.6,3.33,3.06,3.11,0.345,6.0,0.21,0,mild
+SYN-008587,45,female,hip,farmer,Sikkim,hi,0,7.71,4.94,4.14,5.64,7.55,5.39,2.98,0.578,5.0,1.83,0,moderate
+SYN-002827,47,male,hand,household,Tripura,hi,0,2.12,5.91,3.62,6.05,9.75,8.26,,0.426,8.0,2.74,1,moderate
+SYN-005499,35,male,other,farmer,Sikkim,en,1,4.9,4.95,5.78,4.4,8.97,6.27,3.38,0.307,12.0,3.76,0,moderate
+SYN-006602,71,male,knee,other,Meghalaya,en,1,8.68,10.0,10.0,10.0,10.0,8.29,,0.716,22.0,6.2,1,high
+SYN-001151,63,male,hip,farmer,Meghalaya,as,0,5.59,9.8,10.0,10.0,10.0,,,0.436,27.0,5.82,1,high
+SYN-001662,18,female,knee,household,Manipur,as,0,7.45,0.0,3.19,0.33,0.28,0.23,0.99,,1.0,0.69,0,none
+SYN-002274,71,male,other,farmer,Tripura,en,0,6.06,7.33,10.0,9.06,10.0,7.45,5.19,0.989,,6.06,1,high
+SYN-005859,55,female,other,other,Sikkim,hi,0,4.66,3.4,4.59,5.67,6.72,3.9,2.77,0.413,9.0,1.67,0,moderate
+SYN-004466,75,female,knee,farmer,Manipur,as,0,6.42,10.0,10.0,10.0,10.0,9.0,5.95,0.492,27.0,5.48,1,high
+SYN-003518,34,male,knee,office,Nagaland,bn,0,1.23,0.0,0.0,0.0,0.0,,2.82,0.685,7.0,0.0,0,none
+SYN-002281,82,female,knee,construction,Manipur,hi,0,3.35,6.92,7.49,8.66,10.0,9.22,4.54,0.506,22.0,4.76,1,high
+SYN-002869,50,female,hip,other,Nagaland,as,0,6.02,0.0,3.76,1.46,4.42,2.08,2.88,0.504,7.0,,0,none
+SYN-007906,60,female,knee,construction,Mizoram,en,0,6.76,6.25,7.99,9.99,10.0,7.48,5.67,0.777,11.0,3.5,1,high
+SYN-011122,52,female,hip,office,Arunachal Pradesh,hi,0,1.62,2.96,3.99,6.29,6.96,7.03,3.3,0.773,5.0,1.57,0,moderate
+SYN-008370,30,female,knee,farmer,Meghalaya,as,0,2.21,0.09,0.0,2.13,3.71,4.07,0.41,,0.0,0.95,0,none
+SYN-001985,34,male,knee,household,Mizoram,en,0,3.31,5.41,4.76,3.39,7.78,4.68,3.54,0.545,14.0,2.6,0,moderate
+SYN-003321,51,male,hip,household,Assam,bn,0,5.99,2.08,0.79,2.25,4.03,4.14,0.0,0.668,5.0,2.29,0,none
+SYN-007540,71,female,knee,farmer,Meghalaya,as,1,6.11,8.62,9.74,9.25,10.0,8.61,5.86,0.611,23.0,6.19,1,high
+SYN-007438,33,female,hip,farmer,Arunachal Pradesh,as,0,6.22,0.0,1.77,0.0,0.0,0.0,1.8,0.555,3.0,0.71,0,none
+SYN-011091,56,female,knee,office,Assam,en,0,7.37,3.86,5.67,6.65,6.69,5.79,4.29,0.52,16.0,4.24,1,moderate
+SYN-005373,43,female,other,farmer,Arunachal Pradesh,en,0,5.72,2.73,1.46,2.02,2.98,2.5,0.0,0.698,9.0,2.5,0,none
+SYN-010496,45,male,knee,household,Mizoram,as,0,4.3,0.0,0.0,0.0,2.18,0.53,0.0,0.607,6.0,0.66,0,none
+SYN-009245,47,female,knee,office,Mizoram,as,0,6.53,4.7,6.05,6.48,8.76,7.45,3.55,0.74,11.0,1.91,1,moderate
+SYN-008433,78,female,knee,construction,Meghalaya,bn,1,8.6,10.0,10.0,10.0,10.0,7.88,6.39,0.635,25.0,7.52,1,high
+SYN-011782,52,female,knee,farmer,Mizoram,en,0,7.66,4.66,3.32,6.07,8.11,6.72,2.61,0.86,12.0,3.27,1,moderate
+SYN-004156,47,female,hip,other,Meghalaya,hi,1,2.52,7.39,10.0,8.3,10.0,7.39,4.45,0.499,14.0,5.35,1,high
+SYN-008608,59,male,knee,other,Tripura,bn,0,8.42,5.12,6.13,4.97,7.87,6.22,1.23,0.58,14.0,0.55,1,moderate
+SYN-007306,66,male,knee,household,Arunachal Pradesh,en,1,7.69,6.97,9.75,7.76,10.0,8.47,5.02,0.664,19.0,6.16,1,high
+SYN-010595,64,male,knee,farmer,Assam,hi,0,4.26,5.44,7.37,7.07,6.45,5.28,4.9,0.54,10.0,3.78,0,high
+SYN-005008,51,female,knee,other,Assam,as,0,5.55,0.62,0.81,0.02,1.53,2.35,0.87,0.367,0.0,0.0,0,none
+SYN-003219,47,female,knee,farmer,Meghalaya,en,0,7.4,10.0,8.77,10.0,10.0,9.54,5.8,0.599,18.0,7.75,1,high
+SYN-011293,75,female,knee,office,Assam,en,0,7.5,8.68,10.0,10.0,10.0,8.37,4.69,0.604,17.0,4.9,1,high
+SYN-009368,51,female,hip,farmer,Nagaland,as,0,8.78,7.18,8.45,9.63,10.0,8.69,7.51,0.621,16.0,5.95,1,high
+SYN-000425,70,male,knee,farmer,Sikkim,en,0,4.53,7.58,10.0,10.0,10.0,10.0,4.95,0.657,19.0,6.55,1,high
+SYN-000999,54,female,hand,construction,Manipur,as,0,1.99,3.8,7.02,3.81,7.01,4.46,2.53,0.465,15.0,2.04,1,moderate
+SYN-005224,58,male,knee,office,Nagaland,hi,0,8.41,7.39,7.21,9.03,10.0,6.24,2.63,0.853,17.0,5.25,1,high
+SYN-010251,66,female,hip,farmer,Meghalaya,en,0,3.14,3.63,6.66,3.13,5.89,4.06,4.62,0.63,21.0,1.22,0,moderate
+SYN-007807,57,male,knee,transport,Nagaland,en,0,7.38,5.88,4.74,5.94,8.63,6.67,2.22,0.745,15.0,4.56,1,moderate
+SYN-011809,43,female,hip,household,Tripura,hi,0,6.66,5.56,5.87,7.85,10.0,,3.94,0.644,7.0,,1,high
+SYN-001064,64,female,knee,other,Mizoram,en,0,0.0,3.28,3.07,1.19,5.18,3.79,0.0,0.707,13.0,2.13,0,mild
+SYN-008862,70,male,hand,transport,Sikkim,en,0,4.56,6.47,9.28,8.57,10.0,7.54,2.98,0.89,,3.86,1,high
+SYN-007491,39,female,other,office,Nagaland,bn,0,1.56,0.0,0.0,0.0,0.0,0.41,0.12,0.492,4.0,0.54,0,none
+SYN-006699,27,male,other,office,Arunachal Pradesh,hi,0,6.35,0.0,0.0,0.0,0.0,1.17,0.21,0.35,4.0,0.42,0,none
+SYN-011125,66,female,other,construction,Meghalaya,bn,0,4.79,6.73,6.01,8.07,10.0,6.25,2.79,0.403,17.0,4.03,1,high
+SYN-004839,70,male,knee,office,Nagaland,bn,0,2.33,7.05,9.01,9.77,10.0,9.09,4.67,0.534,18.0,3.78,1,high
+SYN-004109,54,male,hip,office,Arunachal Pradesh,en,0,4.73,5.41,7.34,5.8,8.69,6.65,3.63,0.572,14.0,1.74,1,high
+SYN-003113,74,male,hand,office,Tripura,bn,0,7.62,10.0,10.0,10.0,10.0,,3.95,0.636,22.0,3.71,1,high
+SYN-009265,33,female,knee,farmer,Arunachal Pradesh,en,1,6.48,7.7,10.0,6.42,10.0,,3.61,0.728,14.0,4.59,1,high
+SYN-007238,48,male,hand,office,Assam,en,0,7.1,7.87,9.47,8.49,10.0,9.14,4.78,0.527,18.0,4.27,1,high
+SYN-009537,34,male,knee,household,Mizoram,en,0,7.14,4.78,6.38,5.81,9.23,5.77,,0.48,3.0,2.72,0,moderate
+SYN-000951,47,male,knee,household,Assam,en,0,5.21,6.57,7.62,9.11,10.0,9.81,5.3,0.24,10.0,5.57,1,high
+SYN-003201,47,male,hand,construction,Assam,as,0,4.34,4.98,6.19,5.34,10.0,4.84,3.07,0.812,12.0,1.84,0,moderate
+SYN-008386,56,female,hip,other,Tripura,as,0,8.47,9.59,10.0,9.74,10.0,8.18,5.13,0.686,17.0,5.52,1,high
+SYN-006254,33,male,other,construction,Arunachal Pradesh,hi,0,1.92,0.0,0.0,0.0,0.03,2.94,0.14,0.338,6.0,0.0,0,none
+SYN-003906,50,male,hand,other,Tripura,as,0,7.17,7.77,7.41,8.82,10.0,6.39,3.48,0.583,15.0,4.22,0,high
+SYN-010413,18,female,knee,other,Sikkim,as,1,3.47,5.01,6.7,6.47,10.0,9.25,4.16,0.424,2.0,2.41,0,high
+SYN-003056,66,male,knee,construction,Tripura,as,0,2.01,6.64,6.36,8.13,10.0,,5.05,0.925,15.0,5.26,1,high
+SYN-010464,30,male,hip,household,Manipur,bn,0,3.15,2.96,2.91,1.45,1.61,2.62,0.84,0.482,0.0,2.24,0,none
+SYN-004482,74,female,hand,farmer,Meghalaya,en,1,5.52,10.0,10.0,10.0,10.0,8.35,6.36,0.717,24.0,,1,high
+SYN-003764,59,female,other,farmer,Manipur,hi,0,6.17,3.23,6.21,2.88,5.18,3.41,2.66,0.668,12.0,2.35,0,mild
+SYN-011418,65,female,knee,other,Meghalaya,bn,0,1.42,5.63,8.67,8.14,10.0,9.46,3.66,0.593,14.0,4.3,1,high
+SYN-007331,59,female,knee,farmer,Arunachal Pradesh,en,0,7.46,2.22,4.66,1.3,4.87,4.2,0.33,0.853,7.0,0.27,0,mild
+SYN-008578,35,female,knee,household,Meghalaya,en,0,4.08,0.84,3.16,0.0,1.16,2.55,1.58,0.468,4.0,0.0,0,none
+SYN-006037,64,male,knee,household,Assam,en,0,4.32,6.19,7.23,6.92,10.0,9.54,3.72,,14.0,3.94,1,high
+SYN-001106,24,female,knee,other,Mizoram,as,0,7.96,3.81,3.19,3.35,5.01,1.81,6.05,0.385,8.0,1.57,0,mild
+SYN-000027,41,male,other,other,Manipur,as,0,4.42,1.97,0.43,0.68,0.08,0.0,1.6,0.707,2.0,0.45,0,none
+SYN-003388,76,male,knee,office,Tripura,en,0,7.95,10.0,10.0,10.0,10.0,9.1,7.92,0.723,23.0,4.96,1,high
+SYN-005605,62,male,knee,other,Mizoram,en,0,5.17,0.76,1.47,1.74,3.83,3.33,0.23,0.749,5.0,0.57,0,none
+SYN-006016,61,male,knee,household,Meghalaya,bn,0,3.14,10.0,10.0,8.98,10.0,8.77,6.02,,23.0,4.36,1,high
+SYN-000598,63,male,hand,other,Meghalaya,en,0,4.83,4.99,5.74,6.31,7.11,,,0.722,,4.73,1,moderate
+SYN-003337,38,male,hip,construction,Nagaland,hi,0,7.49,2.08,1.9,2.23,3.25,2.51,0.98,0.779,4.0,2.05,0,none
+SYN-002062,49,female,knee,other,Nagaland,en,0,6.22,7.8,9.39,7.82,10.0,8.28,4.05,0.916,27.0,5.26,1,high
+SYN-008427,62,female,hand,other,Assam,as,0,3.62,4.38,6.34,4.01,7.03,4.25,2.48,0.289,10.0,3.6,0,moderate
+SYN-000103,57,female,knee,other,Assam,as,0,8.17,3.37,1.77,1.18,4.11,3.59,1.55,0.433,8.0,0.0,0,none
+SYN-006145,35,female,knee,office,Nagaland,hi,1,5.95,10.0,10.0,10.0,10.0,7.59,4.97,0.444,22.0,4.74,1,high
+SYN-002015,43,female,knee,other,Meghalaya,en,0,6.83,1.46,4.28,4.08,5.77,4.77,0.23,0.363,0.0,0.26,0,mild
+SYN-004380,69,male,hip,household,Manipur,en,0,4.59,2.97,4.85,7.11,7.47,6.63,,0.84,10.0,1.66,1,moderate
+SYN-011425,33,female,hand,transport,Assam,en,0,8.01,3.53,7.84,6.38,8.89,6.88,3.58,0.673,7.0,3.31,1,high
+SYN-007900,63,female,hip,construction,Arunachal Pradesh,hi,1,1.99,10.0,10.0,10.0,10.0,7.74,7.04,0.528,26.0,6.98,1,high
+SYN-005712,58,female,knee,farmer,Arunachal Pradesh,bn,0,4.18,0.0,0.19,0.01,0.0,0.7,0.0,0.553,7.0,0.0,0,none
+SYN-005709,48,female,other,farmer,Arunachal Pradesh,en,0,1.8,6.43,7.91,7.03,10.0,9.98,3.31,0.571,14.0,4.64,1,high
+SYN-010882,38,male,knee,other,Meghalaya,hi,0,2.87,3.08,5.84,2.77,7.46,5.38,2.85,0.644,8.0,0.63,0,mild
+SYN-000798,60,male,hand,other,Arunachal Pradesh,hi,0,9.62,7.63,10.0,10.0,10.0,7.46,5.88,0.378,25.0,5.44,1,high
+SYN-009686,29,female,hip,farmer,Meghalaya,bn,1,7.15,9.81,10.0,10.0,10.0,,4.71,1.0,14.0,7.04,1,high
+SYN-008690,56,female,hip,office,Meghalaya,as,0,1.39,5.85,7.73,7.0,10.0,8.34,4.92,0.754,,4.42,1,high
+SYN-004874,52,female,knee,transport,Tripura,as,0,6.98,5.05,6.05,4.49,7.83,3.73,3.17,0.648,25.0,2.9,0,moderate
+SYN-010900,21,male,other,transport,Assam,hi,0,1.35,3.83,6.57,5.39,6.71,5.47,4.18,0.52,6.0,3.7,0,moderate
+SYN-002122,47,male,hip,other,Meghalaya,en,0,4.46,0.0,1.52,0.0,0.0,1.48,0.39,0.737,6.0,,0,none
+SYN-009103,60,male,knee,other,Nagaland,as,0,9.25,6.77,7.74,9.84,10.0,9.64,5.71,0.342,16.0,5.58,1,high
+SYN-007598,45,female,knee,office,Assam,as,0,3.79,3.83,1.58,5.41,6.58,5.82,2.26,0.629,6.0,3.58,0,mild
+SYN-004010,58,male,knee,farmer,Mizoram,as,0,3.39,4.58,3.79,4.94,7.58,5.76,1.22,0.782,14.0,2.65,0,moderate
+SYN-005491,52,male,knee,farmer,Assam,en,0,3.87,7.93,7.51,10.0,10.0,8.27,4.16,0.812,29.0,4.5,1,high
+SYN-006238,50,male,other,other,Nagaland,as,0,4.66,4.14,3.69,3.89,6.38,3.11,1.97,0.563,13.0,2.67,0,mild
+SYN-009081,78,female,knee,farmer,Assam,hi,0,6.45,7.95,10.0,9.05,10.0,8.26,5.98,0.564,20.0,4.33,1,high
+SYN-002225,60,female,knee,other,Tripura,hi,0,7.21,4.63,5.79,5.71,7.47,5.37,2.83,0.405,8.0,,1,moderate
+SYN-002119,54,male,knee,office,Manipur,as,0,5.38,8.04,10.0,9.32,10.0,8.62,5.45,0.493,12.0,6.72,1,high
+SYN-002543,54,female,knee,office,Sikkim,hi,0,3.58,6.19,6.15,4.73,8.43,4.6,1.86,0.395,11.0,3.81,0,moderate
+SYN-005531,23,female,knee,construction,Nagaland,as,0,4.75,4.71,4.2,4.84,6.81,4.47,3.23,0.52,0.0,1.83,0,moderate
+SYN-011825,43,female,knee,office,Sikkim,hi,0,4.36,10.0,10.0,6.91,10.0,6.81,6.71,0.448,18.0,4.52,1,high
+SYN-008613,50,male,knee,other,Arunachal Pradesh,en,0,3.7,5.47,5.02,6.95,10.0,7.68,,0.551,8.0,3.84,1,high
+SYN-006456,43,female,knee,office,Tripura,as,0,6.35,2.62,2.08,4.31,6.44,,3.99,0.582,2.0,2.72,0,mild
+SYN-002922,69,female,hand,transport,Assam,en,0,5.96,1.17,1.52,1.55,1.95,2.21,0.0,0.626,14.0,0.0,0,none
+SYN-001471,49,female,other,farmer,Arunachal Pradesh,as,1,4.87,6.98,6.09,5.85,8.07,6.83,2.8,0.611,24.0,3.92,1,high
+SYN-001958,77,male,knee,transport,Sikkim,en,0,1.67,5.91,7.45,5.52,9.24,6.03,3.28,0.411,16.0,3.6,0,high
+SYN-002598,37,female,knee,office,Manipur,hi,0,3.27,0.51,1.31,1.14,2.01,,1.77,0.326,1.0,0.0,0,none
+SYN-007628,42,female,knee,farmer,Nagaland,hi,0,3.56,2.49,1.45,3.13,4.71,3.32,2.99,0.548,2.0,2.84,0,mild
+SYN-005329,63,female,hip,other,Assam,hi,1,7.23,6.12,7.64,6.97,10.0,6.49,4.4,0.781,23.0,5.11,1,high
+SYN-002490,55,female,hip,construction,Sikkim,as,1,3.28,4.69,4.62,4.78,7.47,,3.18,0.32,14.0,2.81,0,moderate
+SYN-008262,44,female,hand,other,Meghalaya,bn,0,4.88,3.88,3.39,4.29,6.25,,0.27,0.527,2.0,2.45,0,mild
+SYN-002799,55,female,knee,transport,Sikkim,bn,0,3.36,4.42,4.91,4.18,7.08,7.09,1.28,0.618,15.0,0.0,0,moderate
+SYN-002610,55,female,hip,farmer,Arunachal Pradesh,as,1,4.59,3.1,4.07,2.1,3.94,3.42,1.88,0.766,17.0,0.4,0,mild
+SYN-005020,38,female,other,office,Assam,as,0,4.12,5.84,7.01,7.42,9.91,7.93,5.57,0.509,3.0,5.08,1,high
+SYN-005366,68,female,knee,construction,Mizoram,bn,1,6.0,10.0,10.0,10.0,10.0,9.7,5.34,0.502,26.0,8.03,1,high
+SYN-004016,45,male,knee,office,Sikkim,hi,1,6.79,3.74,4.67,4.71,6.38,3.56,3.33,0.845,17.0,3.89,0,mild
+SYN-009726,55,female,hand,transport,Tripura,en,0,2.66,7.33,9.4,9.23,10.0,6.93,5.47,0.642,15.0,4.55,1,high
+SYN-006680,66,male,knee,farmer,Tripura,en,0,3.26,3.79,7.03,5.27,7.29,,2.13,0.797,13.0,3.45,0,moderate
+SYN-005267,62,male,hand,construction,Nagaland,hi,0,7.48,10.0,10.0,10.0,10.0,9.62,6.24,0.713,23.0,7.16,1,high
+SYN-003038,44,female,knee,farmer,Assam,as,0,3.31,2.36,4.64,3.21,4.5,3.12,2.18,0.686,7.0,1.45,0,mild
+SYN-000064,40,male,knee,farmer,Meghalaya,as,0,0.32,0.0,0.85,0.0,0.0,0.48,1.39,0.542,9.0,0.0,0,none
+SYN-000183,28,male,knee,construction,Tripura,en,0,4.65,9.61,10.0,10.0,10.0,8.84,5.55,0.908,15.0,6.92,1,high
+SYN-005972,25,male,knee,office,Mizoram,hi,0,5.17,2.77,3.42,2.49,3.76,2.2,2.07,0.633,9.0,0.0,0,mild
+SYN-010304,61,male,knee,household,Arunachal Pradesh,hi,0,2.0,7.3,7.62,7.21,10.0,7.43,2.99,0.511,27.0,3.19,1,high
+SYN-011500,68,female,knee,household,Nagaland,as,1,4.39,10.0,10.0,10.0,10.0,8.95,,0.522,31.0,5.74,1,high
+SYN-001398,47,male,knee,household,Meghalaya,bn,0,4.53,4.52,4.8,1.94,3.88,2.43,2.95,0.618,17.0,1.92,0,mild
+SYN-006651,46,female,knee,construction,Arunachal Pradesh,en,0,5.03,2.81,2.46,3.43,5.78,4.43,1.19,0.631,6.0,1.37,0,mild
+SYN-001925,29,female,knee,farmer,Sikkim,as,0,7.71,1.04,3.24,2.88,5.28,2.47,1.32,0.595,6.0,0.4,0,mild
+SYN-011173,43,female,knee,household,Sikkim,en,0,6.44,3.82,4.62,3.5,6.17,4.66,1.57,0.805,9.0,0.6,0,mild
+SYN-004768,65,male,knee,office,Nagaland,hi,0,4.21,4.37,5.45,4.68,6.47,7.81,3.12,0.408,16.0,3.39,1,moderate
+SYN-002861,76,male,other,office,Manipur,bn,1,7.27,10.0,10.0,10.0,10.0,9.39,5.66,0.702,24.0,5.05,1,high
+SYN-006763,47,female,knee,farmer,Manipur,as,0,2.36,1.79,3.53,2.81,4.56,,3.61,0.185,6.0,2.33,0,mild
+SYN-009236,53,male,knee,farmer,Tripura,bn,0,4.64,7.51,5.58,4.8,9.04,5.42,3.5,0.215,16.0,3.3,0,moderate
+SYN-009716,56,female,hip,transport,Arunachal Pradesh,hi,0,2.25,5.84,5.07,3.9,8.59,5.03,5.2,0.572,9.0,2.84,0,moderate
+SYN-000650,54,female,hip,farmer,Meghalaya,as,0,2.7,5.28,8.31,5.79,9.19,6.02,4.12,0.384,12.0,4.13,0,high
+SYN-008244,76,female,hand,office,Sikkim,bn,0,2.28,3.56,6.16,3.88,7.33,3.7,2.62,0.492,12.0,0.67,0,moderate
+SYN-000394,65,male,knee,farmer,Sikkim,as,0,4.75,5.63,7.47,6.3,10.0,7.55,3.97,0.619,17.0,4.12,1,high
+SYN-001517,80,male,hand,construction,Mizoram,bn,0,2.28,7.38,9.12,9.13,10.0,8.22,,0.515,26.0,6.88,1,high
+SYN-004932,53,female,knee,office,Mizoram,as,0,4.0,0.0,0.38,1.35,1.85,0.94,0.97,0.697,0.0,0.0,0,none
+SYN-010716,63,female,knee,farmer,Assam,hi,0,4.89,4.07,6.34,5.33,8.51,6.14,2.66,0.351,12.0,3.86,1,moderate
+SYN-011020,62,male,other,office,Assam,hi,0,0.1,0.45,1.6,1.6,3.14,1.37,0.0,0.389,3.0,2.25,0,none
+SYN-011612,45,female,hand,farmer,Meghalaya,en,0,3.32,3.87,4.78,6.21,9.53,7.16,2.12,0.796,13.0,3.35,0,moderate
+SYN-007012,56,female,knee,farmer,Arunachal Pradesh,as,0,8.3,3.42,3.95,0.62,3.71,3.24,0.59,0.58,11.0,0.72,0,mild
+SYN-002333,51,female,hip,household,Mizoram,bn,0,6.98,0.67,3.21,2.89,3.71,3.82,1.66,0.563,4.0,1.12,0,mild
+SYN-005053,82,female,knee,office,Mizoram,en,0,4.93,6.78,5.2,6.36,8.83,7.38,1.79,0.526,21.0,4.05,1,high
+SYN-003324,88,male,hip,household,Manipur,bn,0,7.44,4.61,7.5,7.25,10.0,9.13,5.11,0.482,15.0,3.54,1,high
+SYN-004863,70,male,knee,farmer,Assam,hi,0,4.48,10.0,10.0,8.7,10.0,10.0,5.01,0.415,23.0,4.5,1,high
+SYN-010232,36,female,hand,construction,Manipur,hi,0,4.05,2.96,2.5,1.08,2.08,2.03,0.37,0.33,6.0,0.0,0,none
+SYN-010822,35,female,knee,farmer,Tripura,hi,0,5.26,7.55,9.55,9.3,10.0,9.13,5.89,0.439,14.0,6.37,1,high
+SYN-010351,60,female,hip,office,Tripura,as,0,3.55,7.95,5.96,9.01,10.0,8.62,5.35,0.223,15.0,4.39,1,high
+SYN-003942,59,female,knee,construction,Manipur,hi,1,6.44,8.07,9.64,7.72,10.0,8.68,,0.324,11.0,4.51,1,high
+SYN-011256,44,female,knee,transport,Tripura,bn,0,8.92,9.63,10.0,10.0,10.0,7.54,7.0,0.683,16.0,6.3,1,high
+SYN-008841,74,female,other,farmer,Manipur,hi,0,6.34,6.21,8.37,7.01,10.0,5.78,5.85,0.803,25.0,3.64,1,high
+SYN-011759,24,female,other,office,Meghalaya,bn,0,2.83,1.79,2.57,0.0,1.49,2.19,1.71,0.327,10.0,0.18,0,none
+SYN-008424,71,male,knee,other,Mizoram,as,0,3.98,9.5,10.0,9.03,10.0,5.94,4.57,0.586,24.0,5.19,1,high
+SYN-009591,41,female,knee,farmer,Meghalaya,bn,0,4.5,2.19,1.27,3.09,5.54,3.48,,0.658,7.0,2.85,0,mild
+SYN-008477,56,female,knee,farmer,Nagaland,bn,0,3.34,2.52,3.74,2.28,3.62,3.44,3.25,0.788,6.0,1.09,0,mild
+SYN-002990,48,male,knee,office,Sikkim,as,0,7.06,6.05,9.0,8.01,10.0,8.42,5.49,0.708,,3.78,1,high
+SYN-003759,76,male,knee,farmer,Assam,hi,1,2.62,3.31,4.48,5.5,7.68,6.25,1.91,0.699,13.0,3.51,0,moderate
+SYN-009444,34,male,knee,construction,Meghalaya,hi,0,4.05,1.9,1.23,2.18,5.01,3.04,0.72,,11.0,0.43,0,none
+SYN-005340,67,female,knee,household,Meghalaya,en,0,6.79,10.0,10.0,10.0,10.0,9.18,4.52,0.522,26.0,5.57,1,high
+SYN-002615,66,female,hip,household,Nagaland,en,1,7.84,9.73,10.0,10.0,10.0,8.63,,,29.0,5.99,1,high
+SYN-000114,37,female,hand,other,Sikkim,hi,0,2.45,0.0,0.0,0.0,0.61,0.0,1.17,0.688,0.0,1.33,0,none
+SYN-003891,37,female,knee,office,Arunachal Pradesh,as,0,2.52,1.86,0.0,1.5,1.51,1.54,2.67,0.688,0.0,1.19,0,none
+SYN-008261,57,female,knee,transport,Meghalaya,en,0,2.51,8.49,10.0,6.99,10.0,7.68,6.01,0.525,24.0,4.93,1,high
+SYN-009228,43,male,knee,construction,Manipur,en,0,5.11,5.99,6.25,6.06,9.22,7.47,1.96,0.718,6.0,5.0,0,high
+SYN-007948,42,male,knee,transport,Meghalaya,as,0,5.92,0.0,0.27,3.05,3.95,1.22,1.06,0.618,0.0,1.03,0,none
+SYN-003625,22,male,hand,office,Mizoram,en,0,4.07,4.8,3.13,5.0,8.42,3.74,1.5,0.52,11.0,1.6,0,moderate
+SYN-008012,32,female,hand,construction,Manipur,en,0,7.53,8.35,10.0,10.0,10.0,8.31,4.03,0.623,14.0,5.44,1,high
+SYN-006972,33,male,other,farmer,Assam,en,0,4.98,0.0,0.0,0.38,0.53,1.24,0.46,0.66,3.0,0.22,0,none
+SYN-007903,48,male,hip,household,Sikkim,hi,0,5.55,4.47,7.64,5.85,10.0,6.39,3.44,0.474,17.0,5.46,1,high
+SYN-011692,54,female,knee,other,Manipur,as,0,4.24,7.06,5.85,9.36,10.0,7.57,4.6,0.302,12.0,5.0,1,high
+SYN-000304,39,female,hand,office,Arunachal Pradesh,hi,0,1.14,0.0,1.96,0.23,0.0,1.2,2.49,0.211,0.0,0.65,0,none
+SYN-007349,26,male,knee,household,Sikkim,en,0,6.33,0.88,0.0,0.27,0.95,0.52,0.0,,2.0,2.96,0,none
+SYN-009577,60,female,knee,farmer,Nagaland,bn,0,4.17,1.5,0.65,0.0,0.0,0.0,0.34,0.59,9.0,0.89,0,none
+SYN-000055,45,female,other,office,Manipur,hi,0,2.29,2.73,3.17,4.69,7.08,6.92,2.41,0.475,0.0,1.21,0,mild
+SYN-010384,73,female,knee,other,Mizoram,bn,0,3.95,9.18,7.85,7.23,10.0,8.0,3.91,0.417,24.0,4.12,1,high
+SYN-002836,70,male,other,office,Assam,bn,0,2.99,3.5,7.22,7.24,10.0,8.73,2.67,0.521,14.0,3.45,1,high
+SYN-010878,76,female,knee,transport,Arunachal Pradesh,en,0,7.9,6.91,9.34,10.0,10.0,8.12,5.22,0.91,19.0,6.22,1,high
+SYN-008823,59,male,knee,household,Assam,as,0,4.48,5.03,3.66,5.02,8.02,7.14,2.4,0.477,15.0,2.01,0,moderate
+SYN-006575,73,male,hip,farmer,Tripura,bn,0,5.26,10.0,10.0,10.0,10.0,,6.1,0.316,26.0,6.03,1,high
+SYN-010451,24,female,knee,transport,Sikkim,en,0,3.21,1.64,1.9,2.41,4.15,2.89,1.67,0.872,6.0,2.21,0,none
+SYN-004958,18,female,hip,other,Manipur,en,0,7.62,5.81,6.1,5.63,9.16,7.16,4.6,0.684,5.0,3.14,0,high
+SYN-008706,57,male,knee,household,Assam,hi,1,6.32,6.34,7.33,4.5,8.37,6.57,2.07,0.579,12.0,,1,moderate
+SYN-001755,60,female,knee,farmer,Tripura,hi,0,0.74,2.0,5.09,3.46,6.53,3.3,2.73,0.498,10.0,1.6,0,mild
+SYN-003141,63,male,knee,household,Arunachal Pradesh,en,1,3.51,6.83,6.15,7.16,10.0,7.69,5.12,0.608,16.0,3.26,1,high
+SYN-007936,30,male,knee,office,Sikkim,bn,1,5.56,3.5,5.8,6.96,9.19,7.57,3.71,0.526,7.0,3.31,0,moderate
+SYN-000230,82,female,hand,household,Nagaland,hi,0,4.02,10.0,10.0,10.0,10.0,9.77,4.63,0.377,23.0,4.82,1,high
+SYN-001057,76,male,knee,farmer,Manipur,as,0,5.36,5.05,4.87,4.49,5.32,3.5,0.97,0.575,16.0,4.43,0,mild
+SYN-009046,45,female,knee,farmer,Manipur,hi,0,3.64,3.44,5.66,2.63,4.16,4.56,1.67,0.355,10.0,1.65,0,mild
+SYN-008358,48,female,hip,transport,Manipur,as,0,2.66,0.43,1.22,2.2,0.58,0.66,0.33,0.479,9.0,2.38,0,none
+SYN-006583,42,female,knee,other,Assam,bn,0,5.54,6.82,10.0,8.73,10.0,5.09,4.63,0.518,10.0,4.37,1,high
+SYN-009974,66,female,hand,other,Nagaland,hi,0,6.03,1.65,1.28,5.35,6.91,6.41,2.51,0.305,5.0,1.59,0,mild
+SYN-008585,32,female,other,office,Tripura,hi,0,1.88,1.89,2.69,1.12,2.14,0.1,2.15,0.729,0.0,1.7,0,none
+SYN-008260,50,female,knee,other,Mizoram,en,0,2.51,6.35,8.29,8.78,10.0,7.9,5.49,0.711,15.0,,1,high
+SYN-005372,26,male,other,other,Mizoram,en,0,7.7,4.65,6.52,6.16,9.22,6.48,3.7,0.472,11.0,2.86,0,moderate
+SYN-008019,29,male,hand,household,Meghalaya,en,0,10.0,5.14,8.28,9.62,10.0,10.0,5.73,0.656,11.0,4.93,1,high
+SYN-008579,24,female,knee,office,Mizoram,bn,0,9.6,6.85,8.5,9.68,10.0,7.01,3.58,0.502,14.0,7.41,1,high
+SYN-004458,62,male,knee,office,Sikkim,as,0,7.84,5.66,7.18,7.94,10.0,6.97,5.03,0.173,14.0,3.74,1,high
+SYN-005361,63,female,knee,farmer,Arunachal Pradesh,as,0,1.42,0.0,0.0,0.0,2.9,2.22,0.0,0.54,4.0,,0,none
+SYN-007693,78,male,knee,transport,Meghalaya,as,1,7.18,10.0,10.0,10.0,10.0,9.68,4.76,0.605,27.0,6.96,1,high
+SYN-010165,46,female,knee,household,Meghalaya,hi,0,7.2,1.74,2.11,0.83,1.28,0.59,0.42,0.559,10.0,1.81,0,none
+SYN-010826,32,male,hand,farmer,Manipur,as,0,2.61,1.27,3.01,0.0,2.32,1.49,1.64,0.533,10.0,1.2,0,none
+SYN-011406,61,male,hand,transport,Assam,en,0,3.94,4.63,5.53,6.78,10.0,9.48,2.19,0.914,16.0,4.07,1,high
+SYN-002526,42,male,knee,farmer,Nagaland,bn,0,3.15,8.05,10.0,9.55,10.0,9.28,4.43,0.312,16.0,4.8,1,high
+SYN-002417,73,male,hip,farmer,Nagaland,as,0,7.62,6.04,9.91,7.48,10.0,7.85,7.04,0.767,16.0,4.46,1,high
+SYN-008797,26,male,knee,construction,Mizoram,as,0,0.07,3.02,4.49,4.31,4.96,3.35,2.47,0.424,6.0,2.54,0,mild
+SYN-010981,67,female,other,other,Mizoram,hi,0,7.51,10.0,10.0,10.0,10.0,9.61,4.44,0.464,25.0,4.74,1,high
+SYN-005241,52,female,knee,household,Mizoram,en,0,3.7,3.54,5.58,5.55,7.98,5.09,3.03,0.781,5.0,1.39,0,moderate
+SYN-006480,43,male,hip,other,Arunachal Pradesh,as,0,2.97,1.22,0.8,0.0,0.0,1.35,0.69,0.442,4.0,0.92,0,none
+SYN-006736,18,female,knee,household,Mizoram,bn,0,4.87,2.73,2.32,1.4,1.67,1.57,2.75,0.494,11.0,2.08,0,none
+SYN-001361,59,male,knee,farmer,Nagaland,en,0,5.82,10.0,10.0,10.0,10.0,9.23,5.21,0.654,16.0,3.65,1,high
+SYN-000038,41,male,other,construction,Arunachal Pradesh,hi,0,5.15,1.83,0.33,0.0,0.37,1.01,0.0,0.579,5.0,0.0,0,none
+SYN-005959,58,male,hip,other,Assam,as,0,5.95,6.1,4.43,4.72,8.49,7.17,1.84,0.393,16.0,2.18,0,moderate
+SYN-000792,46,male,knee,other,Meghalaya,as,0,7.1,6.28,7.76,6.09,10.0,7.5,4.95,0.715,18.0,3.77,1,high
+SYN-010913,56,male,knee,office,Tripura,en,0,8.44,4.77,6.19,5.32,8.94,6.5,2.14,0.693,11.0,2.57,0,moderate
+SYN-001489,34,female,hand,other,Meghalaya,bn,0,5.38,4.5,1.58,3.15,7.09,3.79,2.15,0.776,6.0,2.57,0,mild
+SYN-007040,45,male,knee,household,Meghalaya,hi,0,5.22,6.18,8.61,7.23,10.0,,6.04,0.577,16.0,2.48,1,high
+SYN-006747,29,male,knee,household,Mizoram,as,0,4.5,1.59,1.17,3.0,3.58,4.69,1.57,0.733,9.0,0.15,0,none
+SYN-010593,40,female,knee,office,Mizoram,as,0,6.51,7.51,7.81,5.1,10.0,5.51,2.22,0.608,16.0,3.75,0,high
+SYN-009026,53,male,hip,other,Manipur,en,0,6.62,2.47,1.84,0.75,3.01,,1.8,0.553,18.0,1.32,0,none
+SYN-008333,47,male,knee,transport,Assam,hi,0,9.54,7.53,8.68,6.44,10.0,6.75,5.26,0.267,10.0,5.26,1,high
+SYN-004080,52,male,knee,construction,Arunachal Pradesh,bn,0,3.79,3.4,3.42,3.35,7.3,5.02,,0.639,11.0,2.17,0,mild
+SYN-002240,73,female,other,other,Arunachal Pradesh,en,0,3.47,7.35,7.43,7.15,10.0,8.8,3.3,0.508,21.0,5.88,1,high
+SYN-003521,19,male,knee,office,Sikkim,as,0,1.25,3.2,2.45,2.48,2.28,2.31,2.44,0.435,7.0,0.91,0,mild
+SYN-007165,22,female,knee,other,Meghalaya,hi,0,7.0,5.56,3.63,6.87,10.0,7.37,3.28,0.501,11.0,4.38,0,moderate
+SYN-005619,78,male,knee,farmer,Nagaland,en,0,6.19,10.0,10.0,10.0,10.0,9.13,5.84,0.37,28.0,7.16,1,high
+SYN-004671,79,female,hip,household,Assam,hi,0,7.61,6.23,9.15,6.85,10.0,,4.67,0.214,34.0,4.81,1,high
+SYN-010590,78,male,knee,construction,Arunachal Pradesh,as,0,1.94,7.4,9.62,9.09,10.0,8.33,4.78,0.389,19.0,4.23,1,high
+SYN-010352,78,female,knee,farmer,Meghalaya,en,1,9.36,10.0,10.0,10.0,10.0,8.83,4.55,0.713,25.0,6.25,1,high
+SYN-005890,78,female,knee,farmer,Sikkim,bn,1,7.02,10.0,10.0,10.0,10.0,7.03,4.89,0.467,29.0,6.88,1,high
+SYN-007007,37,male,knee,other,Tripura,hi,0,1.71,6.23,6.48,5.63,9.89,7.0,1.51,0.591,12.0,3.86,1,high
+SYN-008177,24,female,other,other,Assam,hi,0,4.32,0.0,0.0,0.0,1.27,0.0,0.76,0.428,3.0,,0,none
+SYN-006341,70,male,hip,office,Mizoram,en,1,4.92,10.0,8.76,8.87,10.0,8.61,6.69,0.871,,5.5,1,high
+SYN-008273,65,female,knee,farmer,Manipur,bn,1,8.7,9.23,10.0,10.0,10.0,8.49,7.31,0.569,35.0,5.99,1,high
+SYN-008039,48,male,knee,office,Assam,en,0,5.53,5.02,8.17,6.9,9.43,8.25,5.28,0.634,16.0,4.13,0,high
+SYN-002287,43,male,knee,household,Sikkim,as,0,3.3,0.0,0.0,0.0,1.17,1.09,0.25,0.572,3.0,1.12,0,none
+SYN-002460,19,female,knee,household,Manipur,as,0,7.98,8.64,10.0,10.0,10.0,9.94,5.42,0.8,17.0,4.87,1,high
+SYN-007781,60,male,hand,farmer,Tripura,hi,1,4.29,6.63,5.07,7.48,10.0,7.0,3.64,0.434,11.0,3.62,1,high
+SYN-009765,57,male,knee,farmer,Arunachal Pradesh,hi,0,4.28,4.15,3.64,5.03,6.66,5.86,2.95,0.877,11.0,0.76,0,moderate
+SYN-010806,34,male,knee,farmer,Assam,en,0,4.58,0.0,1.71,3.67,4.96,3.74,1.02,0.362,0.0,2.99,0,none
+SYN-001308,26,female,hand,farmer,Tripura,as,0,4.29,6.58,7.58,8.58,10.0,8.71,2.41,0.488,8.0,4.05,0,high
+SYN-009147,56,female,other,construction,Sikkim,as,0,8.45,6.92,8.47,8.29,10.0,8.93,4.92,0.504,21.0,2.87,1,high
+SYN-001596,54,female,knee,farmer,Assam,bn,0,7.79,10.0,7.84,10.0,10.0,9.71,5.98,0.418,27.0,4.58,1,high
+SYN-006917,55,female,hand,other,Meghalaya,as,0,6.76,8.1,8.33,9.65,10.0,6.69,6.69,0.639,16.0,2.25,1,high
+SYN-000082,54,female,knee,transport,Nagaland,bn,0,2.37,0.09,1.64,0.82,0.0,1.33,1.4,0.668,,1.04,0,none
+SYN-001323,57,female,knee,other,Sikkim,bn,0,5.59,0.0,0.11,0.1,1.99,1.51,0.0,0.434,6.0,0.0,0,none
+SYN-011076,79,male,knee,household,Arunachal Pradesh,bn,0,1.64,7.46,8.05,8.63,10.0,9.8,4.73,0.342,22.0,6.16,1,high
+SYN-008525,50,male,hip,construction,Nagaland,as,1,4.46,3.54,4.69,1.75,1.05,1.46,1.96,0.376,3.0,1.58,0,mild
+SYN-009172,30,male,hand,office,Manipur,en,0,4.79,3.03,2.02,1.2,1.66,2.14,0.0,,5.0,2.05,0,none
+SYN-009418,59,male,hip,office,Tripura,hi,0,6.69,3.08,2.37,5.32,5.68,5.92,4.65,0.49,4.0,0.55,0,mild
+SYN-011798,47,male,other,office,Meghalaya,as,0,2.42,0.48,2.72,0.03,0.94,0.0,0.07,0.485,0.0,,0,none
+SYN-006066,40,female,hip,farmer,Mizoram,hi,0,4.76,7.25,8.95,9.85,10.0,8.04,5.42,0.649,19.0,5.58,1,high
+SYN-003059,86,female,hand,household,Mizoram,en,0,1.14,10.0,9.8,10.0,10.0,9.27,5.8,0.613,31.0,7.57,1,high
+SYN-000495,50,female,other,other,Arunachal Pradesh,as,1,7.18,10.0,10.0,10.0,10.0,8.99,5.56,0.66,25.0,6.54,1,high
+SYN-006855,44,female,knee,transport,Tripura,hi,0,1.74,0.0,1.15,0.0,0.0,2.14,0.89,0.388,0.0,0.58,0,none
+SYN-009123,59,female,hip,office,Tripura,bn,0,8.24,5.26,7.5,10.0,10.0,8.46,4.96,0.704,12.0,,1,high
+SYN-005788,47,female,knee,household,Meghalaya,hi,0,1.46,2.42,2.25,2.07,3.91,2.11,1.85,0.825,10.0,0.44,0,none
+SYN-005971,50,female,knee,office,Nagaland,hi,0,1.95,1.37,4.31,2.02,4.29,2.72,0.25,0.51,7.0,0.89,0,mild
+SYN-004543,54,male,knee,household,Manipur,hi,0,2.96,1.09,2.95,1.89,0.92,1.98,1.95,0.587,7.0,1.3,0,none
+SYN-008686,37,male,hand,household,Nagaland,as,0,4.33,0.0,0.0,0.63,2.7,,2.72,0.603,7.0,0.0,0,none
+SYN-006150,61,female,knee,farmer,Sikkim,hi,0,1.9,4.24,4.59,7.59,10.0,8.34,2.9,0.412,13.0,5.45,1,high
+SYN-005262,68,male,knee,construction,Nagaland,hi,0,8.82,7.49,4.06,7.81,10.0,7.43,5.22,0.712,22.0,5.05,1,high
+SYN-001266,52,male,other,office,Assam,en,0,5.76,9.94,8.31,9.78,10.0,8.45,4.19,0.503,25.0,5.81,1,high
+SYN-005546,53,female,knee,transport,Manipur,en,0,3.58,7.66,8.28,8.49,10.0,7.49,5.24,0.919,16.0,5.04,1,high
+SYN-010380,58,female,knee,transport,Sikkim,as,1,8.91,10.0,10.0,10.0,10.0,10.0,5.08,0.727,21.0,6.37,1,high
+SYN-004880,38,female,hip,construction,Manipur,bn,0,6.55,3.78,5.66,6.04,8.61,5.63,4.14,0.589,4.0,2.29,0,moderate
+SYN-002654,31,male,knee,transport,Arunachal Pradesh,as,1,3.49,0.68,0.34,2.01,0.47,1.02,1.87,0.551,3.0,0.68,0,none
+SYN-011223,36,female,hip,household,Sikkim,en,0,2.74,0.0,0.0,0.0,1.1,0.33,0.24,0.72,4.0,1.55,0,none
+SYN-008329,58,male,knee,construction,Meghalaya,as,1,3.95,10.0,10.0,10.0,10.0,8.32,6.57,0.541,27.0,8.19,1,high
+SYN-006027,44,male,knee,household,Arunachal Pradesh,as,0,4.95,1.71,0.0,1.08,1.99,1.42,0.0,0.473,3.0,1.62,0,none
+SYN-004462,51,male,knee,farmer,Manipur,bn,0,7.52,5.71,8.06,7.95,10.0,7.72,6.7,0.39,21.0,3.93,1,high
+SYN-007292,45,female,knee,household,Meghalaya,as,0,7.21,8.43,8.77,10.0,10.0,9.42,4.3,0.488,7.0,4.67,1,high
+SYN-000905,55,female,hip,farmer,Mizoram,hi,0,3.06,1.06,4.0,1.43,0.58,1.1,1.28,0.283,5.0,1.54,0,none
+SYN-009696,76,female,knee,transport,Sikkim,en,0,8.42,9.62,10.0,10.0,10.0,6.82,5.27,0.457,27.0,4.71,1,high
+SYN-009811,48,female,knee,office,Nagaland,hi,0,6.43,3.74,3.28,3.77,5.72,1.94,,0.301,4.0,1.62,0,mild
+SYN-004690,25,male,knee,other,Nagaland,en,0,2.63,2.5,3.38,3.24,5.61,3.8,2.92,0.668,0.0,1.93,0,mild
+SYN-002322,48,male,knee,farmer,Manipur,en,0,5.81,2.94,3.83,3.88,5.33,3.61,2.15,0.547,7.0,3.31,0,mild
+SYN-011698,58,female,knee,farmer,Tripura,bn,0,3.74,2.72,4.38,3.55,5.24,4.38,1.78,0.619,11.0,2.11,0,mild
+SYN-011879,18,female,hip,other,Tripura,en,0,4.76,0.0,0.71,0.04,0.0,0.0,1.39,0.682,1.0,0.0,0,none
+SYN-003298,77,male,knee,construction,Arunachal Pradesh,en,1,1.28,10.0,10.0,10.0,10.0,9.86,3.95,0.848,33.0,5.49,1,high
+SYN-008337,24,female,hand,farmer,Mizoram,en,0,7.94,4.12,2.84,2.46,5.4,2.62,2.18,0.892,11.0,1.48,0,mild
+SYN-005470,38,male,knee,construction,Arunachal Pradesh,en,0,4.3,3.85,0.23,1.71,3.35,1.49,0.0,0.855,10.0,2.37,0,none
+SYN-011513,55,male,knee,farmer,Arunachal Pradesh,en,0,2.1,0.0,0.07,0.0,0.0,0.0,0.09,0.728,0.0,0.44,0,none
+SYN-005024,31,female,knee,office,Sikkim,bn,0,3.73,2.23,3.7,1.93,0.48,0.24,2.92,,2.0,0.0,0,none
+SYN-011360,52,male,other,other,Arunachal Pradesh,en,0,3.82,0.0,1.46,0.0,1.56,0.03,0.0,0.588,0.0,0.0,0,none
+SYN-002750,62,male,hand,office,Assam,bn,1,2.42,10.0,10.0,10.0,10.0,,5.03,0.497,30.0,5.53,1,high
+SYN-004493,54,male,knee,household,Sikkim,en,1,2.45,10.0,10.0,10.0,10.0,9.18,5.86,0.68,25.0,5.14,1,high
+SYN-000423,29,female,hip,household,Mizoram,en,0,6.77,3.22,3.92,5.47,7.07,6.71,2.79,0.774,8.0,,0,moderate
+SYN-007516,74,male,other,construction,Sikkim,as,0,4.6,7.63,10.0,7.27,10.0,7.43,5.66,0.375,21.0,2.29,1,high
+SYN-010814,29,female,knee,household,Meghalaya,hi,0,5.1,8.06,9.64,6.33,10.0,6.38,4.46,0.483,15.0,4.29,1,high
+SYN-004625,47,male,knee,construction,Arunachal Pradesh,bn,0,7.1,4.89,6.99,4.83,6.46,4.89,5.28,0.683,12.0,1.35,0,moderate
+SYN-002223,36,female,hand,office,Meghalaya,en,0,4.38,5.57,6.35,6.51,9.36,5.8,1.73,0.672,3.0,3.39,0,moderate
+SYN-004084,34,male,knee,office,Tripura,hi,0,4.27,0.0,0.88,3.16,1.96,1.3,0.44,0.589,0.0,0.14,0,none
+SYN-004425,61,female,knee,farmer,Assam,as,0,3.75,6.05,8.67,5.41,9.84,,2.92,0.563,14.0,4.25,0,high
+SYN-001450,36,female,knee,farmer,Tripura,hi,0,5.85,2.03,0.93,1.83,3.06,2.49,0.94,0.608,0.0,1.72,0,none
+SYN-008554,19,female,hip,household,Nagaland,en,0,2.84,1.64,5.7,3.52,4.42,3.52,4.64,,8.0,1.18,0,mild
+SYN-011758,48,female,hand,farmer,Meghalaya,bn,0,4.81,6.33,8.47,8.69,10.0,8.09,5.65,0.707,11.0,4.76,1,high
+SYN-006817,62,female,other,construction,Sikkim,bn,0,6.38,5.16,8.06,5.92,10.0,7.9,5.55,0.606,20.0,3.89,1,high
+SYN-011088,41,female,knee,household,Sikkim,as,0,4.08,2.38,3.5,1.62,4.25,1.88,0.0,0.775,10.0,1.26,0,none
+SYN-011713,67,female,hand,other,Assam,bn,0,4.74,2.31,2.11,2.16,6.26,4.79,1.23,,13.0,1.0,0,mild
+SYN-008242,44,male,knee,farmer,Tripura,as,0,4.44,4.78,4.09,3.29,4.95,4.06,3.45,0.672,12.0,1.56,0,mild
+SYN-002014,54,female,knee,other,Arunachal Pradesh,en,0,4.68,2.99,4.41,3.92,4.88,5.24,2.06,0.638,7.0,1.4,0,mild
+SYN-007720,47,female,knee,household,Assam,bn,0,6.2,5.14,3.87,2.46,6.57,1.68,2.79,0.293,8.0,1.56,0,mild
+SYN-004174,44,male,knee,office,Manipur,hi,0,5.62,4.96,7.15,6.4,8.87,8.23,5.98,0.415,9.0,4.21,1,high
+SYN-008743,62,female,hip,household,Manipur,hi,0,4.51,9.94,10.0,8.93,10.0,8.59,4.56,0.644,27.0,4.97,1,high
+SYN-005507,54,male,hand,farmer,Nagaland,as,0,5.71,10.0,10.0,10.0,10.0,,5.09,0.187,26.0,5.82,1,high
+SYN-009362,85,female,knee,office,Assam,bn,0,10.0,10.0,10.0,10.0,10.0,8.6,5.91,0.793,28.0,7.3,1,high
+SYN-010467,78,female,knee,farmer,Manipur,en,0,1.2,9.85,10.0,10.0,10.0,9.08,5.74,0.652,24.0,4.89,1,high
+SYN-001282,62,male,knee,other,Manipur,bn,0,4.96,8.81,10.0,8.06,10.0,10.0,5.19,0.39,17.0,4.67,1,high
+SYN-010297,58,female,knee,household,Sikkim,en,0,3.35,4.66,5.11,6.44,10.0,8.03,4.03,0.647,9.0,2.71,0,high
+SYN-004552,23,female,knee,office,Manipur,en,0,5.58,2.89,1.21,3.57,4.54,3.94,2.16,0.58,6.0,2.42,0,mild
+SYN-011084,60,male,knee,farmer,Tripura,as,1,3.24,8.51,9.33,9.19,10.0,7.76,3.71,0.768,22.0,5.76,1,high
+SYN-010009,55,female,knee,office,Sikkim,as,1,7.15,10.0,10.0,10.0,10.0,9.69,6.87,0.682,20.0,4.71,1,high
+SYN-005517,71,female,hip,transport,Tripura,as,0,6.49,3.98,6.99,5.06,6.22,5.19,4.11,0.544,13.0,4.39,0,moderate
+SYN-011585,45,male,knee,farmer,Mizoram,en,0,5.77,0.0,2.68,0.72,0.0,0.17,0.46,0.887,3.0,0.55,0,none
+SYN-003982,51,male,knee,household,Arunachal Pradesh,hi,0,6.78,4.34,5.83,5.02,6.93,6.81,2.06,0.612,16.0,4.06,0,moderate
+SYN-009518,53,female,knee,farmer,Arunachal Pradesh,hi,0,6.36,0.0,0.0,0.0,0.0,0.0,0.44,0.286,3.0,0.0,0,none
+SYN-003531,45,female,knee,other,Arunachal Pradesh,en,0,3.28,6.85,5.68,6.87,10.0,5.72,4.53,0.808,12.0,5.38,0,high
+SYN-002664,78,female,knee,household,Mizoram,en,0,7.02,6.77,7.59,8.52,10.0,6.74,5.18,0.572,24.0,5.05,1,high
+SYN-002249,62,female,hand,farmer,Manipur,en,0,8.77,9.07,8.61,10.0,10.0,8.86,3.89,0.709,23.0,6.47,1,high
+SYN-008042,25,female,knee,farmer,Assam,as,0,4.25,0.0,0.0,0.0,0.66,2.04,0.31,0.815,0.0,0.26,0,none
+SYN-008916,71,female,hip,transport,Sikkim,as,0,6.14,8.88,8.14,8.9,10.0,7.28,5.5,0.658,26.0,5.43,1,high
+SYN-009101,55,male,knee,transport,Manipur,hi,0,1.54,6.96,7.52,8.05,10.0,9.75,6.52,,24.0,4.62,1,high
+SYN-010224,42,female,knee,farmer,Arunachal Pradesh,hi,0,7.83,0.0,0.0,0.66,1.08,2.09,1.25,0.646,2.0,1.4,0,none
+SYN-000332,29,male,knee,farmer,Arunachal Pradesh,hi,0,7.09,5.15,5.38,4.56,7.32,5.13,3.02,0.72,4.0,,0,moderate
+SYN-001686,53,male,knee,farmer,Meghalaya,as,1,8.36,10.0,10.0,10.0,10.0,7.36,4.79,0.479,25.0,5.02,1,high
+SYN-005403,38,female,knee,other,Manipur,bn,0,5.41,6.58,6.85,7.52,9.2,7.57,4.82,0.418,19.0,4.35,1,high
+SYN-009819,50,female,hip,farmer,Meghalaya,en,0,6.08,1.69,3.41,3.56,3.92,4.78,2.88,0.682,0.0,1.02,0,mild
+SYN-008837,36,male,other,household,Assam,as,0,3.52,0.0,0.0,1.56,2.25,2.44,0.08,0.611,0.0,0.0,0,none
+SYN-006116,59,female,hip,office,Sikkim,en,0,4.31,8.34,9.06,10.0,10.0,8.33,7.92,,20.0,5.86,1,high
+SYN-007478,36,female,hand,farmer,Meghalaya,as,0,3.05,0.0,0.0,0.0,0.16,1.04,0.39,0.398,0.0,0.0,0,none
+SYN-008538,57,female,knee,farmer,Arunachal Pradesh,en,0,4.47,0.0,0.0,0.0,1.08,0.0,2.74,0.649,8.0,0.0,0,none
+SYN-007214,75,female,knee,office,Sikkim,as,1,2.91,7.88,9.84,8.15,10.0,7.41,,0.431,21.0,4.82,1,high
